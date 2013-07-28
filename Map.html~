@@ -1,0 +1,16 @@
+<html>
+<head>
+</head>
+<body>
+  <header>
+  <h1>Market Map</h1>
+  </header>
+
+  <section id="PARADOX"></section>
+  <section id="ORDINARY"></section>
+  <section id="CROWDED"></section>
+  <section id="UNRAVELING"></section>
+  <section id="TRUST"></section>
+
+</body>
+</html>

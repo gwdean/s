@@ -1,0 +1,43 @@
+// JavaScript adapted from 2011-Haverbeke.(124-128)
+
+Object.prototype.create = function() {
+
+// Stuff.
+// Things.
+
+};
+
+Object.prototype.extend = function(properties) {
+
+// Stuff.
+// Things.
+
+};
+
+var Item = {
+    construct: function(name)
+    inspect:   function()
+    kick:      function()
+    take:      function()
+    }
+};
+
+"Disciplines offer rules of the games that yield
+coordination in tasks in an otherwise messy world."
+
+"Our prototypical discipline is the INTERFACE
+discipline, since that has been analyzed in depth
+over the past three decades."
+
+Interface Discipline
+    - Valuation Order:  Quality
+    - Process:          Commit
+
+Council Discipline
+    - Valuation Order:  Prestige
+    - Process:          Mediate
+
+Arena Discipline
+    - Valuation Order:  Purity
+    - Process:          Select    
+ 

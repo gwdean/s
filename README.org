@@ -1,0 +1,8 @@
+* s/
+This directory contains notes on Mathematical Sociology.
+** Burt-1992
+** Kontopoulos-1993
+** Watts-2011
+** White-2008
+
+
