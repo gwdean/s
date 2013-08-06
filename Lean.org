@@ -1,7 +1,4 @@
 * Lean
-Place:    Pizza
-Drama:    Boss.Worker
-
 ** Why Lean?
 *** DOTWIMPP: The Eight Deadly Wastes
 **** Defects

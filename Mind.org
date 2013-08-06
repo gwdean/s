@@ -1,0 +1,82 @@
+* Mind.org
+Notes on the Intensional Theory of Mind presented by Helier Robinson in his 
+work /Relation Philosophy of Mathematics, Science, and Mind/.
+
+** Concepts
+*** Atomic Idea
+*** The Mind Hekergy Principle
+*** Need
+*** Principle of LALRU
+*** Noumenal Mind
+*** Irrational
+*** Rational
+*** Agent
+*** Map
+*** Bond
+*** Noumenal Sensation (Mid-Sensation)
+*** Mid-Object
+*** Mid-World
+*** Mid-Memory
+*** Mid-Body
+*** Ego-Memories
+*** Ego
+*** Empirical Sensation
+*** Empirical Object
+*** Empirical World
+*** Awareness/Consciousness
+*** Attitude
+*** Selfishness
+*** Attention
+*** Absolute Values
+*** Empirical Values
+*** Feelings
+*** Thoughts
+*** Goal
+*** Pleasure
+*** Pain
+*** Desire 
+*** Aversion
+*** Empirical Memory
+*** Concrete Quality
+*** Concrete Idea
+*** Abstract Idea
+*** Imagination
+*** Thought
+*** Proposition
+*** Belief
+*** Prejudice 
+*** Classification
+*** Recognition
+*** Motor-Idea
+*** Action-Point
+*** Action
+*** Word
+*** Concrete Meaning
+*** Proper Name
+*** Concrete Name
+*** Concept
+*** Grammar
+*** Sentence
+*** Pure Thought
+*** Ordinary Thought
+*** Calculation
+*** Discrimination
+*** Patch Mapping
+*** Boundary Mapping
+*** Scale Mapping
+*** Material
+*** Mental
+*** Vanity
+*** Rationalisation
+* Leibniz-Russell
+Source: http://en.wikipedia.org/wiki/User:Helier_Robinson/Leibniz-Russell_theory_of_perception
+
+    Although logically simple this theory is psychologically difficult because of its anti-common-sensical nature; but this difficulty is worth enduring because of the solutions the theory provides to all known philosophical problems of perception.
+    The theory arises from the contention that all that we perceive around us is not reality (as common sense demands) but images of reality. Because common sense is being impugned it is worth considering some arguments for each side of this question.
+    People generally agree that perception is a process of information transfer from real objects to images thereof, inside the brain of the perceiver. Common sense has it that the real objects are outside the perceiver's head, public, and material, while the images are inside the perceiver's head, private, and mental. Since what we perceive is external, public, and material, common sense considers all of it to be real.
+    Against this view are three arguments. The first is that the data that arrives in the perceiver's consciousness takes the form of sensations: tactile sensations (rough, smooth, hard, soft, hot, cold, etc.), colors in various shapes, sounds, tastes, and smells. Since every object that we perceive in the world around us is a structure of sensations, and the whole perceived world is a structure of such objects, the world that we each perceive must be inside our heads, private and mental.
+    Second is the argument that no perceived object is wholly free of illusion, so no perceived object is real, since no illusion is real. (Can you point to any object that is wholly free of illusion? And if you think you can, can you say how you know it to be so?)
+    Third is the argument that everyone's perceived world differs qualitatively from everyone else's because of viewpoint and perceptual idiosyncracies; and each of these worlds differs qualititatively from the real world because of illusion; and since qualitative difference entails quantitative difference there must be as many perceived worlds as there are percievers, and none of these perceived worlds are the real world. (The proof that qualitative difference entails quantitative difference is simple: whatever A and B may be, if they differ qualitatively then there is some quality, Q, that A has and B does not have (or vice versa); if A nd B are one then one thing is at once Q and not-Q, which is impossible --- so A and B are two.)
+    The resolution of these two conflicting positions --- the Leibniz-Russell theory --- comes about with the observation that one's own body is a perceived object, composed of sensations, and thus an image of one's own real body. So the perceiver has two heads: a real head and an image head. The real head is made of animate cells and the image head is made of sensations. Outside the real head is the rest of the real world, the local part of which is imaged into the real brain as structures of sensations, all of which are outside the image head and all of which appear to be material and public. This publicity is publicity by similarity, as the contents of one television program, on different sets, are public by similarity --- as opposed to the publicity by identity that is assumed in common sense.
+    Although it is not necessary to attend to this theory in daily living, any more than one attends to the speed at which the Earth is going round the Sun, the theory is very important in philosophy. Not only does it solve problems of perception, such as how illusions such as the railroad lines meeting in the distance are outside our heads, public, and material; but it is also valuable in philosophy of science. One of the problems of philosophy of science is the question of why there are two kinds of science, empirical and theoretical; and why empirical science deals with perceptible things and theoretical science with strictly imperceptible things. ('Theoretical' means 'non-empirical'.) Empirical science tries to describe the public features of empirical (image) worlds while theorteical science tries to describe the real world. Since in the process of perception real objects cause images of themselves in empirical worlds; and since to describe causes is to explain their effects, it follows that theoretical science explains what empirical science describes. This theory also is able to explain how theories can predict empirical novelties, as Maxwell's equations predicted radio.
+     The best treatment of the theory in Russell's works is in Part 3 of Human Knowledge, Allen and Unwin, London, 1948. Russell attributed the theory to Leibniz, where it can be found in his Monadology, included in Loemker, Gottfried Wilhelm Leibniz, Philosophical Papers and Letters, Chicago Univ. Press, 1956. However Leibniz, who feared public opprobium, did not draw attention to the theory, nor to its power.
