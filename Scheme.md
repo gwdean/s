@@ -40,12 +40,91 @@ and Jack Wisdom's *Functional Differential Geometry*.
 	(define (compose f g)
 	  (lambda (x)
 	    (f (g x))))
-	
+
+    (define ((compose f g) x)
+	  (f (g x)))
+	    
 ## Conditionals
+
+    (define (abs x)
+	  (cond ((< x 0) (- x))
+		    ((= x 0) x)
+			((> x 0) x)))
+			
+	(cond ( /predicate-1 consequent-1/)
+		  ...
+		  ( /predicate-n consequent-n/))
+	
+	(define (abs x)
+	  (if (< x 0)
+		  (- x)
+		  x))
+	
+	(if /predicate/ /consequent/ /alternative/)
+
 ## Recursive Procedures
+    
+	(define (factorial n)
+	  (if (= n 0)
+		  1
+		  (* n (factorial (- n 1)))))
+	
+	(factorial 6) ;=> 720
+	
+	(factorial 40) ;=> 8159...(very long)...000
+
 ## Local Names
+
+    (define (factorial n)
+      (let factlp ((count 1) (answer 1))
+	    (if (> count n)
+			answer
+			(factlp (+ count 1) (+ count answer)))))
+			
+	(factorial 6) ;=> 720
+	
 ## Compound Data -- Lists and Vectors
+
+    (define a-list (list 6 946 8 356 12 620))
+	
+	a-list ;=> (6 946 8 356 12 620)
+	
+	(list-ref a-list 3) ;=> 356
+	
+	(list-ref a-list 0) ;=> 6
+	
+	(car a-list) ;=> 6
+	
+	(cdr a-list) ;=> (946 8 356 12 620)
+	
+	(car (cdr a-list)) ;=> 946
+	
+	(define another-list
+	  (cons 32 (cdr a-list)))
+	
+	another-list ;=> (32 946 8 356 12 620)
+	
+	(car (cdr another-list)) ;=> 946
+	
+	(define a-vector
+	  (vector 37 63 49 21 88 56))
+	
+	a-vector ;=> #(37 63 49 21 88 56)
+	
+	(vector-ref a-vector 3) ;=> 21
+	
+	(vector-ref a-vector 0) ;=> 37
+	
 ## Symbols
+
+    (define (sum? expression)
+	  (and (pair? expression)
+		   (eq? (car expression) '+)))
+	
+	(sum? '(+ 3 a)) ;=> #t
+	
+	(sum? '(* 3 a)) ;=> #f
+	
 ## Links to Markdown Sources
 
 Thus, "Markdown" is two things: (1) a plain text formatting syntax;

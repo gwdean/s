@@ -1,0 +1,12 @@
+* Functional Notation in Scheme
+Adapted from Wisdom-Sussman-2012.(Appendix-B)
+
+** Overview
+** Functions
+** Symbolic Values
+** Tuples
+** Derivatives
+** Derivatives of Functions of Multiple Arguments
+** Structured Results
+** Chain Rule
+** Computing Derivatives
