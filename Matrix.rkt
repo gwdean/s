@@ -1,4 +1,5 @@
 #lang racket
+
 ; Matrix and Vector Multiplication
 ; Adapted from R.Kent Dybvig's "The Scheme Programming Language" (MIT,2009)
 
@@ -75,7 +76,23 @@
 ; mat-mat-mul multiplies one matrix by another, after verifying
 ; that the first matrix has as many columns as the second
 ; matrix has rows.
-
+(define mat-mat-mul
+  (lambda (m1 m2)
+    (let* ([nr1 (matrix-rows m1)]
+           [nr2 (matrix-rows m2)]
+           [nc2 (matrix-columns m2)]
+           [r (make-matrix nr1 nc2)])
+      (unless (= (matrix-columns m1) nr2) (match-error m1 m2))
+      (do ([i 0 (+ i 1)])
+          ((= i nr1) r)
+        (do ([j 0 (+ j 1)])
+            ((= j nc2))
+          (do ([k 0 (+ k 1)]
+               [a 0 (+ a
+                       (* (matrix-ref m1 i k)
+                          (matrix-ref m2 k j)))])
+            ((= k nr2)
+             (matrix-set! r i j a))))))))
 
 ; type-error is called to complain when mul receives an invalid
 ; type of argument

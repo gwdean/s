@@ -1,0 +1,30 @@
+** Document Structure
+*** Blocks
+#+BEGIN_EXAMPLE
+> #+STARTUP: hideblocks
+> #+STARTUP: nohideblocks
+#+END_EXAMPLE
+*** Footnotes
+The Org homepage[fn:1] now looks a lot better than it used to.
+...
+[fn:1] The link is: http://orgmode.org
+
+Valid footnote references:
+#+BEGIN_EXAMPLE
+[1] A plain numeric footnote marker...
+[fn:name] A named footnote reference...
+[fn:: This is the inline definition of this footnote]
+[fn:name: a definition] 
+#+END_EXAMPLE
+
+** Tables
+*** The bulit-in table editor
+| Name  | Phone | Age |
+|-------+-------+-----|
+| Peter |  1234 |  17 |
+| Anna  |  4321 |  25 |
+
+You can create basic tables quickly like:
+
+=|Name|Phone|Age|=
+

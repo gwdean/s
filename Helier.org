@@ -4,8 +4,41 @@ Commentary on Helier Robinson's /Perennial Philosophy/ series.
 ** Belief Shock (2002-2006)
 *** False Belief
 *** Identity and Change
-*** Five Realties
+(q 10)
+#+BEGIN_QUOTE
+The personal belief that we each have that each of us
+is one person, changing with time, is false. Either
+you are one person through time, in which case you
+do not change; or else you are not one person through
+time, because each time you change you are another,
+new, numerically distinct, person. (quote 10)
+#+END_QUOTE
+**** Heraclitus and Parmenides
+Heraclitus -> "Nothing is permanent except change"
+Parmenides -> "All change is illusion"
+
+**** Plato's Theory of Forms
+Two worlds
+- Empirical World (Illusory and fleeting) 
+- Real World      (Unchanging and eternal)
+
+**** Criticism of Democritus
+**** Fallacy of Composition
+**** Distributive and Compositional Properties
+*** Five Realities
+Five meanings of the word /REAL/.
+**** Philosophers' Reality
+Real is anything that exists independently of being perceived
+**** Empirical Reality
+All that we perceive around us that is potentially universally public
+**** Reality as Truth
+Likewise, the unreal is false
+**** Real as Genuine
+Helier is not concerned with this
+**** Real as in Real Estate
+Helier is not concerned with this
 *** Naive Realism
+/Naive Realism/ is the belief that the empirically real is theoretically real.
 *** Metarealism
 *** Some Sophistries
 *** A Dilemma and Two Nutshells
