@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+lang="en" xml:lang="en">
+<head>
+<title>Mind</title>
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2013-08-29 19:47:16 EDT"/>
+<meta name="author" content="Greg"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+
+<h1 class="title">Mind</h1>
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Intensional Theory of Mind </a>
+<ul>
+<li><a href="#sec-1.1">1.1 Model of the Noumenal Mind </a></li>
+<li><a href="#sec-1.2">1.2 Concepts </a>
+<ul>
+<li><a href="#sec-1.2.1">1.2.1 Atomic Idea </a></li>
+<li><a href="#sec-1.2.2">1.2.2 The Mind Hekergy Principle </a></li>
+<li><a href="#sec-1.2.3">1.2.3 Need </a></li>
+<li><a href="#sec-1.2.4">1.2.4 Principle of LALRU </a></li>
+<li><a href="#sec-1.2.5">1.2.5 Noumenal Mind </a></li>
+<li><a href="#sec-1.2.6">1.2.6 Irrational </a></li>
+<li><a href="#sec-1.2.7">1.2.7 Rational </a></li>
+<li><a href="#sec-1.2.8">1.2.8 Agent </a></li>
+<li><a href="#sec-1.2.9">1.2.9 Map </a></li>
+<li><a href="#sec-1.2.10">1.2.10 Bond </a></li>
+<li><a href="#sec-1.2.11">1.2.11 Noumenal Sensation (Mid-Sensation) </a></li>
+<li><a href="#sec-1.2.12">1.2.12 Mid-Object </a></li>
+<li><a href="#sec-1.2.13">1.2.13 Mid-World </a></li>
+<li><a href="#sec-1.2.14">1.2.14 Mid-Memory </a></li>
+<li><a href="#sec-1.2.15">1.2.15 Mid-Body </a></li>
+<li><a href="#sec-1.2.16">1.2.16 Ego-Memories </a></li>
+<li><a href="#sec-1.2.17">1.2.17 Ego </a></li>
+<li><a href="#sec-1.2.18">1.2.18 Empirical Sensation </a></li>
+<li><a href="#sec-1.2.19">1.2.19 Empirical Object </a></li>
+<li><a href="#sec-1.2.20">1.2.20 Empirical World </a></li>
+<li><a href="#sec-1.2.21">1.2.21 Awareness/Consciousness </a></li>
+<li><a href="#sec-1.2.22">1.2.22 Attitude </a></li>
+<li><a href="#sec-1.2.23">1.2.23 Selfishness </a></li>
+<li><a href="#sec-1.2.24">1.2.24 Attention </a></li>
+<li><a href="#sec-1.2.25">1.2.25 Absolute Values </a></li>
+<li><a href="#sec-1.2.26">1.2.26 Empirical Values </a></li>
+<li><a href="#sec-1.2.27">1.2.27 Feelings </a></li>
+<li><a href="#sec-1.2.28">1.2.28 Thoughts </a></li>
+<li><a href="#sec-1.2.29">1.2.29 Goal </a></li>
+<li><a href="#sec-1.2.30">1.2.30 Pleasure </a></li>
+<li><a href="#sec-1.2.31">1.2.31 Pain </a></li>
+<li><a href="#sec-1.2.32">1.2.32 Desire </a></li>
+<li><a href="#sec-1.2.33">1.2.33 Aversion </a></li>
+<li><a href="#sec-1.2.34">1.2.34 Empirical Memory </a></li>
+<li><a href="#sec-1.2.35">1.2.35 Concrete Quality </a></li>
+<li><a href="#sec-1.2.36">1.2.36 Concrete Idea </a></li>
+<li><a href="#sec-1.2.37">1.2.37 Abstract Idea </a></li>
+<li><a href="#sec-1.2.38">1.2.38 Imagination </a></li>
+<li><a href="#sec-1.2.39">1.2.39 Thought </a></li>
+<li><a href="#sec-1.2.40">1.2.40 Proposition </a></li>
+<li><a href="#sec-1.2.41">1.2.41 Belief </a></li>
+<li><a href="#sec-1.2.42">1.2.42 Prejudice </a></li>
+<li><a href="#sec-1.2.43">1.2.43 Classification </a></li>
+<li><a href="#sec-1.2.44">1.2.44 Recognition </a></li>
+<li><a href="#sec-1.2.45">1.2.45 Motor-Idea </a></li>
+<li><a href="#sec-1.2.46">1.2.46 Action-Point </a></li>
+<li><a href="#sec-1.2.47">1.2.47 Action </a></li>
+<li><a href="#sec-1.2.48">1.2.48 Word </a></li>
+<li><a href="#sec-1.2.49">1.2.49 Concrete Meaning </a></li>
+<li><a href="#sec-1.2.50">1.2.50 Proper Name </a></li>
+<li><a href="#sec-1.2.51">1.2.51 Concrete Name </a></li>
+<li><a href="#sec-1.2.52">1.2.52 Concept </a></li>
+<li><a href="#sec-1.2.53">1.2.53 Grammar </a></li>
+<li><a href="#sec-1.2.54">1.2.54 Sentence </a></li>
+<li><a href="#sec-1.2.55">1.2.55 Pure Thought </a></li>
+<li><a href="#sec-1.2.56">1.2.56 Ordinary Thought </a></li>
+<li><a href="#sec-1.2.57">1.2.57 Calculation </a></li>
+<li><a href="#sec-1.2.58">1.2.58 Discrimination </a></li>
+<li><a href="#sec-1.2.59">1.2.59 Patch Mapping </a></li>
+<li><a href="#sec-1.2.60">1.2.60 Boundary Mapping </a></li>
+<li><a href="#sec-1.2.61">1.2.61 Scale Mapping </a></li>
+<li><a href="#sec-1.2.62">1.2.62 Material </a></li>
+<li><a href="#sec-1.2.63">1.2.63 Mental </a></li>
+<li><a href="#sec-1.2.64">1.2.64 Vanity </a></li>
+<li><a href="#sec-1.2.65">1.2.65 Rationalisation </a></li>
+</ul></li>
+</ul>
+</li>
+<li><a href="#sec-2">2 Leibniz-Russell </a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Intensional Theory of Mind </h2>
+<div class="outline-text-2" id="text-1">
+
+<p>Notes on the Intensional Theory of Mind presented by Helier Robinson in his 
+work <i>Relation Philosophy of Mathematics, Science, and Mind</i>.
+</p>
+<p>
+The works consists of four chapters
+</p><ul>
+<li>
+Mind
+</li>
+<li>
+The Oge
+</li>
+<li>
+Gods
+</li>
+<li>
+Rational Mind
+
+</li>
+</ul>
+
+<p>There are three agents in the <b>noumenal mind</b>
+</p><ul>
+<li>
+Ego (page 148)
+</li>
+<li>
+Oge (page 161)
+</li>
+<li>
+Psychohelios (page 185)
+
+</li>
+</ul>
+
+<p>Three ambiguities (page 185)
+</p><ul>
+<li>
+Psy &lt;-&gt; Noumenal World (Ambiguity of Reality)
+</li>
+<li>
+Ego &lt;-&gt; Empirical Body (Ambiguity of Self)
+</li>
+<li>
+Oge &lt;-&gt; Empirical Society (Ambiguity of Society)
+
+</li>
+</ul>
+
+</div>
+
+<div id="outline-container-1.1" class="outline-3">
+<h3 id="sec-1.1"><span class="section-number-3">1.1</span> Model of the Noumenal Mind </h3>
+<div class="outline-text-3" id="text-1.1">
+
+
+<p>
+1- An <b>atomic idea</b> is a neural switching (0/1) in a noumenal brain.
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-1.2" class="outline-3">
+<h3 id="sec-1.2"><span class="section-number-3">1.2</span> Concepts </h3>
+<div class="outline-text-3" id="text-1.2">
+
+
+</div>
+
+<div id="outline-container-1.2.1" class="outline-4">
+<h4 id="sec-1.2.1"><span class="section-number-4">1.2.1</span> Atomic Idea </h4>
+<div class="outline-text-4" id="text-1.2.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.2" class="outline-4">
+<h4 id="sec-1.2.2"><span class="section-number-4">1.2.2</span> The Mind Hekergy Principle </h4>
+<div class="outline-text-4" id="text-1.2.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.3" class="outline-4">
+<h4 id="sec-1.2.3"><span class="section-number-4">1.2.3</span> Need </h4>
+<div class="outline-text-4" id="text-1.2.3">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.4" class="outline-4">
+<h4 id="sec-1.2.4"><span class="section-number-4">1.2.4</span> Principle of LALRU </h4>
+<div class="outline-text-4" id="text-1.2.4">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.5" class="outline-4">
+<h4 id="sec-1.2.5"><span class="section-number-4">1.2.5</span> Noumenal Mind </h4>
+<div class="outline-text-4" id="text-1.2.5">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.6" class="outline-4">
+<h4 id="sec-1.2.6"><span class="section-number-4">1.2.6</span> Irrational </h4>
+<div class="outline-text-4" id="text-1.2.6">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.7" class="outline-4">
+<h4 id="sec-1.2.7"><span class="section-number-4">1.2.7</span> Rational </h4>
+<div class="outline-text-4" id="text-1.2.7">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.8" class="outline-4">
+<h4 id="sec-1.2.8"><span class="section-number-4">1.2.8</span> Agent </h4>
+<div class="outline-text-4" id="text-1.2.8">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.9" class="outline-4">
+<h4 id="sec-1.2.9"><span class="section-number-4">1.2.9</span> Map </h4>
+<div class="outline-text-4" id="text-1.2.9">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.10" class="outline-4">
+<h4 id="sec-1.2.10"><span class="section-number-4">1.2.10</span> Bond </h4>
+<div class="outline-text-4" id="text-1.2.10">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.11" class="outline-4">
+<h4 id="sec-1.2.11"><span class="section-number-4">1.2.11</span> Noumenal Sensation (Mid-Sensation) </h4>
+<div class="outline-text-4" id="text-1.2.11">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.12" class="outline-4">
+<h4 id="sec-1.2.12"><span class="section-number-4">1.2.12</span> Mid-Object </h4>
+<div class="outline-text-4" id="text-1.2.12">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.13" class="outline-4">
+<h4 id="sec-1.2.13"><span class="section-number-4">1.2.13</span> Mid-World </h4>
+<div class="outline-text-4" id="text-1.2.13">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.14" class="outline-4">
+<h4 id="sec-1.2.14"><span class="section-number-4">1.2.14</span> Mid-Memory </h4>
+<div class="outline-text-4" id="text-1.2.14">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.15" class="outline-4">
+<h4 id="sec-1.2.15"><span class="section-number-4">1.2.15</span> Mid-Body </h4>
+<div class="outline-text-4" id="text-1.2.15">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.16" class="outline-4">
+<h4 id="sec-1.2.16"><span class="section-number-4">1.2.16</span> Ego-Memories </h4>
+<div class="outline-text-4" id="text-1.2.16">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.17" class="outline-4">
+<h4 id="sec-1.2.17"><span class="section-number-4">1.2.17</span> Ego </h4>
+<div class="outline-text-4" id="text-1.2.17">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.18" class="outline-4">
+<h4 id="sec-1.2.18"><span class="section-number-4">1.2.18</span> Empirical Sensation </h4>
+<div class="outline-text-4" id="text-1.2.18">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.19" class="outline-4">
+<h4 id="sec-1.2.19"><span class="section-number-4">1.2.19</span> Empirical Object </h4>
+<div class="outline-text-4" id="text-1.2.19">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.20" class="outline-4">
+<h4 id="sec-1.2.20"><span class="section-number-4">1.2.20</span> Empirical World </h4>
+<div class="outline-text-4" id="text-1.2.20">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.21" class="outline-4">
+<h4 id="sec-1.2.21"><span class="section-number-4">1.2.21</span> Awareness/Consciousness </h4>
+<div class="outline-text-4" id="text-1.2.21">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.22" class="outline-4">
+<h4 id="sec-1.2.22"><span class="section-number-4">1.2.22</span> Attitude </h4>
+<div class="outline-text-4" id="text-1.2.22">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.23" class="outline-4">
+<h4 id="sec-1.2.23"><span class="section-number-4">1.2.23</span> Selfishness </h4>
+<div class="outline-text-4" id="text-1.2.23">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.24" class="outline-4">
+<h4 id="sec-1.2.24"><span class="section-number-4">1.2.24</span> Attention </h4>
+<div class="outline-text-4" id="text-1.2.24">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.25" class="outline-4">
+<h4 id="sec-1.2.25"><span class="section-number-4">1.2.25</span> Absolute Values </h4>
+<div class="outline-text-4" id="text-1.2.25">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.26" class="outline-4">
+<h4 id="sec-1.2.26"><span class="section-number-4">1.2.26</span> Empirical Values </h4>
+<div class="outline-text-4" id="text-1.2.26">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.27" class="outline-4">
+<h4 id="sec-1.2.27"><span class="section-number-4">1.2.27</span> Feelings </h4>
+<div class="outline-text-4" id="text-1.2.27">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.28" class="outline-4">
+<h4 id="sec-1.2.28"><span class="section-number-4">1.2.28</span> Thoughts </h4>
+<div class="outline-text-4" id="text-1.2.28">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.29" class="outline-4">
+<h4 id="sec-1.2.29"><span class="section-number-4">1.2.29</span> Goal </h4>
+<div class="outline-text-4" id="text-1.2.29">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.30" class="outline-4">
+<h4 id="sec-1.2.30"><span class="section-number-4">1.2.30</span> Pleasure </h4>
+<div class="outline-text-4" id="text-1.2.30">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.31" class="outline-4">
+<h4 id="sec-1.2.31"><span class="section-number-4">1.2.31</span> Pain </h4>
+<div class="outline-text-4" id="text-1.2.31">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.32" class="outline-4">
+<h4 id="sec-1.2.32"><span class="section-number-4">1.2.32</span> Desire </h4>
+<div class="outline-text-4" id="text-1.2.32">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.33" class="outline-4">
+<h4 id="sec-1.2.33"><span class="section-number-4">1.2.33</span> Aversion </h4>
+<div class="outline-text-4" id="text-1.2.33">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.34" class="outline-4">
+<h4 id="sec-1.2.34"><span class="section-number-4">1.2.34</span> Empirical Memory </h4>
+<div class="outline-text-4" id="text-1.2.34">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.35" class="outline-4">
+<h4 id="sec-1.2.35"><span class="section-number-4">1.2.35</span> Concrete Quality </h4>
+<div class="outline-text-4" id="text-1.2.35">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.36" class="outline-4">
+<h4 id="sec-1.2.36"><span class="section-number-4">1.2.36</span> Concrete Idea </h4>
+<div class="outline-text-4" id="text-1.2.36">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.37" class="outline-4">
+<h4 id="sec-1.2.37"><span class="section-number-4">1.2.37</span> Abstract Idea </h4>
+<div class="outline-text-4" id="text-1.2.37">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.38" class="outline-4">
+<h4 id="sec-1.2.38"><span class="section-number-4">1.2.38</span> Imagination </h4>
+<div class="outline-text-4" id="text-1.2.38">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.39" class="outline-4">
+<h4 id="sec-1.2.39"><span class="section-number-4">1.2.39</span> Thought </h4>
+<div class="outline-text-4" id="text-1.2.39">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.40" class="outline-4">
+<h4 id="sec-1.2.40"><span class="section-number-4">1.2.40</span> Proposition </h4>
+<div class="outline-text-4" id="text-1.2.40">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.41" class="outline-4">
+<h4 id="sec-1.2.41"><span class="section-number-4">1.2.41</span> Belief </h4>
+<div class="outline-text-4" id="text-1.2.41">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.42" class="outline-4">
+<h4 id="sec-1.2.42"><span class="section-number-4">1.2.42</span> Prejudice </h4>
+<div class="outline-text-4" id="text-1.2.42">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.43" class="outline-4">
+<h4 id="sec-1.2.43"><span class="section-number-4">1.2.43</span> Classification </h4>
+<div class="outline-text-4" id="text-1.2.43">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.44" class="outline-4">
+<h4 id="sec-1.2.44"><span class="section-number-4">1.2.44</span> Recognition </h4>
+<div class="outline-text-4" id="text-1.2.44">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.45" class="outline-4">
+<h4 id="sec-1.2.45"><span class="section-number-4">1.2.45</span> Motor-Idea </h4>
+<div class="outline-text-4" id="text-1.2.45">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.46" class="outline-4">
+<h4 id="sec-1.2.46"><span class="section-number-4">1.2.46</span> Action-Point </h4>
+<div class="outline-text-4" id="text-1.2.46">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.47" class="outline-4">
+<h4 id="sec-1.2.47"><span class="section-number-4">1.2.47</span> Action </h4>
+<div class="outline-text-4" id="text-1.2.47">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.48" class="outline-4">
+<h4 id="sec-1.2.48"><span class="section-number-4">1.2.48</span> Word </h4>
+<div class="outline-text-4" id="text-1.2.48">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.49" class="outline-4">
+<h4 id="sec-1.2.49"><span class="section-number-4">1.2.49</span> Concrete Meaning </h4>
+<div class="outline-text-4" id="text-1.2.49">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.50" class="outline-4">
+<h4 id="sec-1.2.50"><span class="section-number-4">1.2.50</span> Proper Name </h4>
+<div class="outline-text-4" id="text-1.2.50">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.51" class="outline-4">
+<h4 id="sec-1.2.51"><span class="section-number-4">1.2.51</span> Concrete Name </h4>
+<div class="outline-text-4" id="text-1.2.51">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.52" class="outline-4">
+<h4 id="sec-1.2.52"><span class="section-number-4">1.2.52</span> Concept </h4>
+<div class="outline-text-4" id="text-1.2.52">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.53" class="outline-4">
+<h4 id="sec-1.2.53"><span class="section-number-4">1.2.53</span> Grammar </h4>
+<div class="outline-text-4" id="text-1.2.53">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.54" class="outline-4">
+<h4 id="sec-1.2.54"><span class="section-number-4">1.2.54</span> Sentence </h4>
+<div class="outline-text-4" id="text-1.2.54">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.55" class="outline-4">
+<h4 id="sec-1.2.55"><span class="section-number-4">1.2.55</span> Pure Thought </h4>
+<div class="outline-text-4" id="text-1.2.55">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.56" class="outline-4">
+<h4 id="sec-1.2.56"><span class="section-number-4">1.2.56</span> Ordinary Thought </h4>
+<div class="outline-text-4" id="text-1.2.56">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.57" class="outline-4">
+<h4 id="sec-1.2.57"><span class="section-number-4">1.2.57</span> Calculation </h4>
+<div class="outline-text-4" id="text-1.2.57">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.58" class="outline-4">
+<h4 id="sec-1.2.58"><span class="section-number-4">1.2.58</span> Discrimination </h4>
+<div class="outline-text-4" id="text-1.2.58">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.59" class="outline-4">
+<h4 id="sec-1.2.59"><span class="section-number-4">1.2.59</span> Patch Mapping </h4>
+<div class="outline-text-4" id="text-1.2.59">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.60" class="outline-4">
+<h4 id="sec-1.2.60"><span class="section-number-4">1.2.60</span> Boundary Mapping </h4>
+<div class="outline-text-4" id="text-1.2.60">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.61" class="outline-4">
+<h4 id="sec-1.2.61"><span class="section-number-4">1.2.61</span> Scale Mapping </h4>
+<div class="outline-text-4" id="text-1.2.61">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.62" class="outline-4">
+<h4 id="sec-1.2.62"><span class="section-number-4">1.2.62</span> Material </h4>
+<div class="outline-text-4" id="text-1.2.62">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.63" class="outline-4">
+<h4 id="sec-1.2.63"><span class="section-number-4">1.2.63</span> Mental </h4>
+<div class="outline-text-4" id="text-1.2.63">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.64" class="outline-4">
+<h4 id="sec-1.2.64"><span class="section-number-4">1.2.64</span> Vanity </h4>
+<div class="outline-text-4" id="text-1.2.64">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2.65" class="outline-4">
+<h4 id="sec-1.2.65"><span class="section-number-4">1.2.65</span> Rationalisation </h4>
+<div class="outline-text-4" id="text-1.2.65">
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Leibniz-Russell </h2>
+<div class="outline-text-2" id="text-2">
+
+<p>Source: <a href="http://en.wikipedia.org/wiki/User:Helier_Robinson/Leibniz-Russell_theory_of_perception">http://en.wikipedia.org/wiki/User:Helier_Robinson/Leibniz-Russell_theory_of_perception</a>
+</p>
+<p>
+Although logically simple this theory is psychologically difficult because of its anti-common-sensical nature; but this difficulty is worth enduring because of the solutions the theory provides to all known philosophical problems of perception.
+The theory arises from the contention that all that we perceive around us is not reality (as common sense demands) but images of reality. Because common sense is being impugned it is worth considering some arguments for each side of this question.
+People generally agree that perception is a process of information transfer from real objects to images thereof, inside the brain of the perceiver. Common sense has it that the real objects are outside the perceiver's head, public, and material, while the images are inside the perceiver's head, private, and mental. Since what we perceive is external, public, and material, common sense considers all of it to be real.
+Against this view are three arguments. The first is that the data that arrives in the perceiver's consciousness takes the form of sensations: tactile sensations (rough, smooth, hard, soft, hot, cold, etc.), colors in various shapes, sounds, tastes, and smells. Since every object that we perceive in the world around us is a structure of sensations, and the whole perceived world is a structure of such objects, the world that we each perceive must be inside our heads, private and mental.
+Second is the argument that no perceived object is wholly free of illusion, so no perceived object is real, since no illusion is real. (Can you point to any object that is wholly free of illusion? And if you think you can, can you say how you know it to be so?)
+Third is the argument that everyone's perceived world differs qualitatively from everyone else's because of viewpoint and perceptual idiosyncracies; and each of these worlds differs qualititatively from the real world because of illusion; and since qualitative difference entails quantitative difference there must be as many perceived worlds as there are percievers, and none of these perceived worlds are the real world. (The proof that qualitative difference entails quantitative difference is simple: whatever A and B may be, if they differ qualitatively then there is some quality, Q, that A has and B does not have (or vice versa); if A nd B are one then one thing is at once Q and not-Q, which is impossible &mdash; so A and B are two.)
+The resolution of these two conflicting positions &mdash; the Leibniz-Russell theory &mdash; comes about with the observation that one's own body is a perceived object, composed of sensations, and thus an image of one's own real body. So the perceiver has two heads: a real head and an image head. The real head is made of animate cells and the image head is made of sensations. Outside the real head is the rest of the real world, the local part of which is imaged into the real brain as structures of sensations, all of which are outside the image head and all of which appear to be material and public. This publicity is publicity by similarity, as the contents of one television program, on different sets, are public by similarity &mdash; as opposed to the publicity by identity that is assumed in common sense.
+Although it is not necessary to attend to this theory in daily living, any more than one attends to the speed at which the Earth is going round the Sun, the theory is very important in philosophy. Not only does it solve problems of perception, such as how illusions such as the railroad lines meeting in the distance are outside our heads, public, and material; but it is also valuable in philosophy of science. One of the problems of philosophy of science is the question of why there are two kinds of science, empirical and theoretical; and why empirical science deals with perceptible things and theoretical science with strictly imperceptible things. ('Theoretical' means 'non-empirical'.) Empirical science tries to describe the public features of empirical (image) worlds while theorteical science tries to describe the real world. Since in the process of perception real objects cause images of themselves in empirical worlds; and since to describe causes is to explain their effects, it follows that theoretical science explains what empirical science describes. This theory also is able to explain how theories can predict empirical novelties, as Maxwell's equations predicted radio.
+The best treatment of the theory in Russell's works is in Part 3 of Human Knowledge, Allen and Unwin, London, 1948. Russell attributed the theory to Leibniz, where it can be found in his Monadology, included in Loemker, Gottfried Wilhelm Leibniz, Philosophical Papers and Letters, Chicago Univ. Press, 1956. However Leibniz, who feared public opprobium, did not draw attention to the theory, nor to its power.
+</p></div>
+</div>
+<div id="postamble">
+<p class="author"> Author: Greg
+<a href="mailto:greg@greg-Satellite-C855D">&lt;greg@greg-Satellite-C855D&gt;</a>
+</p>
+<p class="date"> Date: 2013-08-29 19:47:16 EDT</p>
+<p class="creator">HTML generated by org-mode 6.33x in emacs 23</p>
+</div>
+</div>
+</body>
+</html>

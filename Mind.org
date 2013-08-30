@@ -1,7 +1,213 @@
-* Mind.org
+#+TITLE:     Mind.org
+#+AUTHOR:    Greg
+#+EMAIL:     greg@greg-Satellite-C855D
+#+DATE:      2013-08-29 Thu
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+* Intensional Theory of Mind
 Notes on the Intensional Theory of Mind presented by Helier Robinson in his 
 work /Relation Philosophy of Mathematics, Science, and Mind/.
 
+The works consists of four chapters
+- Mind
+- The Oge
+- Gods
+- Rational Mind
+
+There are three agents in the *noumenal mind*
+- Ego (page 148)
+- Oge (page 161)
+- Psychohelios (page 185)
+
+Three ambiguities (page 185)
+- Psy <-> Noumenal World (Ambiguity of Reality)
+- Ego <-> Empirical Body (Ambiguity of Self)
+- Oge <-> Empirical Society (Ambiguity of Society)
+
+** Model of the Noumenal Mind
+An *atomic idea* is a neural switching (0/1) in a noumenal brain.
+
+Two principles:
+- *Mind hekergy principle*
+- *Like-attracts-like-and-repels-unlike* (LALRU)
+
+A *noumenal mind* is all the atomic ideas in a noumenal brain,
+plus all innate ideas, plus all data that are brought in by
+the noumenal afferent nerves, plus all that emerges cascadingly
+out of these.
+
+Two basic processes within a *noumenal mind*
+- *Mapping*
+- *Bonding*
+
+A *noumenal sensation* (or *mid-sensation*) is a level-two
+structure of atomic ideas, brought into the noumenal mind
+by noumenal perception.
+
+A *mid-object* is a level-three structure in a noumenal mind,
+a structure of noumenal sensations.
+
+A *mid-world* is a complete structure of mid-objects. 
+
+The *ego* is a structure of *ego-memories*, mutually
+attracted by LAL because of their common feature of
+a *mid-memory* of the *mid-body*.
+
+An *empirical sensation* is the LAL reaction in the ego
+to a mid-sensation; it is a poor image of a mid-sensation,
+mapped by LAL.
+
+An *empirical object* is the LAL reaction in the ego to a
+mid-object, hence it is an image of that mid-object.
+
+In short:
+- A mid-object is a structure of mid-sensations
+- An empirical object is a structure of empirical sensations
+
+An *empirical world* is a structure of empirical objects, an
+image of a mid-world; and thereby, transitively, of a portion
+the noumenal world.
+
+The *awareness* or *consciousness* of the ego is the
+presence of empirical objects within the ego; they are the objects
+of this consciousness.
+
+The ego is conscious, over time, of a series of transient empirical worlds.
+
+This consciousness is empirical perception.
+
+Any empirical world, empirically perceived at any one time by an ego,
+is entirely within the structure of the ego.
+
+Beyond the empirical blue sky are the outer limits of the ego.
+
+Beyond those outer limits is the inside surface of the ego's noumenal skull.
+
+The LAL forces that produce the consciousness of the ego
+depend upon the structure of the ego, and the hekergy of the 
+ideas within it, as well as upon the mid-objects that are 
+the immediate causes of the consciousness--in accordance
+with the LAL formula.
+
+The *attitude* of the ego is the effect of its permanent
+structure on its consciousness.
+
+*Selfishness* is the attitude of the ego that results from
+the mind hekergy principle.
+
+*Attention* is the ego's focussing of its consciousness.
+
+Attention focusses on three kinds of content of consciousness:
+- Sensations
+- Relations 
+- Hekergies
+
+*Absolute values* are noumenal values, actual hekergies
+
+*Empirical values* or *human values* are the ego's 
+consciousness of images of absolute values.
+
+Consciousness is usually dynamic: attention does not remain
+static for long.
+
+*Feelings* are the ego's dynamic attention to values,
+as opposed to *thoughts*, which are its dynamic attention
+to sensations and relations.
+
+A *goal* of the ego is any possibility of its own hekergy
+increase of which the ego is conscious.
+
+*Pleasure* is the ego's consciousness of hekergy increase
+and *pain* is its consciousness of hekergy decrease.
+
+An *empirical memory* is the ego's consciousness of a 
+mid-memory.
+
+A *concrete quality* is any empirical sensation.
+
+A *concrete idea* is an empirical memory of a concrete
+quality, or a structure thereof.
+
+A structure of concrete qualities is an empirical object.
+
+Concrete qualities are the smallest elements of empirical
+perception, as opposed to atomic ideas, which are the
+smallest elements of the noumenal world.
+
+Empirically, a sensation is a level-one structure, an
+object is a level-two structure and a world is a level-
+three structure.
+
+Empirical Sensation -> Level-One
+Empirical Object    -> Level-Two
+Empirical World     -> Level-Three
+
+An *abstract idea* is any intensional meaning in the 
+noumenal mind.
+
+The ego may manipulate ideas at its periphery by appropriate
+focussing of its consciousness. Its consciousness of these
+processes is either imagination or thought.
+
+*Imagination* is the ego's manipulation of, and consciousness of,
+concrete ideas.
+
+*Thought* is the ego's manipulation of, and consciousness
+of, abstract ideas.
+
+A *proposition* is a structure of abstract and/or concrete
+ideas.
+
+A *belief*, by the ego, is a proposition that is incorporated
+into the structure of the ego, by LAL.
+
+The ego consists of mid-memories and mid-beliefs, and also
+of innate ideas. This is quite plausible, in that, once it
+has speech, any ego might say existentially "I am what I
+have inherited, experienced, and done, and what I believe."
+
+A *prejudice* is a structure consisting of a belief and
+supporting evidence for that belief; by LAL the belief
+attracts evidence in favour of itself (that is, /like/
+itself) and repels evidence against itself (that is,
+/unlike/ itself).
+
+*Classification* is the process of collecting similar ideas
+into extensional sets, by LAL.
+
+*Recognition* results from the comparison of a present
+perception with a memory, such that the comparison yields
+similarity; the memory is attracted to the present perception
+by LAL and the recognition is consciousness of the similarity.
+
+A *motor-idea* is a mid-idea that may be sent down the
+efferent nervous system so as to produce a specific movement
+of muscles in the noumenal body.
+
+By analogy with computer theory, motor-ideas are instructions
+rather than data, yet consist of the same informational
+stuff: structures of atomic ideas.
+
+An *action-point* is the point in the noumenal mind,
+at which a motor-idea is delivered to a set of efferent
+nerves.
+
+Efferent or motor nerves, carry nerve impulses AWAY from the central nervous system
+
+Afferent or sensory nerves, carry nerve impulses TOWARDS the central nervous system
+
+*Action* by the ego is control of the noumenal body by means
+of motor-ideas. The movement of motor-ideas to their action
+points by the ego is the willing of that action by the ego.
 ** Concepts
 *** Atomic Idea
 *** The Mind Hekergy Principle
