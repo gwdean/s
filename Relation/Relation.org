@@ -1,0 +1,11 @@
+* Relation
+Notes on Helier Robinson's /Relation Philosophy/ (2011).
+
+** Relations as a Foundation for Mathematics
+file:Foundation.org
+** Intensional Philosophy of Mathematics
+file:PhilMath.org
+** Intensional Philosophy of Science
+file:PhilScience.org
+** Intensional Philosophy of Mind
+file:Mind.org

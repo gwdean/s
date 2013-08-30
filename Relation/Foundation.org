@@ -1,0 +1,7 @@
+* Relations as a Foundation for Mathematics
+** Primitive Concepts
+** Sets
+** Three Kinds of Mathematical Meaning
+** Mathematical Meaning
+** Foundations
+** Some Theorems
