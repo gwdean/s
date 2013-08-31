@@ -1,0 +1,20 @@
+A,B,C : relations
+
+a,b,c : terms of relations
+
+a->(c1|c2|..cN) : a possibility relation having 
+                  antecedent (a) and consequents (c1,c2..cN)
+
+A=>B  : A necessitates B
+
+A<=B  : B necessitates A
+
+A<=>B : A necessitates B and /vice versa/.
+
+sim   : similarity
+
+dis   : dissimilarity
+
+/A/,/B/,/C/, : sets
+
+/R/ : the term set of the relation R

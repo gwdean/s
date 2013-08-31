@@ -1,0 +1,67 @@
+* Glossary of Symbols
+
+A,B,C : relations
+
+a,b,c : terms of relations
+
+a->(c1|c2|..cN) : a possibility relation having 
+                  antecedent (a) and consequents (c1,c2..cN)
+
+A=>B  : A necessitates B
+
+A<=B  : B necessitates A
+
+A<=>B : A necessitates B and /vice versa/.
+
+sim   : similarity
+
+dis   : dissimilarity
+
+/A/,/B/,/C/, : sets
+
+/R/ : the term set of the relation R
+
+(a),(b),(c) : intrinsic property sets
+
+mem   : set-membership
+
+{all((r)(t))}: {x:x(r)(t)}
+
+=  : set identity
+
+int : intersection
+
+com : commonality
+
+uni : union
+
+cou : coupling
+
+sub : subset
+
+sub1 : either subset or set identity
+
+sup : superset
+
+sbi : subintension
+
+spi : superintension
+
+Com /S/ : the commonality of the members of /S/
+
+/A/' : extensional complement of /A/.
+
+(a)' : intensional complement of (a)
+
+I=>E=>N : Intensional Meaning entails Extensional Meaning
+          Extensional Meaning entails Nominal Meaning
+
+~ : truth-functional negation
+
+^ : truth-functional conjunction
+
+v : truth-functional disjunction
+
+imp : truth-functional implication
+
+eqv : truth-functional equivalence
