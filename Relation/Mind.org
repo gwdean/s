@@ -33,7 +33,7 @@ Three ambiguities (page 185)
 - Ego <-> Empirical Body (Ambiguity of Self)
 - Oge <-> Empirical Society (Ambiguity of Society)
 
-** Model of the Noumenal Mind
+** Mind
 An *atomic idea* is a neural switching (0/1) in a noumenal brain.
 
 Two principles:
@@ -208,72 +208,25 @@ Afferent or sensory nerves, carry nerve impulses TOWARDS the central nervous sys
 *Action* by the ego is control of the noumenal body by means
 of motor-ideas. The movement of motor-ideas to their action
 points by the ego is the willing of that action by the ego.
-** Concepts
-*** Atomic Idea
-*** The Mind Hekergy Principle
-*** Need
-*** Principle of LALRU
-*** Noumenal Mind
-*** Irrational
-*** Rational
-*** Agent
-*** Map
-*** Bond
-*** Noumenal Sensation (Mid-Sensation)
-*** Mid-Object
-*** Mid-World
-*** Mid-Memory
-*** Mid-Body
-*** Ego-Memories
-*** Ego
-*** Empirical Sensation
-*** Empirical Object
-*** Empirical World
-*** Awareness/Consciousness
-*** Attitude
-*** Selfishness
-*** Attention
-*** Absolute Values
-*** Empirical Values
-*** Feelings
-*** Thoughts
-*** Goal
-*** Pleasure
-*** Pain
-*** Desire 
-*** Aversion
-*** Empirical Memory
-*** Concrete Quality
-*** Concrete Idea
-*** Abstract Idea
-*** Imagination
-*** Thought
-*** Proposition
-*** Belief
-*** Prejudice 
-*** Classification
-*** Recognition
-*** Motor-Idea
-*** Action-Point
-*** Action
-*** Word
-*** Concrete Meaning
-*** Proper Name
-*** Concrete Name
-*** Concept
-*** Grammar
-*** Sentence
-*** Pure Thought
-*** Ordinary Thought
-*** Calculation
-*** Discrimination
-*** Patch Mapping
-*** Boundary Mapping
-*** Scale Mapping
-*** Material
-*** Mental
-*** Vanity
-*** Rationalisation
+
+** The Oge
+** Gods
+The theory of mind provides six meanings for the word God,
+all of which conform in one or more ways to the traditional
+uses of the word.
+
+The *OGE-GOD* is the oge.
+
+The *HOLY SPIRIT* is the mind hekergy principle.
+
+The *DEIFIED TEACHER* is the oge-person of a revered religious teacher.
+
+The *PANACEA GOD* is a prejudice.
+
+The *PHILOSOPHER'S GOD* is the noumenal world.
+
+
+
 * Leibniz-Russell
 Source: http://en.wikipedia.org/wiki/User:Helier_Robinson/Leibniz-Russell_theory_of_perception
 
