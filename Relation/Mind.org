@@ -229,9 +229,151 @@ Afferent or sensory nerves, carry nerve impulses TOWARDS the central nervous sys
 
 *ACTION* by the ego is control of the noumenal body by means
 of motor-ideas. The movement of motor-ideas to their action
-points by the ego is the willing of that action by the ego.
+points by the ego is the *WILLING* of that action by the ego.
+
+A *WORD* is a structure of noumenal and empirical ideas
+bonded together, consisting of a memory of the sound of the
+word, the motor ideas to produce a similar sound, and a 
+noumenal idea that is the meaning of the word; it usually
+also has bonded to it a memory of a written word and the
+motor ideas to produce a similar written word; and it may
+have similar structures bonded to it that are synonyms,
+and special symbols or foreign words having the same
+meaning.
+
+The *CONCRETE MEANING* of a word is extensional-any,
+one member of that class of concrete memories which
+is the meaning of the word.
+
+A *PROPER NAME* is a word bonded to a single object.
+
+A *CONCRETE NAME* is a word bonded to a concrete meaning.
+
+A *CONCEPT* is a word bonded to an abstract idea.
+
+*GRAMMAR* consists of rules that relate words and the
+meanings of words.
+
+A *SENTENCE* is a set of grammatically related words.
+
+*PURE THOUGHT* is manipulation of abstract ideas--
+intensional meanings--without associated language.
+
+*ORDINARY THOUGHT* is manipulation of abstract ideas
+with the aid of language--manipulation of concepts.
+
+*CALCULATION* is algorithmic thought: manipulation of words
+without their associated abstract ideas, in accordance
+with rules derived from ordinary thought.
+
+*DISCRIMINATION* is consciousness of the results of special
+mappings, such as the following:
+
+A *PATCH MAPPING* is a mapping of a minimal area of a 
+concrete original, just large enough to be within
+consciousness.
+
+A *BOUNDARY MAPPING* is a mapping of boundaries--of
+contiguous dissimilarities.
+
+A *SCALE MAPPING* is a mapping with uniform enlargement
+or diminution.
+
+The *MATERIAL* is everything in the consciousness of the ego
+that is external, public, reperceptible, and causally coherent.
+
+The *MENTAL* is everything in the consciousness of the ego
+that is not material.
+
+*VANITY* is a false belief that the hekergy of the ego is
+greater than its actual value.
+
+*RATIONALISATION* is the manufacture, by the ego, of a false
+belief that supports vanity.
 
 ** The Oge
+Among the irrational features of mind which prevent knowledge
+of the best of all intensional mathematical systems are:
+
+- Internal Conflict 
+- Social Pressures
+
+Both of these require the concept of oge for their
+explanation.
+
+The *OGE* (rhymes with /bogey/) is a second agent in the
+noumenal mind which grows out of mid-memories of other
+people; as such it represents, and acts on behalf of, society.
+
+*APPROVAL* is evaluation of an action as hekergy increasing;
+*DISAPPROVAL* is evaluation of it as hekergy decreasing.
+
+*INTROJECTION* is the incorporation of a proposition into
+the oge, thereby making it an oge-belief, as a result of
+another person asserting this proposition in the hearing
+of the ego.
+
+The *MORAL* is any increase in the hekergy of society,
+and hence of the oge.
+
+*GUILT*, *SHAME*, *EMBARASSMENT* and *CONSCIENCE* are
+feelings produced in the ego by the oge.
+
+*CONFLICT* occurs when there are two agents having
+mutually exclusive goals in a common situation.
+
+An *OGE-INHIBITIION* is the prevention, by the oge,
+of an action willed by the ego. An *EGO-INHIBITION*
+is the prevention, by the ego, of an action willed
+by the oge. A *TABOO* is a very strong oge-inhibition.
+
+An *OGE-COMPULSION* is the forcing, by the oge, of
+an action against the will of the ego; an 
+*EGO-COMPULSION* is the forcing, by the ego, of
+an action against the will of the oge.
+
+An *OGE-PERSON* is a set of mid-memories of a
+particular noumenal person, in the oge.
+
+*GOOD* is hekergy increase.
+
+*EVIL* is hekergy decrease.
+
+*LOVE* is a willingness to raise the hekergy of
+another person, unconditionally.
+
+*HATE* is a willingness to lower the hekergy of
+another person, unconditionally.
+
+The *TOP (HIGH) EGO* is the good pole of the ego.
+
+The *BOTTOM (LOW) EGO* the evil pole of the ego.
+
+*MATURATION* of agents is hekergy increase.
+
+*IDENTIFICATION* occurs when an oge-person, or a
+group of them, becomes joined to the ego.
+
+*INCLINATION-DUTY CONFLICT* is conflict between the
+ego and the public portion of the oge.
+
+*NEUROTIC CONFLICT* is conflict between the ego and
+private portions of the oge.
+
+*NOUMENAL POSSESSION* (*OWNERSHIP*) is an emergent
+relation between a noumenal person or group of
+noumenal people (the owner/s), and a noumenal object,
+characterised by control of the object by the owner,
+and lack of such control by non-owners.
+
+*NOUMENAL WEALTH* is the emergent relation between
+the hekergy of a noumenal object and a noumenal need
+of the possessor of the wealth.
+
+*MATERIAL WEALTH* is the emergent relation between the
+hekergy of a material--that is,empirical--object and
+an empirical need of the possessor of the wealth.
+
 ** Gods
 The theory of mind provides six meanings for the word God,
 all of which conform in one or more ways to the traditional
@@ -250,6 +392,7 @@ The *PHILOSOPHER'S GOD* is the noumenal world.
 The *PSYCHOHELIOS* is the god of the mystics, the god of truth.
 
 ** Rational Mind
+
 *CREATIVITY* is the talent for novel, original, hekergy increase.
 
 A *GENIUS* is anyone with exceptional creativity.
@@ -289,3 +432,5 @@ the same quest for suprarational truth. And all of
 them, if properly done, are like the present work in
 having cascading emergence of definitions and
 explanations-- in having intensional meaning. 
+
+* References

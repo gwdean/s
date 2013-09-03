@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.12)  31 AUG 2013 14:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.12)  31 AUG 2013 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/greg/s/Relation/Mind.tex
-(/home/greg/s/Relation/Mind.tex
+**/home/greg/s/Relation/PhilMath.tex
+(/home/greg/s/Relation/PhilMath.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
 aded.
@@ -450,8 +450,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip48
 )
-(./Mind.aux)
-\openout1 = `Mind.aux'.
+(./PhilMath.aux)
+\openout1 = `PhilMath.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -510,9 +510,9 @@ LaTeX Info: Redefining \ref on input line 18.
 LaTeX Info: Redefining \pageref on input line 18.
 LaTeX Info: Redefining \nameref on input line 18.
 
-(./Mind.out) (./Mind.out)
+(./PhilMath.out) (./PhilMath.out)
 \@outlinefile=\write3
-\openout3 = `Mind.out'.
+\openout3 = `PhilMath.out'.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 
@@ -523,51 +523,44 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-) (./Mind.toc)
+) (./PhilMath.toc)
 \tf@toc=\write4
-\openout4 = `Mind.toc'.
+\openout4 = `PhilMath.toc'.
 
-
-Overfull \hbox (118.26256pt too wide) in paragraph at lines 29--30
-\T1/cmr/m/n/10.95 Source: []http://en.wikipedia.org/wiki/User:Helier_Robinson/L
-eibniz-Russell_theory_of_perception[] 
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 58.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
- [3] [4])
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 Runaway argument?
-{ABSOLUTE VALUES\} are noumenal values, actual hekergies \par \textbf \ETC.
-! File ended while scanning use of \textbf .
+{Mathematical Inferences\} are based on relations of necessity, or ex\ETC.
+! File ended while scanning use of \emph .
 <inserted text> 
                 \par 
-<*> /home/greg/s/Relation/Mind.tex
-                                  
+<*> /home/greg/s/Relation/PhilMath.tex
+                                      
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
 I'll try to recover; but if the error is serious,
 you'd better type `E' or `X' now and fix your file.
 
 ! Emergency stop.
-<*> /home/greg/s/Relation/Mind.tex
-                                  
+<*> /home/greg/s/Relation/PhilMath.tex
+                                      
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
- 6041 strings out of 495059
+ 6036 strings out of 495059
  85014 string characters out of 3182030
- 165938 words of memory out of 3000000
- 9139 multiletter control sequences out of 15000+200000
- 15247 words of font info for 43 fonts, out of 3000000 for 9000
+ 160929 words of memory out of 3000000
+ 9136 multiletter control sequences out of 15000+200000
+ 14558 words of font info for 42 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,28p,1225b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,28p,264b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

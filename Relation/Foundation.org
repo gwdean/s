@@ -47,6 +47,8 @@ A grammatical form of words that indicates a relation is
 called a *NOMINAL RELATION*; if it does not refer to either
 a genuine relation or an extensional relation then it is
 called a *PURELY NOMINAL RELATION*.
+
+
 ** Sets
 An *INTENSIONAL SET* is a plurality united by a relation.
 
