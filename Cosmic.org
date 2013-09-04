@@ -131,10 +131,89 @@ A structure which has many levels of emergence is said to
 have /CASCADING EMERGENCE/ out of its prime level. Because
 a structure consists of two or more substructures, the
 number of structures in a level is smaller than the number
-of structures in the next level below.
+of structures in the next level below. Conversely, as you
+go to higher levels the variety of structures increases.
 
+For instance, there are more atoms than molecules, but there
+are more varieties of molecular structure than there are
+varieties of atomic structure.
+
+At various levels of a structure a relation may emerge that
+has a property that does not emerge at any lower level. This
+property is called an /EMERGENT PROPERTY/ and the lowest
+level at which it emerges in the /EMERGENT LEVEL/.
+
+Examples of emergent relations having novel properties:
+
+- Working order of a simple machine (emergent out of a correct arrangement of its parts)
+- The specific function of a particular kind of knot (emergent out of an arrangement of loops and threadings of a cord)
+- A melody (emergent out of an arrangement of notes)
+- Life (emergent out of arrangements of molecules)
+- Mind (emergent out of brain)
 
 ** Possible and Actual 
+An intensional structure which is complete is called a 
+/POSSIBLE INTENSIONAL WORLD/ (or /POSSIBLE WORLD/ for
+short) Because a possible world cannot be infinite,
+it must have a finite prime level; and because the
+number of structures diminishes with the height of
+level, it must have a highest level, called its /TOP LEVEL/.
+
+The variety of possible worlds is huge. All these
+possible worlds are exclusively intensional: they
+consist only of relations and their properties.
+
+The /VALUE/ of a possible world is the sum of the hekergies
+of all the emergent relations in that complete structure,
+divided by the number of separators in its prime level.
+
+The /BEST OF ALL POSSIBLE WORLDS/ is the one that has
+the greatest value; this world is called *G*. It has a 
+higher top level than any other possible world. Its
+top relation is called *T*.
+
+There are two kinds of mathematical existence:
+- Possible existence (logical consistency; both intrinsic and extrinsic)
+- Actual existence (see below)
+
+Necessary mathematical existence is existence which is 
+necessitated. There are three kinds of extrinsic necessary
+existence aned one kind of intrinsic necessary existence.
+
+Extrinsic Necessary Existence I
+- /CAUSAL NECESSARY EXISTENCE/
+- /LOGICAL NECESSARY EXISTENCE/
+
+Extrinsic Necessary Existence II
+- /TOP-DOWN NECESSARY EXISTENCE/
+
+Extrinsic Necessary Existence III
+- /BOTTOM-UP NECESSARY EXISTENCE/
+
+There is the possibility of a relation having 
+/INTRINSIC NECESSARY EXISTENCE/ (INE). Such a 
+relation would exist necessarily by its own
+intrinsic property. This existence is actual
+existence, the source of all actuality. Note that
+because the concept of INE is not self-contradictory
+it must, like all intrinsically consistent concepts,
+exist in at least one of all possible worlds.
+
+A possible world has /CIRCULAR SELF-NECESSITATION/
+in that the existence of its prime level bottom-up
+necessitates the existence of all of its cascadingly
+emergent relations, including its top relation; and
+this top-relation top-down-necessitates the existence
+of all lower level relations, including the prime level.
+
+This circular self-necessitation is possible circular
+self-necessitation; every possible world possesses it.
+If a possible world has a relation that has INE then
+the circular self-necessitation is necessary, or actual,
+circular self-necessitation. Such a world is thereby
+an actual world.
+
+
 ** Summary of Argument
 *** Overview of what has been said so far 
 - At most one possible world can be actual
