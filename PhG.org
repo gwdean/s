@@ -45,10 +45,132 @@ by the word /Spirit/ or /Geist/ (/G/).
 - A mental side has a universal (general) feature
 - A mental side has a particular feature
 
+The general structure shared by /G/ and /Tillich's God/ (/TG/) looks like
+this:
 
+#+BEGIN_EXAMPLE
+1. Physical Side (Tangible) 
+  a. General (Universal)
+  b. Particular
+2. Mental Side (Intangible)
+  a. General (Universal)
+  b. Particular
+#+END_EXAMPLE
+
+Hegel conceives the absolute as, figuratively, a
+living organism. Spirit has the following form:
+
+#+BEGIN_EXAMPLE
+1. Physical Side (The Universe--natural and artificial objects)
+  a. General: The Universe conceived of as /one/ entity.
+  b. Particular: The Many particular "objects" that constitute the universe
+2. Mental Side (The Human Mind--subjective, intangible)
+  a. General: Mind, the collective Mind of humans (Spirit's Mind)
+  b. Particular: minds (the minds and thoughts of individual humans)
+#+END_EXAMPLE
+
+Only at the end of the /PhG/, where Hegel comes
+along and, acting as Spirit's Mind, recognizes
+that subject (mind, itself) and object (nature,
+including man) are identical--that both are
+Spirit-- do subject and object become identical.
+
+In short:
+
+- Subject -> Mind
+- Object  -> Nature
+- /G/ -> Unity of Mind and Nature
+- /G/ -> Unity of Subject and Object
+
+A key for Wheat is to think of /G/ as a living
+organism. The humans are the "thinking" part
+of /G/, and the physical universe is the "body"
+of /G/.
+
+Divine Life at the highest level of abstraction
+is the same for both Hegel and Tillich:
+
+- The: Potential Union
+- Ant: Actual Separation
+- Syn: Actual Union
+
+For Wheat, /G/ is a figurative God, an ersatz God.
+
+Hegel's primary separation-and-return theme,
+the macrodialectic, depicts a purely conceptual
+Spirit--an idea--that (1) begins as an unconscious
+union ("one") of constituent parts (everything 
+in the universe), then (2) becomes conscious
+and consciously separates into a multitude
+of observed "objects" ("many"), and ultimately
+(3) returns--consciously this time--to its
+original state of union.
+
+The reunion or "return" takes place when 
+Spirit consciously recognizes that the
+many constitute the one ("one composed of
+many", "one=many").
+
+Other dialectical formulations depict
+"consciousness"--the human mind advancing 
+through history--as separating from and
+returning to a wide variety of things:
+divinity, freedom, monarchy, essence, truth,
+predation, one, subject, nature, and so on--
+whatever the dialectic's thesis concept
+happens to be.
+
+Quote from Tillich: "The blood that courses
+through his [Hegel's whole system" is
+"his 'estrangement and reconciliation", or
+the more formalized 'antithesis' and 
+'synthesis'"
+
+In Tillich's scheme:
+
+- Man begins in a state of union with the God of theism
+- Man becomes separated from this God (becomes an atheist)
+- Man returns to "the God above the God of theism".
+
+Christianity becomes a springboard from
+which Spirit analogically leaps from
+
+- (a) A picture-thinking union of God and Man (man symbolized by Jesus)
+- (b) Spirit's self-realization, wherein genuine union of God and man occurs.
+
+God becomes Spirit, and Jesus is replaced by all mankind.
+
+BEGIN AGAIN AT LOCATION 2058.
+
+Read "Revealed Religion" section in the /PhG/.
+(sections 748-787)
+
+Hegel makes separation and return the basis of
+his philosophy. In his main dialectic (the /MD/),
+the Spirit separates from and returns to union.
+
+Spirit moves from:
+
+- 1. YES to an UNCONSCIOUS form of UNION
+- 2. CONSCIOUS NO to UNION (SEPARATION)
+- 3. YES to higher form of CONSCIOUS UNION
+
+Spirit passes from primal unconsciousness
+in the form of nature [THESIS] to ultimate
+self-unconsciousness in the person of 
+historical man [SYNTHESIS].
+
+UNCONSCIOUS UNION via CONSCIOUS SEPARATION
+to CONSCIOUS UNION (SELF-CONSCIOUSNESS)
+
+- The: Unconscious + Union
+- Ant: Conscious + Separation
+- Syn: Conscious + Union
+
+Whatever Spirit returns to must be what Spirit
+began with, before becoming estranged. (2231/9168)
 ** Antithetical Pairs
 Explained in chapter 1. Location 886.
-
 
 
 ** Thesis-Antithesis Conceptual Pairs
