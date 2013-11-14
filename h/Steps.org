@@ -64,7 +64,20 @@ source.
 *** Objectivity (63-71)
 *** Idea (71-79)
 ** Transitions
-- Page 104 is Key Here.
+The descriptions of the transitions involved in 2a, 3a and 8a
+are provided on page 104.
+
+*** 2a: (-> 7 1) page 48. Understanding (as such)
+This transition represents the Understanding's focus on
+the IMMEDIACY present in the middle term (7).
+
+*** 3a: (-> (4 5 6) 1) p.70. Mediation 
+This transition represents the Understanding's focus on
+the MEDIATION within the middle term.
+
+*** 8a: (-> (4 5 6 7) 1) p.104. Speculative Reason
+This transition represents the Understanding's focus on
+the UNITY of IMMEDIACY and MEDIATION.
 ** Resources
 Carlson, David Gray. "A Commentary to Hegel's 
 /Science of Logic/". 2007. New York: Palgrave
