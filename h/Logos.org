@@ -1,0 +1,72 @@
+#+TITLE:     Logos Lab
+#+AUTHOR:    GW Dean
+#+EMAIL:     gwdean@gmail.com
+#+DATE:      2013-11-17 Sun
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+A computational toolkit to help one understand philosophical concepts.
+* Logical Diagrams (Carlson-2007)
+** Borromean Knot
+** Game Dynamics
+** Steps and Transitions
+* Stepping to Infinity (Carlson-2007.(1-102))
+** Step 0 Absolute Knowledge
+** Step 1 Becoming
+** Step 2 Something
+** Step 3 Determination of the In-Itself
+** Step 4 Limit (Determinateness as Such)
+** Step 5 The Ought
+** Step 6 Infinity
+** Step 7 True Infinity
+* The Concept (Lauer-1982.(57-127))
+** Overview (57)
+** Philosophical Thinking (59)
+** The "Necessity" of Truth (76)
+** Relation of Thought and Reality (77)
+** The Meaning of Concept (80)
+** Judgment (86)
+** Syllogism (91)
+** From Subjectivity to Objectivity (96)
+** The Meaning of "Objectivity" (101)
+** The Dynamism of Purpose (104)
+** Subject-Object (109)
+** Truth as Idea (113)
+** Idea as Process (117)
+** Idea as Absolute (122)
+* God as Spirit (Lauer-1982.(128-161))
+** Overview (128)
+** Identity of Finite and Infinite Spirit (132)
+** Self-Manifestation Essential to Spirit (137)
+** Activity Without Passivity (141)
+** Only Spirit Knows Spirit (145)
+** Relation of Divine Spirit to the World (149)
+** Human Self-Consciousness Reveals the Divine (154)
+** The Function of Negation (158)
+* The Infinite (Lauer-1982.(162-202))
+** Overview (162)
+** The Infinite Object of Thought (166)
+** The Meaning of "Infinite" (170)
+** Infinity of Concept (174)
+** The Infinity of the Finite (178)
+** Phenomenology of Spirit (183)
+** Philosophy of Religion (189)
+** The Necessary Connection of Thinking and the Reality of God (195)
+* Parmenides 
+* Computational Monadology.(Steinhart.online)
+* 2/27 of the Science of Logic (Houlgate-2006)
+* 38 Dialectics in the PhG (Wheat-2012)
+* PhG.min
+* Resources
+- Carlson-2007
+- Lauer-1982
+- Kontopoulos-1979
+- Houlgate-2006
