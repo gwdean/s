@@ -33,6 +33,83 @@ A computational toolkit to help one understand philosophical concepts.
 ** The "Necessity" of Truth (76)
 ** Relation of Thought and Reality (77)
 ** The Meaning of Concept (80)
+This section provides a commentary on sections 
+160-164 from the Encyclopedia.
+
+The Concept is "the dynamic reproduction in thought
+of the rational structure of reality." (81)
+
+The overall pattern of logical thinking contains three
+main parts:
+- (1) The Logic of Being
+- (2) The Logic of Essence
+- (3) The Logic of Concept
+
+The Logic of Being -> the self-development of thought's inevitable
+object
+
+The Logic of Essence -> reflection on the object as it is reproduced
+in thought
+
+The Logic of Concept -> investigation of the dynamic structure of
+thought as expressing the structure of reality  
+
+Subjective Logic and its relation to Reason (82-83)
+
+The process of development (of a Concept) begins with the
+subjective concept, that which the thinking of an individual
+subject produces, and we must see what this subjective form,
+merely as such, involves.
+
+This process of development contains the three "moments":
+- Universality
+- Particularity
+- Singularity
+
+By calling these terms "moments", Hegel indicates that he 
+considers them as dynamic elements in a process, each
+intelligible only as related to the others in a movement
+from one to the other--and back.
+
+UNIVERSALITY designates the character of sameness with
+itself that the the concept retains in each of its
+instantiations (/Bestimmtheit/).
+
+PARTICULARITY is the generalized instantiation, in which
+the self-sameness of the universal remains undisturbed.
+
+SINGULARITY is the ultimate instantiation, wherein are
+reflected both the determinacy of the PARTICULAR and the
+self-sameness of the UNIVERSAL.
+
+The singular is the same as the "actual thing", but it is
+the conceptualized thing, posited in a universal way
+as simply this thing identical with itself.
+
+An important thing to remember about the Hegelian concept,
+then, is that it is at once Universal, Particular, and 
+Singular.
+
+Hegel's /Logic/ can be characterized as a "constantly
+repeated defining of God". (85)
+
+The concept is truly first, and "things are what they are
+through the activity of the concepts that dwell in them." (85)
+
+Just as divine thought is creative of the conceptual
+structure of reality, so human thought is recreative of
+a conceptual structure which is antecedent to finite
+thinking.
+
+The concept is what is unconditionally concrete, because the
+self-contained unity with itself which constitutes the
+intrinsic determinateness of singularity is precisely its
+relation to itself which constitutes universality.
+
+The relationship between Universality, Particularity and 
+Singularity is discussed in depth on page 86. Needs some
+digesting before I take thorough notes.
+
 ** Judgment (86)
 ** Syllogism (91)
 ** From Subjectivity to Objectivity (96)
