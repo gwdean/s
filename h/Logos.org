@@ -29,13 +29,32 @@ Each official move is diagrammed in a "Figure".
 - ...
 - Figure 79(c): the third sub-step of the seventy-ninth step of the /SL/.
 
-** Borromean Knot (18-26)
+** With What Must Science Begin?
+Three things worth knowing (DGC-39):
+
+(a). The /SL/ is to be a groundless logic
+
+(b). Deciding to begin at all is a contingent fact.
+
+(c). PURE BEING is the best starting place, because it develops  
+into the ultimate result--ABSOLUTE KNOWING--which then mediates
+the beginning.
+
+DGC argues that the Logic's true beginning is the Understanding's
+one-sided attempt to summarize the very last step of the Logic--
+ABSOLUTE KNOWING. It cannot fix this thought. Its attempt fails.
+The collapse of thought is the modulation that Hegel describes.
+
+The beginning of the Logic is failure, and that is what makes
+it a success.
+** Borromean Knot (18-26) 
+*** Circles
 All Middle terms (such as Becoming) are made up of three circles.
 
 - Circle-1: Positive side (Left)
 - Circle-2: Negative side (Right)
 - Circle-3: Surplus of Positive and Negative (Middle)
-
+*** Borromean Knot
 These three circles together form a /Borromean Knot/, which 
 contains seven distinct areas.
 
@@ -48,10 +67,11 @@ more than one jurisdiction.
 Area-4 is subject to all three jurisdictions.
 
 Area-4 is what Hegel (eventually) calls "being-within-self"   
-
+*** Modes of Consciousness
+**** The Understanding
 The Understanding is the intuition that perceives a concept
 as an immediate, uncomplicated entity. (19)
-
+**** Dialectical Reason
 Dialectical Reason accuses the Understanding of ignoring
 the negative component that dialectic reasoning is able
 to comprehend. (21)
@@ -60,12 +80,37 @@ Dialectical Reason produces an autistic modulation
 between two identical extremes that get us nowhere; drawing
 attention to the lack in the Understanding merely replicates
 the Understanding's own error.
-
+**** Speculative Reason
 Speculative Reason "wisely intervenes to stop the 
 modulating nonsense". (23)
 
 (...TO BE CONTINUED...)
 
+*** Summary (26)
+The Borromean knot represents Logic as a circle comprised of circles,
+in accord with Hegel's comment from the /EL/:
+
+Each of the parts of philosophy is a philosophical whole, a circle rounded and
+complete in itself. In each of these parts, however, the philosophical Idea is
+found in a particular specificality or medium. The single circle, because it is
+a real totality, bursts through the limits imposed by its special medium, and
+gives rise to a wider circle. The whole of philosophy in this way resembles a
+circle of circles. The Idea appears in each single circle, but, at the same time,
+the whole Idea is constituted by the system of these peculiar phases, and each
+is a necessary member of the organization. /EL-15/ (DGC-26)
+
+** Observations
+*** Being-Nothing-Becoming
+We begin with the simplest of simples--PURE BEING.
+
+Hegel's opening words are: "/Being/, /pure being/, without 
+any further determination." (SL:82) (No verb! Not even "is"!)
+
+PURE BEING is immediacy /as such/, taken on its own terms
+without reference to anything else.
+**** Moves
+***** DGC.(18-26)
+***** DGC.(29-31)
 In terms of our conventions, (2) is the voice of
 Dialectical Reason. It is the suppressed voice of (1)
 and hence immanent or implicit within (1). Dialectical
@@ -84,7 +129,45 @@ the middle term. Yet the middle term always implies
 Sublation--denotes the destruction and preservation
 of Logical moments by the more progressive moment
 which it generates. (31)
+***** DGC.(42)
+Consider the phrase "the relation of /A/ and /B/."
 
+(...considering....considering....considering...)
+
+The remark refers to the parts (/A/, /B/) as well
+as the relation itself. The "relation" is just as
+separate a thing as /A/ and /B/ are.
+
+Is the aforementioned relation complex or simple?
+It is both.
+
+BECOMING (1c) is just such a relation between 
+PURE BEING and PURE NOTHING. (7) is simple, and
+(4,5,6) is complex.
+
+***** DGC.(46-49)
+BECOMING--the middle term between BEING and NOTHING--
+is concrete. It has difference within it (4,5,6),
+but it is a unity (7).
+
+Coming-to-be and ceasing-to-be are in motion. In
+Figure 1c, (7) constitutes the equilibrium--the
+unity at rest.
+
+In the fourth official move of the /SL/ (2a), we take
+the static part of BECOMING (7), and move it to
+the left of the diagram (where the Understanding
+resides). (48)
+
+In Figure 2a, we take misshapen (7) and round it out
+to (1). This represents the fundamental error of the
+Understanding, which sees simplicity in lieu of
+complexity. (48)
+
+We contemplate Becoming /as if/ it were whole.
+
+Figure 2a shows the transition to DETERMINATE BEING.
+**** Comments
 Abstraction turns Pure Being into Pure Nothing. The
 modulation itself was Becoming.
 
@@ -96,6 +179,19 @@ Reflection notices the difference between Pure Being/
 Nothing and Absolute Knowing--an overarching perspective
 that comprehends origin and pre-origin at the same time. (32)
 
+*** Determinate Being
+**** Moves
+***** DGC.(55-57)
+***** DGC.(57-58)
+***** DGC.(63-69)
+BECOMING is a oneness by virtue of of (7).
+
+The /whole/ of BECOMING (4-7) is not a oneness.
+
+Only from (7) does DETERMINATE BEING spring forth. (DGC-55)
+
+(...to be continued...)
+**** Comments
 * Stepping to Infinity (Carlson-2007.(1-102))
 ** Step 0 Absolute Knowing (Method)
 The /PhG/ ends when consciousness "abolishes itself
@@ -239,6 +335,8 @@ A better word for True Infinity may be /ideality/. (100)
 
 (...TO BE CONTINUED...)
 
+** Transitions
+- BECOMING to DETERMINATE BEING. (Figure 2a.48)
 * Absolute Idea (Carlson-2007.(593-603))
 * The Concept (Lauer-1982.(57-127))
 ** Overview (57)
