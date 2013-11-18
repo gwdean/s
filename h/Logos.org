@@ -22,10 +22,12 @@ that it "reduces every move in Hegel's logic to a discrete diagram".
 In all, there are 79 official Logical progressions, organized
 in groups of three.
 
-Each official move is diagrammed in a "Figure". Thus, Figure
-1(c) (Becoming) is the third sub-step of the first step of 
-the Logic. Figure 2(a) (Determinate Being as Such) would be
-the first sub-step of the second step.
+Each official move is diagrammed in a "Figure". 
+
+- Figure 1(c): the third sub-step of the first step of the /SL/. 
+- Figure 2(a): the first sub-step of the second step of the /SL/.
+- ...
+- Figure 79(c): the third sub-step of the seventy-ninth step of the /SL/.
 
 ** Borromean Knot (18-26)
 All Middle terms (such as Becoming) are made up of three circles.
@@ -96,11 +98,71 @@ that comprehends origin and pre-origin at the same time. (32)
 
 * Stepping to Infinity (Carlson-2007.(1-102))
 ** Step 0 Absolute Knowing (Method)
+The /PhG/ ends when consciousness "abolishes itself
+in favor of absolute or pure knowing". (DGC.10)
+
+Absolute knowing is the /truth/ of every mode of
+consciousness because, as the course of the /PhG/
+showed, it is only in absolute knowing that the
+separation of the /object/ from the /certainty of itself/
+is completely eliminated: truth is now equated
+with certainty and this certainty with truth. (49) (DGC.10)
+
+The /SL/ takes up where the /PhG/ left off--with a 
+purer immediacy than consciousness comprehends. (DGC.10)
 *** Immediacy (595)
 *** Mediation (598)
 *** Absolute Knowing (Method) (599)
 ** Step 1 Becoming 
 *** Pure Being (11)
+PURE BEING is no /unity/ of distinguishable parts. It is
+IMMEDIACY before there /are/ any parts to break it up. (DGC.10)
+
+In the pure light of BEING, NOTHING can be distinguished. (DGC.11)
+
+Pure light and pure darkness are two voids which are the
+same thing. Something can be distinguished only in 
+determinate light or darkness...[F]or this reason, it
+is only darkened light and illuminated darkness which
+have within themselves the moment of difference and are,
+therefore, /determinate being/. (SL.93)
+
+PURE BEING will require the darkness of PURE NOTHING
+before it can be thought at all. (DGC.11)
+
+PURE BEING is /indeterminacy as such/. (DGC.11) 
+
+In PURE BEING we think nothing. This is what we would
+perceive in a world of pure nothing. Hence, we might
+as well say that PURE BEING is PURE NOTHING. They are 
+/identical/. (DGC.11)
+
+"Being, the indeterminate immediate, is in fact /nothing/. (SL.82)
+
+If PURE BEING and NOTHING are the same, where does their
+/difference/ come from? (DGC.11)
+
+The origin of difference precedes PURE BEING. This is discussed
+in the introductory essay to the /SL/ entitled "With What Must
+Science Begin?" (DGC.11)
+
+PURE BEING precludes an other that thinks. This means /you/,
+among other things. (DGC.13)
+
+If PURE BEING were really here before us (and not just in
+our thoughts) we would be obliterated--sucked into a very
+black hole. (DGC.13)
+
+The fact that we are thinking at all is proof that PURE BEING
+is not before us. Rather it is apparent that PURE BEING
+/has already/ passed away. (DGC.13)
+
+"For us", PURE BEING can be thought--here we are doing it! But
+"for itself", PURE BEING will not suffer us to contemplate it. (DGC.13)
+
+In the presence of PURE BEING, there can be no determinate
+thing that thinks. (DGC.13)
+
 *** Pure Nothing (14)
 *** Becoming (15)
 From the beginning, Hegel's logic is a play between (a) /stasis/,
@@ -323,7 +385,10 @@ it has to be grasped "speculatively". (106)
 **** Objectivity
 **** The Idea
 * References
-- Carlson-2007
-- Lauer-1982
-- Kontopoulos-1979
-- Houlgate-2006
+- DGC: Carlson-2007
+- SL: Science of Logic
+- EpW: Encyclopedia Logic
+- PhG: Phenomenology of Spirit
+- QL:  Lauer-1982
+- KMK: Kontopoulos-1979
+- HOU: Houlgate-2006
