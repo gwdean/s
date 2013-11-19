@@ -5,7 +5,7 @@
 #+DESCRIPTION: 
 #+KEYWORDS: 
 #+LANGUAGE:  en
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:5 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
 #+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
 #+EXPORT_SELECT_TAGS: export
@@ -338,151 +338,6 @@ A better word for True Infinity may be /ideality/. (100)
 ** Transitions
 - BECOMING to DETERMINATE BEING. (Figure 2a.48)
 * Absolute Idea (Carlson-2007.(593-603))
-* The Concept (Lauer-1982.(57-127))
-** Overview (57)
-** Philosophical Thinking (59)
-** The "Necessity" of Truth (76)
-** Relation of Thought and Reality (77)
-** The Meaning of Concept (80)
-This section provides a commentary on sections 
-160-164 from the Encyclopedia.
-
-The Concept is "the dynamic reproduction in thought
-of the rational structure of reality." (81)
-
-The overall pattern of logical thinking contains three
-main parts:
-- (1) The Logic of Being
-- (2) The Logic of Essence
-- (3) The Logic of Concept
-
-The Logic of Being -> the self-development of thought's inevitable
-object
-
-The Logic of Essence -> reflection on the object as it is reproduced
-in thought
-
-The Logic of Concept -> investigation of the dynamic structure of
-thought as expressing the structure of reality  
-
-Subjective Logic and its relation to Reason (82-83)
-
-The process of development (of a Concept) begins with the
-subjective concept, that which the thinking of an individual
-subject produces, and we must see what this subjective form,
-merely as such, involves.
-
-This process of development contains the three "moments":
-- Universality
-- Particularity
-- Singularity
-
-By calling these terms "moments", Hegel indicates that he 
-considers them as dynamic elements in a process, each
-intelligible only as related to the others in a movement
-from one to the other--and back.
-
-UNIVERSALITY designates the character of sameness with
-itself that the the concept retains in each of its
-instantiations (/Bestimmtheit/).
-
-PARTICULARITY is the generalized instantiation, in which
-the self-sameness of the universal remains undisturbed.
-
-SINGULARITY is the ultimate instantiation, wherein are
-reflected both the determinacy of the PARTICULAR and the
-self-sameness of the UNIVERSAL.
-
-The singular is the same as the "actual thing", but it is
-the conceptualized thing, posited in a universal way
-as simply this thing identical with itself.
-
-An important thing to remember about the Hegelian concept,
-then, is that it is at once Universal, Particular, and 
-Singular.
-
-Hegel's /Logic/ can be characterized as a "constantly
-repeated defining of God". (85)
-
-The concept is truly first, and "things are what they are
-through the activity of the concepts that dwell in them." (85)
-
-Just as divine thought is creative of the conceptual
-structure of reality, so human thought is recreative of
-a conceptual structure which is antecedent to finite
-thinking.
-
-The concept is what is unconditionally concrete, because the
-self-contained unity with itself which constitutes the
-intrinsic determinateness of singularity is precisely its
-relation to itself which constitutes universality.
-
-The relationship between Universality, Particularity and 
-Singularity is discussed in depth on page 86. Needs some
-digesting before I take thorough notes.
-
-** Judgment (86)
-** Syllogism (91)
-** From Subjectivity to Objectivity (96)
-** The Meaning of "Objectivity" (101)
-** The Dynamism of Purpose (104)
-Commentary on EpW.(205-207)
-
-In tracing the movement from the subjectivity
-of conceptual thinking to the objectivity of
-"the concept", the notion of "purpose" is of
-utmost importance. (105)
-
-Purpose "realizes itself" in the becoming of
-that which is intrinsically ordered to an end.
-
-Purpose is a closed book to "formal" thinking; 
-it has to be grasped "speculatively". (106)
-
-** Subject-Object (109)
-** Truth as Idea (113)
-** Idea as Process (117)
-** Idea as Absolute (122)
-* God as Spirit (Lauer-1982.(128-161))
-** Overview (128)
-** Identity of Finite and Infinite Spirit (132)
-** Self-Manifestation Essential to Spirit (137)
-** Activity Without Passivity (141)
-** Only Spirit Knows Spirit (145)
-** Relation of Divine Spirit to the World (149)
-** Human Self-Consciousness Reveals the Divine (154)
-** The Function of Negation (158)
-* The Infinite (Lauer-1982.(162-202))
-** Overview (162)
-** The Infinite Object of Thought (166)
-** The Meaning of "Infinite" (170)
-** Infinity of Concept (174)
-** The Infinity of the Finite (178)
-** Phenomenology of Spirit (183)
-** Philosophy of Religion (189)
-** The Necessary Connection of Thinking and the Reality of God (195)
-* Parmenides (Plato, 1152-1168)
-* Computational Monadology.(Steinhart.online)
-* 2/27 of the Science of Logic (Houlgate-2006)
-* 38 Dialectics in the PhG (Wheat-2012)
-* Gospel of John
-* PhG.min
-* Science of Logic Outline
-** Objective Logic
-*** Doctrine of Being
-**** Quality
-**** Quantity
-**** Measure
-*** Doctrine of Essence
-**** Reflection
-**** Appearance
-**** Actuality
-** Subjective Logic
-*** Doctrine of Concept
-**** Subjectivity
-**** Objectivity
-**** The Idea
-* Encyclopedia Logic Outline
 * 79 Steps of the Logic 
 ** Quality (1-10)
 *** Becoming (15)
@@ -574,74 +429,73 @@ content is expelled; it is a mere ghost of Being. (132)
 *** Theorem (588)
 *** Absolute Idea (591)
 *** Absolute Knowing (Method) (599)
-* Free Thought vs. Common Sense (Carslon-2007.49-50)
-If we can draw the Concept from the object, then thinking
-becomes free. /Free/ thought is that which is "performed
-with awareness of what is being done." (37)
-
-When thinking is instinctive (unaware of itself), "spirit
-is enmeshed in the bonds of its categories and is broken
-up into an infinitely varied material." (37)
-
-Instinctive thinking cannot fathom the unity in diverse 
-things.
-
-Free thought follows a necessary development. In this development,
-the steps must /necessarily/ follow one another. Even the very
-idea of necessity must be derived /necessarily/. Logic must
-therefore be self-referential: it has its own self as its
-subject matter.
-
-Logic is both:
-- Method
-- Derivation of Method
-
-Every other science distinguishes subject matter and method.
-Method, however, must be Logic's own final result. If logic
-would be a /science/, it cannot borrow methods from "subordinate"
-fields such as mathematics.
-
-"[W]hat logic is cannot be stated beforehand". (43) Its method
-must emerge as the final outcome.
-
-Common Sense (aka unfree thought, or the Understanding) leaves
-truth and content to one side and considers only form. It is 
-an important step, however, because by separating form and
-content (i.e. thought from the object) the Understanding divides
-the object. "But /equally/ it must transcend ... its /separating/
-determinations and straightway /connect/ them." (46) This
-connecting activity (Speculative Reason) is the great "negative
-step" that leads to the true Concept of reason.
-
-In the /SL/, mind learns what it is.
-
-In the /PhG/ a thinking subject faced an object. The end
-result was the unity of subject and object--ABSOLUTE KNOWING.
-
-The /PhG/'s result was the elimination of consciousness as
-a valid philosophical standpoint.
-
-This is also the beginning point of the /SL/: "[P]ure science
-presupposes liberation from the opposition of consciousness." (/SL/:49)
-
-In other words, THOUGHT THINKS ITSELF. (50)
-
-Logic's point of view is strictly its own--not ours.
-
-"[L]ogic is to be understood as the system of pure reason,
-as the realm of pure thought. This realm is truth as it is
-without veil and in its own absolute nature." (/SL/ 49-50).
-
-
-
-
-
-
+* Appendix 1: Science of Logic Outline
+** Objective Logic
+*** Doctrine of Being
+**** Quality
+**** Quantity
+**** Measure
+*** Doctrine of Essence
+**** Reflection
+**** Appearance
+**** Actuality
+** Subjective Logic
+*** Doctrine of Concept
+**** Subjectivity
+**** Objectivity
+**** The Idea
+* Appendix 2: Encyclopedia Logic Outline
+** Introduction (1-18)
+** Preliminary Conception (19-83)
+*** First position of thought towards objectivity: Metaphysics (26-36)
+*** Second position of thought towards objectivity (37-60)
+**** Empiricism (37)
+**** Critical Philosophy (40)
+*** Third position of thought towards objectvity: Immediate knowing (61-78)
+*** More detailed conception of the division of the Logic (79-83)
+** The Doctrine of Being (84-111)
+*** Quality
+**** Being (86)
+**** Existence (89)
+**** Being-for-itself (96)
+*** Quantity (99)
+**** Pure quantity (99)
+**** Quantum (101)
+**** Degree (103)
+*** Measure (107)
+** The Doctrine of Essence (112-159)
+*** The essence as ground of concrete existence (115)
+**** The pure determinations of reflection (115)
+***** Identity (115)
+***** Difference (116)
+***** Ground (121)
+**** Concrete existence (123)
+**** The thing (125)
+*** Appearance (131)
+**** The world of appearance (132)
+**** Content and form (133)
+**** The relationship (135)
+*** Actuality (142)
+**** The relationship of substantiality (150)
+**** The relationship of causality (153)
+**** Reciprocity (155)
+** The Doctrine of the Concept (160-244)
+*** The subjective concept (163)
+**** The concept as such (163)
+**** The judgment (166)
+***** Qualitative judgment (172)
+***** The judgment of reflection (174)
+***** Judgment of necessity (177)
+***** The judgment of the concept (178)
+**** The syllogism (181)
+***** Qualitative syllogism (183)
+***** Syllogism of reflection (190)
+***** Syllogism of necessity (191)
+*** The object (194)
+*** The idea (213)
+**** Life (216)
+**** Knowing (223)
+***** Knowing (226)
+***** Willing (233)
+**** The absolute idea (236)
 * References
-- DGC: Carlson-2007
-- SL: Science of Logic
-- EpW: Encyclopedia Logic
-- PhG: Phenomenology of Spirit
-- QL:  Lauer-1982
-- KMK: Kontopoulos-1979
-- HOU: Houlgate-2006
