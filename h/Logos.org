@@ -482,6 +482,161 @@ it has to be grasped "speculatively". (106)
 **** Subjectivity
 **** Objectivity
 **** The Idea
+* Encyclopedia Logic Outline
+* 79 Steps of the Logic 
+** Quality (1-10)
+*** Becoming (15)
+*** Something (63)
+*** Determination of the In-Itself (78)
+*** Limit (Determinateness as such) (83)
+*** The Ought (88)
+*** Infinity (93)
+*** True Infinity (97)
+*** The One (110)
+*** Repulsion (120)
+*** Quantity (132)
+Quantity is the thinnest of entities. All its
+content is expelled; it is a mere ghost of Being. (132)
+** Quantity (11-17)
+*** Enriched Quantity (144)
+*** Quantum (155)
+*** Number (159)
+*** The Quality of Quantum (168)
+*** Qualitative Something (170)
+*** Infinitely Great and Infinitely Small (179)
+*** Ratio of Powers (189)
+** Measure (18-23)
+*** Specifying Measure (208)
+*** Ratio of Measures (210)
+*** Elective Affinity (227)
+*** Nodal Line (231)
+*** Infinite For Itself (236)
+*** Essence (246)
+** Reflection (24-33)
+*** Reflection (262)
+*** Determining Reflection (275)
+*** Opposition (289)
+*** Contradiction (297)
+*** Ground (300)
+*** Form (Ground Relation) (311)
+*** Content (Inwardization of Outward Form) (316) 
+*** Determinate Ground (318)
+*** Complete Ground (326)
+*** Fact (332)
+** Appearance (34-42)
+*** The Totality of Existence (348)
+*** Reciprocal Action of Things (352)
+*** Constitution of the Thing out of its Matters (355)
+*** Appearance (358)
+*** The Law of Law and Appearance (364)
+*** Essential Relation (372)
+*** Conditioned Relation (378)
+*** Self-Externalization of Force (Expression) (385)
+*** Actuality (388)
+** Actuality (43-52)
+*** Attribute (397)
+*** Mode (399)
+*** Contingency (405)
+*** Real Necessity (Totality of Conditions) (408)
+*** Substance (412)
+*** Power (Substantiality) (417)
+*** Original Substance (419)
+*** Internalized Causality (423)
+*** Reciprocal Action (Absolute Substance) (426)
+*** The Notion (428)
+** Subjectivity (53-62)
+*** Individual Notion (455)
+*** Negative Judgment (469)
+*** Infinite Judgment (472)
+*** Judgment of a Reflection (476)
+*** Universal Judgment (480)
+*** Disjunctive Judgment (486)
+*** Apodeictic Judgment (Syllogism) (492)
+*** IUP_E (UUU_E) (502)
+*** Syllogism of Analogy (508)
+*** Disjunctive Syllogism (IUP_N) (Objectivity) (517)
+** Objectivity (63-70)
+*** Nature of Mechanical Objects (528)
+*** Rest (531)
+*** Oneness of the Object (535)
+*** Free Mechanism (537)
+*** Chemism (540)
+*** Abstract Neutrality (543)
+*** Neutrality and Tension (End) (545)
+*** Realized End (Idea) (554)
+** The Idea (71-79)
+*** Organism (565)
+*** Reproduction (567)
+*** Assimilation of the Object (569)
+*** Cognition (570)
+*** The True (578)
+*** Scientific Laws (583)
+*** Theorem (588)
+*** Absolute Idea (591)
+*** Absolute Knowing (Method) (599)
+* Free Thought vs. Common Sense (Carslon-2007.49-50)
+If we can draw the Concept from the object, then thinking
+becomes free. /Free/ thought is that which is "performed
+with awareness of what is being done." (37)
+
+When thinking is instinctive (unaware of itself), "spirit
+is enmeshed in the bonds of its categories and is broken
+up into an infinitely varied material." (37)
+
+Instinctive thinking cannot fathom the unity in diverse 
+things.
+
+Free thought follows a necessary development. In this development,
+the steps must /necessarily/ follow one another. Even the very
+idea of necessity must be derived /necessarily/. Logic must
+therefore be self-referential: it has its own self as its
+subject matter.
+
+Logic is both:
+- Method
+- Derivation of Method
+
+Every other science distinguishes subject matter and method.
+Method, however, must be Logic's own final result. If logic
+would be a /science/, it cannot borrow methods from "subordinate"
+fields such as mathematics.
+
+"[W]hat logic is cannot be stated beforehand". (43) Its method
+must emerge as the final outcome.
+
+Common Sense (aka unfree thought, or the Understanding) leaves
+truth and content to one side and considers only form. It is 
+an important step, however, because by separating form and
+content (i.e. thought from the object) the Understanding divides
+the object. "But /equally/ it must transcend ... its /separating/
+determinations and straightway /connect/ them." (46) This
+connecting activity (Speculative Reason) is the great "negative
+step" that leads to the true Concept of reason.
+
+In the /SL/, mind learns what it is.
+
+In the /PhG/ a thinking subject faced an object. The end
+result was the unity of subject and object--ABSOLUTE KNOWING.
+
+The /PhG/'s result was the elimination of consciousness as
+a valid philosophical standpoint.
+
+This is also the beginning point of the /SL/: "[P]ure science
+presupposes liberation from the opposition of consciousness." (/SL/:49)
+
+In other words, THOUGHT THINKS ITSELF. (50)
+
+Logic's point of view is strictly its own--not ours.
+
+"[L]ogic is to be understood as the system of pure reason,
+as the realm of pure thought. This realm is truth as it is
+without veil and in its own absolute nature." (/SL/ 49-50).
+
+
+
+
+
+
 * References
 - DGC: Carlson-2007
 - SL: Science of Logic
