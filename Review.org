@@ -1,0 +1,331 @@
+* Review of Advanced Non-Linear Models
+After reading through the literature, I identified several
+lines of research that I deemed relevant to understanding
+the recent non-linear and complexity models in the Social
+Sciences. I categorized the approaches into 7 topics:
+
+- Sociology and Complexity Science (SACS)
+- Hegelian "Chemistry"
+- Category Theory
+- Sociophysics
+- Evolutionary/Game Theoretic Approaches
+- Social Network Analysis
+- Digitalism
+
+Each of these topics will be dealt with in a 
+separate section below.
+
+As I mentioned to you earlier, I think the most
+interesting and fruitful approaches are the first
+two (SACS and Hegel) but I wanted to include others
+that you might find interesting. 
+** Sociology and Complexity Science (SACS)
+Sociology and Complexity Science (SACS) refers to a
+growing network of scholars involved within the
+intersection of sociology and complexity science
+for the purposes of enhancing sociological inquiry--
+be it in terms of the study of health care, economics,
+human organizations, crowd behavior or life on the
+internet.
+
+SACS is comprised of five major research areas:
+- Computational Sociology
+- Complex Social Network Analysis
+- The Luhmann School of Complexity
+- Sociocybernetics
+- British-based School of Complexity
+
+Brian Castellani and Frederic Hafferty are two of the leaders
+of this approach, and there is a lot of good information about
+their approach at Castellani's website. Especially noteworthy
+is the SACS Toolkit, which is a sophisticated methodological
+framework that allows one to conduct empirical research. 
+
+This group summarizes their work in a book called
+/Sociology and Complexity Science/ (2009, Springer) and provides
+a lot of information on various websites:
+
+SACS Toolkit
+http://www.personal.kent.edu/~bcastel3/
+
+Sociology and Complexity Science
+http://www.personal.kent.edu/~bcastel3/SACS_book.html
+
+PDF of various Graphs, Network Diagram, etc.
+http://www.personal.kent.edu/~bcastel3/color%20figures.pdf
+
+Two other approaches are directly related to the
+SACS approach that should be noted.
+
+David Byrne and Gillian Callaghan have recently written
+a book called /Complexity Theory and the Social Sciences: The state of the art/.
+The SACS group draws on Byrne's work, which at a first
+go-through, looks very solid. 
+
+Qualitative Comparative Analysis (QCA) methodological approach
+is used in a wide variety of "medium-n" studies. There is a research group
+in Europe called Compasss that serves as the center of this line
+of research. They have a nice website with a searchable database of studies.
+Details about the group are located here:
+
+http://www.compasss.org/about.htm
+
+** Hegelian "Chemistry" 
+Over the past month-plus I've been scouring the Hegel shelves, and I found that there
+have been some new developments in Hegel research. The most
+notable is the work by a Law Professor (Cardozo in NYC) named 
+David Gray Carlson. Carlson developed a unique system of 
+visualizing the development of the /The Science of Logic/ (/SL/) 
+through a step-by-step progression of 237 Borromean Knot Diagrams
+and the transitions between them. Much of Carlson's work is 
+online, and can be downloaded at from the following website:
+
+http://www.hegel.net/carlson/
+
+I recommend reading the document /Hegel's Theory of Quality/ first.
+It provides the blueprint of the model that Carlson (following Hegel)
+will iterate until he reaches the summit of Absolute Knowing 600 pages
+later. Here is the link to that document:
+
+http://www.hegel.net/carlson/Carlson2000-Hegels%20Theory%20of%20Quality.pdf
+
+Thanks to the website Scribd, I now have several dozen excellent
+books on Hegel on PDF. Carlson is the best in my view, but there
+are many others that I am working through as well. I haven't yet
+looked in depth at Robert Brandom's work, but his work a good reputation
+as well. He is a major analytic philosopher who is the process
+of writing a new book on the /PhG/ called /The Spirit of Trust/.
+The content is posted online at the following site:
+
+http://www.pitt.edu/~brandom/spirit_of_trust.html
+
+Finally, I did browse at Malabou's work and I have a few PDFs. 
+I haven't been able to give it too much time, but I do like the
+fact that she is trying to synthesize Hegel with recent 
+neuroscientific advances. The /New Wounded/ looks promising and
+deals with a very important topic--"psychic wounds".
+
+http://www.amazon.com/The-New-Wounded-Neurosis-Damage/dp/0823239683
+
+** Category Theory
+Category Theory seems to becoming the /lingua franca/ amongst mainstream
+mathematicians. A very interesting recent paper shows how
+Category Theory can be used to show the structural similarites
+between Social Networks and Hierarchical Protein Materials:
+
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023911
+
+One of the co-authors of the article above, David Spivak, is
+a young academic associated with the MIT Mathematics department
+and has recently taught a course called /Category Theory for the Working Scientist/. I have a PDF copy of the book
+associated with that course, and which will be published soon.
+The book uses examples from a vast range of disciplines in
+order to give one the category theory mindset.
+
+John Baez is a category theorist, and he writes extremely well on
+variety of advanced mathematical and scientific topics. His new
+work on Networks is awesome, and very cross-disciplinary. The following
+links summarize this work:
+
+Baez on /Network Theory/ and /Green Mathematics/
+- http://math.ucr.edu/home/baez/networks/
+- http://math.ucr.edu/home/baez/networks/networks_1.html
+
+Baez and Biamonte on "Stochastic Mechanics"
+http://math.ucr.edu/home/baez/stoch_stable.pdf
+
+** Sociophysics
+There seems to be many groups working at the intersection
+of physics and the social sciences. The following are four
+examples of groups that have potentially useful approaches.
+*** Helbing and Weidrich
+Helbing and Weidrich's approach is a very sophisticated
+socio-physics. In addition to their non-linear modeling
+work, Helbing is also associated with this major project
+called "FuturICT":
+
+http://www.futurict.eu/
+
+The tag-line of FuturICT is impressive: "Integrating
+ICT, Complexity Science and the Social Sciences will
+create a paradigm shift, facilitating a symbiotic 
+co-evolution of ICT and society".
+
+I sent you Helbing's book called /Quantitative Socio-dynamics/
+a couple of weeks ago. Here's the summary:
+
+By incorporating decision-theoretical approaches, a fundamental dynamic model is obtained, which opens new perspectives in the social sciences. It includes many established models as special cases, e.g. the logistic equation, the gravity model, some diffusion models, evolutionary game theory and social field theory. Moreover, it implies numerous new results and is relevant for various application areas, such as opinion formation, migration, the self-organization of behavioral conventions, and the behavior of customers and voters. Theoretical results are complemented and illustrated by numerous computer simulations.
+ 
+*** Systemic Yo-Yo Model (Lin Forrest)
+Jeffrey Yi Lin Forrest is an applied Mathematician
+specializing in Systems Science who is 
+associated with Nanjing University in China as well
+as Penn State University. Over the past 25-30 years,
+Forrest has been developing his "Systemic Yoyo Model",
+which he has applied to a vast range of topics. I have
+taken copious notes on his recent book called 
+/A Systemic Perspective on Cognition and Mathematics/,
+which I highly recommend.
+
+I have a set of notes on this work that I will be soon
+putting up on my research website (which I will discuss
+with you soon).
+*** Raissa D'Souza
+D'Souza is an applied mathematician who is
+studying the interactions between networks of networks (among other things).
+The following are two short articles that provides a couple of interesting graphics
+that illustrate her approach to understanding networks. 
+
+A Winning Strategy
+http://mae.ucdavis.edu/dsouza/Pubs/nphys2571.pdf
+
+Additional information with many papers and summaries of her work can
+be found here:
+
+http://mae.ucdavis.edu/dsouza/
+*** Geoffrey West
+Geoffrey West is the past president of the Santa Fe Institute and has
+done significant work on modeling urban patterns. A link to a description
+of his work from the New York Times:
+http://www.nytimes.com/2010/12/19/magazine/19Urban_West-t.html?pagewanted=all&_r=0
+** Evolutionary/Game Theoretic Approaches
+*** Evolutionary Dynamics at Harvard
+The Evolutionary Dynamics program at Harvard is led by Martin Nowak, who is one of the top Evolutionary Biologists in the world right now, and has a very productive group of people around him. 
+
+There are many papers on Nowak's site, but there are a few that I would
+like to alert you to:
+
+"Human Cooperation"
+http://www.cell.com/trends/cognitive-sciences//retrieve/pii/S1364661313001216?_returnURL=http://linkinghub.elsevier.com/retrieve/pii/S1364661313001216?showall=true#MainText
+
+"Civic Capital in Two Cultures"
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2179575
+
+"Religious Motivations for Cooperation"
+http://www.tandfonline.com/doi/abs/10.1080/2153599X.2013.775664#.UnqDJHg24UQ
+
+"Intuitive Cooperation and Social Heuristics"
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2222683
+
+The complete list of articles can be found at the following
+link: http://www.ped.fas.harvard.edu/people/faculty/all_publications.html#2013
+
+Note that there is also a recent collection edited by Nowak and Coakley from
+Harvard University Press called /Evolution, Games, and God/. Looks interesting:
+
+http://www.amazon.com/Evolution-Games-God-Martin-Nowak-ebook/dp/B00BOVIR3Q/ref=sr_1_1?ie=UTF8&qid=1383761080&sr=8-1&keywords=evolution%2C+games+and+god
+
+*** EvoLudo
+An alumni of the Evolutionary Dynamics program, Christoph Hauert, has
+maintains an onsite virtual laboratory which presents many of the 
+Evolutionary Game Theory models in a visual form. The site advertises itself
+in the following way:
+
+"EvoLudo is a growing collection of interactive tutorials that complement numerous research articles on evolutionary game. These tutorials allow the reproduction and verification of results reported in scientific articles. In addition, they are intended to encourage the interested reader, students and researchers to explore the fascinating world of game theory and evolutionary dynamics in a playful manner. This helps to develop a better intuitive understanding of the often complex evolutionary dynamics and encourage further explorations in the fascinating and often mesmerizing world of spatio-temporal patterns."
+http://wiki.evoludo.org/index.php?title=Stochastic_dynamics_in_finite_populations
+*** Algorithmic Game Theory
+Algorithmic Game Theory is a relatively new variant on game theory, and
+is situated at the intersection of computer science, economics and game
+theory. It has developed in line with the rise of the internet, and 
+provides some insights in regards to markets. 
+
+The following link connects to a large (775 page) book on Algorithmic
+Game Theory from Cambridge University Press which contains basically
+everything you would need to know what this field is about. 
+
+http://www.cambridge.org/journals/nisan/downloads/Nisan_Non-printable.pdf
+
+The book is divided into the following four sections:
+- Computing in Games
+- Algorithmic Mechanism Design
+- Quantifying the Inefficiency of Equilibria
+- Additional Topics
+
+Within each section are several chapters which describe a different
+aspect of Algorithmic Game Theory. 
+*** Synthetic Biology
+I noticed that J.Craig Venter has a new book out called
+/Life at the Speed of Light/. He has received a lot of
+press for his recent work on artificial life. Here is 
+nice link that summarizes this basic approach.
+
+First Self-Replicating Synthetic Bacterial Cell
+http://www.jcvi.org/cms/research/projects/first-self-replicating-synthetic-bacterial-cell/overview/
+
+** Social Network Analysis
+The vast increase in the amount of available data and continued development
+of network techniques has given the leading
+SNA researchers several new projects to work on.  The following four
+researchers represent some of the most interesting work I have seen
+recently from this camp.
+
+*** Kathleen Carley (CASOS)
+Kathleen Carley's group at Carnegie Mellon (CASOS) is advancing pretty
+well. Their strengths seem to be around Dynamic Network Analysis,
+Text Analytics (using big datasets) and Massively-Multiple-Player Games.
+They seem to be keeping up on the cutting edge fairly well.
+
+*** Ronald Burt
+Ronald Burt is doing some interesting research into Social Networks in
+the on-line game /Second Life/. Here's a document called "Structural
+Holes in Virtual Worlds" (125 pages) that summarizes what he is 
+doing:
+
+http://faculty.chicagobooth.edu/ronald.burt/research/files/SHVW.pdf 
+
+*** Peter Mika
+Peter Mika is a Research Scientist at Yahoo! who wrote a dissertation
+that was turned into a book called /Social Networks and the Semantic Web/.
+It is very well-grounded in social network theory from the sociological
+tradition. I have a PDF copy of it that I can send along to you. (at your request)
+
+*** Zeev Maoz
+Zeev Maoz is a social scientist working in field of international relations
+who recently published a book called /Networks of Nations/. This is part
+of the series (Structural Analysis in the Social Sciences) from Cambridge 
+University Press that published /The Logics of Social Structure/. I also
+have a PDF of this that I can send along to you. (at your request)
+
+** Digitalism
+I give the title "Digitalism" to a set of approaches that 
+are related to the idea that at root, the world is an
+cellular automata. Much of this work is speculative, but
+it is very exciting.
+
+Philosopher (and former software developer) Eric Steinhart
+is a very good writer in this field. He writes a lot about
+Digitalism, Singularity, Digital Ghosts, etc. 
+
+Steinhart has also written a recent book called /More Precisely/,
+which is a book of mathematics written for philosophers. I have
+it, and it is a model of clarity. It covers a wide range of 
+useful topics from Sets and Relations to Bayes Theorem to Semantics
+to Cellular Automata, and so on.
+
+There are many good articles (many of them are short) on Steinhart's
+page. Here are a few very interesting ones.
+
+Your Digital Afterlives: Computational Theories of Life and Death
+http://ericsteinhart.com/FLESH/flesh-chabs.html
+
+The Singularity Hypothesis: A Scientific and Philosophical Assessment
+http://ericsteinhart.com/progress/sing-toc.html
+
+A full list of articles is here. I think you will enjoy browsing
+some of the titles:
+http://ericsteinhart.com/abstracts.html
+
+Nick Bostrom is the Director the "Future of Humanity Institute" and
+uses a variety of methods (including mathematical models) to 
+make predictions about the future. Here are some interesting ones
+to take a look at:
+
+The Unilateralist's Curse
+http://www.nickbostrom.com/papers/unilateralist.pdf
+
+Letter from Utopia
+http://www.nickbostrom.com/utopia.html
+
+Many other articles are found on Bostrom's (well-laid out) website:
+http://www.nickbostrom.com/
+
