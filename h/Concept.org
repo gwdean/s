@@ -1,4 +1,4 @@
-#+TITLE:     Commentary on /Hegel's Concept of God/
+#+TITLE:     The Concept
 #+AUTHOR:    GW Dean
 #+EMAIL:     gwdean@gmail.com
 #+DATE:      2013-11-15
@@ -12,25 +12,11 @@
 #+EXPORT_EXCLUDE_TAGS: noexport
 #+LINK_UP:   
 #+LINK_HOME: 
-* Introduction
-** The Intelligibility of Reality
-** The Intelligibility of Divine Reality
-** Object of Reason vs. Object of Understanding
-** What Is Reason?
-** God and Philosophy
-** God and Human History
-** "Denaturalization" of the Human
-** Hegel's Language
-** Question of Sources
-* Religion and Philosophy
-** The "Divinity" of Thought
-** The Rationality of the Religious
-** Knowing and Believing
-** Philosophy of God
-** Human Spirit as Divine Revelation
-** God and Metaphysics
-** The Logic of Being
-* The Concept (57-127)
+
+Notes on "The Doctrine of Concept" from Hegel's Encyclopedia
+1-17, 161-244. These notes follow the argument developed by
+Quentin Lauer in /Hegel's Concept of God/. (SUNY Press, 1982)
+ 
 ** Philosophical Thinking (59)
 This section analyzes an important section of Hegel's work,
 notably the Introduction (nos. 1-17) to his
@@ -39,7 +25,33 @@ notably the Introduction (nos. 1-17) to his
 ** The "Necessity" of Truth (76)
 ** Relation of Thought and Reality
 ** The Meaning of Concept
-** Judgment
+When Hegel uses the term "concept", he is speaking from the
+perspective of "absolute idealism", according to which what
+ordinary consciousness looks upon as a "being" independent
+of consciousness is seen to be but an "ideal moment" of a 
+larger whole in which only "/begreifendes Erkennen/" can come
+to grips with. (80)
+
+The "logic of understanding", on the other hand, tends to 
+look upon the concept as simply a form of subjective thinking,
+the way the individual mind "represents" to itself universally
+the object it thinks, an empty abstraction. (80-81)
+
+For Hegel, the concept is the exact opposite of abstract;
+it is an "utterly concrete", vital principle. (81)
+
+The concept  as "uniting the totality of finite
+perspectives into an ideal unity, into a determinate whole,
+it is concrete, the locus of concrete universality, 
+the /really real/, not the mentally fragmented. (81)
+
+In this sense, the concept is /the/ definition of the absolute. (81)
+
+The concept is the "dynamic reproduction in thought
+of the rational structure of reality." (81)
+
+ 
+** Judgment 
 ** Syllogism
 ** From Subjectivity to Objectivity
 ** The Meaning of "Objectivity"
@@ -48,50 +60,5 @@ notably the Introduction (nos. 1-17) to his
 ** Truth as Idea
 ** Idea as Process
 ** Idea as Absolute
-* God as Spirit
-** Identity of Finite and Infinite Spirit
-** Self-Manifestation Essential to Spirit
-** Activity Without Passivity
-** Only Spirit Knows Spirit
-** Relation of Divine Spirit to the World
-** Human Self-Consciousness Reveals the Divine
-** The Function of Negation
-* The Infinite
-** The Infinite Object of Thought
-** The Meaning of "Infinite"
-** Infinity of Concept
-** The Infinity of the Finite
-** Phenomenology of Spirit
-** Philosophy of Religion
-** The Necessary Connection of Thinking and the Reality of God
-* "Proofs" of God
-** Critique of Kant
-** Finite Mind and Infinite Being
-** Philosophy Is Not to Eliminate Religion
-** The Growth of Consciousness
-** The Condition of All Conditions
-** Knowledge and Experience
-** The Meaning of "Proof"
-** Idea and Reality
-* The Question of Pantheism
-** Hegel's Critics
-** The Contingency of the World
-** "Speculative" Philosophy and Religion
-** God Makes a Difference (258)
-** Only One God (262)
-** Response of "Human" Spirit
-** Spirit Speaks to Spirit
-** Back to "Pantheism"
-* Philosophy and Theology
-** Faith and Knowledge
-** Christology
-** The Function of Speculation
-** The Meaning of "Revelation" (297)
-** The Movement of Spiritualization (302)
-** "Concrete" God as Triune (305)
-** Creative Love (308)
-** Rational Necessity and Absolute Idea (313)
-** The Question of Reconciliation
-** The Church
-* Epilogue
-* 
+
+ 
