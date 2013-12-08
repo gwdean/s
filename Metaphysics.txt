@@ -1,5 +1,8 @@
-Notes on the Metaphysics.
+Notes on Aristotle's Metaphysics. 
 GW Dean.
+
+Aristotle   (384-322 BCE)
+Metaphysics (~330 BCE)
 
 A. Introductions to Philosophy (3-60)
 B. The Province of Philosophy (61-129)
@@ -25,6 +28,17 @@ XIV.  Book Nu:              Numbers, Ideas, and First Principles (300)
 001. The Development of Theoretical Knowledge (3)
 002. The Nature and Goal of Wisdom (6)
 003. Early Views of Materials, Movement, and Good (9)
+004. Inadequate Uses of Material and Efficient Factors (12)
+005. Pythagorean and Parmenidean Principles (15)
+006. Platonist Material and Formal Explanations (19)
+007. Explanation as Material, Efficient, Formal, and Final (21)
+008. Critique of Early Philosophies (23)
+009. Critique of Doctrines of Ideas (26)
+010. Conclusion of the Historical Survey of Explanations (34)
+011. Progress in Philosophic Knowledge (35)
+012. Rejection of the Infinite Regress (36)
+013. The Importance of Training in Method (38)
+014. An Outline of Philosophic Problems (40)
 ...
 149. Numbers, Generation, and Explanation (313)
 150. Consequences of Fantastic Doctrines of Numbers (315)
