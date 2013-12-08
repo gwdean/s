@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+lang="en" xml:lang="en">
+<head>
+<title>Metaphysics: The Outline</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2013-12-07 Sat"/>
+<meta name="author" content="GW Dean"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+
+<h1 class="title">Metaphysics: The Outline</h1>
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Introductions to Philosophy (3-60) </a>
+<ul>
+<li><a href="#sec-1.1">1.1 Book Alpha: The Theory of Explanation </a></li>
+<li><a href="#sec-1.2">1.2 Book Alpha the Less: Remarks on Philosophic Procedures </a></li>
+<li><a href="#sec-1.3">1.3 Book Beta: Typical Problems in General Philosophy </a></li>
+</ul>
+</li>
+<li><a href="#sec-2">2 The Province of Philosophy (61-129) </a>
+<ul>
+<li><a href="#sec-2.1">2.1 Book Gamma: Being and Knowledge </a></li>
+<li><a href="#sec-2.2">2.2 Book Delta: Definitions of Terms </a></li>
+<li><a href="#sec-2.3">2.3 Book Epsilon: First Philosophy and Irrelevant Ways of Being (123-129) </a>
+<ul>
+<li><a href="#sec-2.3.1">2.3.1 Theoretical Sciences as Natural, Mathematical, and Theological </a></li>
+<li><a href="#sec-2.3.2">2.3.2 Exclusion of Accidental Being from Science </a></li>
+<li><a href="#sec-2.3.3">2.3.3 The Genuineness of the Fortuitous </a></li>
+<li><a href="#sec-2.3.4">2.3.4 Exclusion of Being as the True from Science </a></li>
+</ul></li>
+</ul>
+</li>
+<li><a href="#sec-3">3 Being and Becoming (130-220) </a>
+<ul>
+<li><a href="#sec-3.1">3.1 Book Zeta </a></li>
+<li><a href="#sec-3.2">3.2 Book Eta </a></li>
+<li><a href="#sec-3.3">3.3 Book Theta </a></li>
+<li><a href="#sec-3.4">3.4 Book Iota </a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4 Philosophic Excerpts (221-247) </a>
+<ul>
+<li><a href="#sec-4.1">4.1 Book Kappa </a></li>
+</ul>
+</li>
+<li><a href="#sec-5">5 Eternal Being (248-318) </a>
+<ul>
+<li><a href="#sec-5.1">5.1 Book Lambda </a></li>
+<li><a href="#sec-5.2">5.2 Book Mu </a></li>
+<li><a href="#sec-5.3">5.3 Book Nu </a></li>
+</ul>
+</li>
+<li><a href="#sec-6">6 Analytical Index of Technical Terms (319-390) </a></li>
+<li><a href="#sec-7">7 Index of Names (391-394) </a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Introductions to Philosophy (3-60) </h2>
+<div class="outline-text-2" id="text-1">
+
+
+</div>
+
+<div id="outline-container-1.1" class="outline-3">
+<h3 id="sec-1.1"><span class="section-number-3">1.1</span> Book Alpha: The Theory of Explanation </h3>
+<div class="outline-text-3" id="text-1.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.2" class="outline-3">
+<h3 id="sec-1.2"><span class="section-number-3">1.2</span> Book Alpha the Less: Remarks on Philosophic Procedures </h3>
+<div class="outline-text-3" id="text-1.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-1.3" class="outline-3">
+<h3 id="sec-1.3"><span class="section-number-3">1.3</span> Book Beta: Typical Problems in General Philosophy </h3>
+<div class="outline-text-3" id="text-1.3">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> The Province of Philosophy (61-129) </h2>
+<div class="outline-text-2" id="text-2">
+
+
+</div>
+
+<div id="outline-container-2.1" class="outline-3">
+<h3 id="sec-2.1"><span class="section-number-3">2.1</span> Book Gamma: Being and Knowledge </h3>
+<div class="outline-text-3" id="text-2.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2" class="outline-3">
+<h3 id="sec-2.2"><span class="section-number-3">2.2</span> Book Delta: Definitions of Terms </h3>
+<div class="outline-text-3" id="text-2.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3" class="outline-3">
+<h3 id="sec-2.3"><span class="section-number-3">2.3</span> Book Epsilon: First Philosophy and Irrelevant Ways of Being (123-129) </h3>
+<div class="outline-text-3" id="text-2.3">
+
+
+</div>
+
+<div id="outline-container-2.3.1" class="outline-4">
+<h4 id="sec-2.3.1"><span class="section-number-4">2.3.1</span> Theoretical Sciences as Natural, Mathematical, and Theological </h4>
+<div class="outline-text-4" id="text-2.3.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.2" class="outline-4">
+<h4 id="sec-2.3.2"><span class="section-number-4">2.3.2</span> Exclusion of Accidental Being from Science </h4>
+<div class="outline-text-4" id="text-2.3.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.3" class="outline-4">
+<h4 id="sec-2.3.3"><span class="section-number-4">2.3.3</span> The Genuineness of the Fortuitous </h4>
+<div class="outline-text-4" id="text-2.3.3">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.4" class="outline-4">
+<h4 id="sec-2.3.4"><span class="section-number-4">2.3.4</span> Exclusion of Being as the True from Science </h4>
+<div class="outline-text-4" id="text-2.3.4">
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Being and Becoming (130-220) </h2>
+<div class="outline-text-2" id="text-3">
+
+
+</div>
+
+<div id="outline-container-3.1" class="outline-3">
+<h3 id="sec-3.1"><span class="section-number-3">3.1</span> Book Zeta </h3>
+<div class="outline-text-3" id="text-3.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-3.2" class="outline-3">
+<h3 id="sec-3.2"><span class="section-number-3">3.2</span> Book Eta </h3>
+<div class="outline-text-3" id="text-3.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-3.3" class="outline-3">
+<h3 id="sec-3.3"><span class="section-number-3">3.3</span> Book Theta </h3>
+<div class="outline-text-3" id="text-3.3">
+
+</div>
+
+</div>
+
+<div id="outline-container-3.4" class="outline-3">
+<h3 id="sec-3.4"><span class="section-number-3">3.4</span> Book Iota </h3>
+<div class="outline-text-3" id="text-3.4">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Philosophic Excerpts (221-247) </h2>
+<div class="outline-text-2" id="text-4">
+
+
+</div>
+
+<div id="outline-container-4.1" class="outline-3">
+<h3 id="sec-4.1"><span class="section-number-3">4.1</span> Book Kappa </h3>
+<div class="outline-text-3" id="text-4.1">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Eternal Being (248-318) </h2>
+<div class="outline-text-2" id="text-5">
+
+
+</div>
+
+<div id="outline-container-5.1" class="outline-3">
+<h3 id="sec-5.1"><span class="section-number-3">5.1</span> Book Lambda </h3>
+<div class="outline-text-3" id="text-5.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-5.2" class="outline-3">
+<h3 id="sec-5.2"><span class="section-number-3">5.2</span> Book Mu </h3>
+<div class="outline-text-3" id="text-5.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-5.3" class="outline-3">
+<h3 id="sec-5.3"><span class="section-number-3">5.3</span> Book Nu </h3>
+<div class="outline-text-3" id="text-5.3">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Analytical Index of Technical Terms (319-390) </h2>
+<div class="outline-text-2" id="text-6">
+
+</div>
+
+</div>
+
+<div id="outline-container-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Index of Names (391-394) </h2>
+<div class="outline-text-2" id="text-7">
+
+</div>
+</div>
+<div id="postamble">
+<p class="author"> Author: GW Dean
+<a href="mailto:gwdean@gmail.com">&lt;gwdean@gmail.com&gt;</a>
+</p>
+<p class="date"> Date: 2013-12-07 Sat</p>
+<p class="creator">HTML generated by org-mode 6.33x in emacs 23</p>
+</div>
+</div>
+</body>
+</html>
