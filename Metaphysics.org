@@ -33,11 +33,34 @@
 ** Book Mu: Mathematical Entities and the Ideas (270)
 ** Book Nu: Numbers, Ideas, and First Principles (300)
 * Analytical Index of Technical Terms (319-390)
-** Being
-** Categories
-** Principles of Explanation
-** Nature and Change
-** Human Nature and Soul
-** Mind 
-** The Divine
+** Being (319)
+** Categories (336)
+** Principles of Explanation (353)
+** Nature and Change (362)
+** Human Nature and Soul (378)
+** Mind (381)
+** The Divine (390)
 * Index of Names (391-394)
+* Metaphysics: The Table
+|       |            |          |       |          |
+| Id    | Book       | Sections | Pages | Category |
+|       |            |          |       |          |
+| I.    | Alpha      |       10 |    32 |        1 |
+| II.   | Alpha-Less |        3 |     5 |        1 |
+| III.  | Beta       |        6 |    21 |        1 |
+| IV.   | Gamma      |        8 |    26 |        2 |
+| V.    | Delta      |       30 |    36 |        2 |
+| VI.   | Epsilon    |        4 |     7 |        2 |
+| VII.  | Zeta       |       17 |    39 |        3 |
+| VIII. | Eta        |        6 |    12 |        3 |
+| IX.   | Theta      |       10 |    19 |        3 |
+| X.    | Iota       |       10 |    21 |        3 |
+| XI.   | Kappa      |       12 |    27 |        4 |
+| XII.  | Lambda     |       10 |    22 |        5 |
+| XIII. | Mu         |       10 |    30 |        5 |
+| XIV.  | Nu         |        6 |    19 |        5 |
+|-------+------------+----------+-------+----------|
+            
+
+
+
