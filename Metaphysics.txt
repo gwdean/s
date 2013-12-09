@@ -28,6 +28,30 @@ XII.  Book Lambda:          Divine Being (248)
 XIII. Book Mu:              Mathematical Entities and the Ideas (270)
 XIV.  Book Nu:              Numbers, Ideas, and First Principles (300)
 
+
+Relative Sizes of Books
+-----------------------
+Book (Chapters, Pages)
+
+Alpha        (10,32)
+AlphaTheLess   (3,5)
+Beta          (6,21)
+Gamma         (8,26)
+Delta        (30,36)
+Epsilon        (4,7)
+Zeta         (17,39)
+Eta           (6,12)
+Theta        (10,19)
+Iota         (10,21)
+Kappa        (12,27)
+Lambda       (10,22)
+Mu           (10,30)
+Nu            (6,19)
+
+Total      (142,316)
+
+
+
 001. The Development of Theoretical Knowledge (3)                 
 002. The Nature and Goal of Wisdom (6)                             
 003. Early Views of Materials, Movement, and Good (9)             
@@ -91,32 +115,83 @@ XIV.  Book Nu:              Numbers, Ideas, and First Principles (300)
 061. Exclusion of Being as the True from Science (128)
 062. Primary and Dependent Being (130)
 063. Diverse Views of Primary Being (131)
+064. Subject Matter as Primary Being (132) 
+065. Definition and Integral Concepts (134)
+066. Definition and Difficult Dependent Concepts (137)
+067. Definition, Knowledge, and Objects (139)
+068. Clues in Natural and Artificial Production (142)
+069. Matter and Form Combined in Objects (145)
+070. Conditions of Types and Change (147)
+071. Definition, Analysis, and Form (149)
+072. Definition and Forms Not Easily Recognized (153)
+073. Definition and Fundamental Characteristics (156)
+074. Universals as Common Qualities (158)
+075. Universals Not Independent (161)
+076. Universals, Definition, and Knowledge (162)
+077. The Highest Universals (164)
 078. The Problem of the Unity of the Individual (166)
+079. Matter and Change (169)
+080. Differentiating Characteristics and Individuality (171)
+081. Alleged Mediations Between Matter and Form (173)
+082. Emergence of Specific Objects and Events (175)
+083. Difficulties in the Logic of Change (177)
 084. The Unity of the Individual Explained (178)
+085. Active and Passive Power (181)
+086. Non-Rational and Rational Power (183)
+087. Power and Change (184)
+088. Power and Possibility and Impossibility (186)
+089. Juxtaposition of Complementary Powers (187)
+090. Antithesis of Power and Act (188)
+091. Conditions of Potential Being (190)
+092. Priority of Act to Power (191)
+093. Estimates of Power and Act (196)
 094. Truth and Being (197)
+095. Unity as Individual and Measure (200)
+096. Unity and Being as Definite (204)
+097. Unity, Plurality, and Their Derivatives (205)
+098. The Nature of Contraries (208)
+099. Conjoint Denial of Extremes (210)
+100. Opposition of Unity to Plurality (212)
+101. The Nature of Intermediates (214)
+102. Otherness as to Kinds (216)
+103. Contraries Marking Differences in Kind (217)
 104. The Perishable and the Imperishable (219)
+105. Questions on the Unity of Wisdom (221)
+106. Questions on the Status of Principles (223)
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
 116. Kinds of Movement and Allied Concepts (244)
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
 126. Divine Perfection and the Natural World (267)
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
 136. Generality and Particular Reference of Knowledge (298)
+137.
+138.
+139.
+140.
+141.
 142. Consequences of Fantastic Doctrines of Numbers (315)
 
-Relative Sizes of Books
------------------------
-Book (Chapters, Pages)
-
-Alpha        (10,32)
-AlphaTheLess   (3,5)
-Beta          (6,21)
-Gamma         (8,26)
-Delta        (30,36)
-Epsilon        (4,7)
-Zeta         (17,39)
-Eta           (6,12)
-Theta        (10,19)
-Iota         (10,21)
-Kappa        (12,27)
-Lambda       (10,22)
-Mu           (10,30)
-Nu            (6,19)
-
-Total      (142,316)
