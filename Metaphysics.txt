@@ -13,52 +13,30 @@ C. Being and Becoming (130-220)          [062-104]   43-91
 D. Philosophic Excerpts (221-247)        [105-116]   12-27
 E. Eternal Being (248-318)               [117-142]   26-71
 
-I.    Book Alpha:           The Theory of Explanation (3)
-II.   Book Alpha the Less:  Remarks on Philosophic Procedures (35)
-III.  Book Beta:            Typical Problems in General Philosophy (40)
-IV.   Book Gamma:           Being and Knowledge (61)
-V.    Book Delta:           Definitions of Terms (87)
-VI.   Book Epsilon:         First Philosophy and Irrelevant Ways of Being (123)
-VII.  Book Zeta:            The Search for Primary Being (130)
-VIII. Book Eta:             The Unity of Matter and Form (169)
-IX.   Book Theta:           Powers and Operations (181)
-X.    Book Iota:            Unity and Derivative Concepts (200)
-XI.   Book Kappa:           Repetitions and Quotations (221)
-XII.  Book Lambda:          Divine Being (248)
-XIII. Book Mu:              Mathematical Entities and the Ideas (270)
-XIV.  Book Nu:              Numbers, Ideas, and First Principles (300)
-
-
-Relative Sizes of Books
------------------------
-Book (Chapters, Pages)
-
-Alpha        (10,32)
-AlphaTheLess   (3,5)
-Beta          (6,21)
-Gamma         (8,26)
-Delta        (30,36)
-Epsilon        (4,7)
-Zeta         (17,39)
-Eta           (6,12)
-Theta        (10,19)
-Iota         (10,21)
-Kappa        (12,27)
-Lambda       (10,22)
-Mu           (10,30)
-Nu            (6,19)
-
-Total      (142,316)
-
-
+(Numeral,Book,Title,Begin,Chapters,Pages)
+I.    Book Alpha:           The Theory of Explanation (3)                          10   32 
+II.   Book Alpha the Less:  Remarks on Philosophic Procedures (35)                  3    5
+III.  Book Beta:            Typical Problems in General Philosophy (40)             6   21
+IV.   Book Gamma:           Being and Knowledge (61)                                8   26 
+V.    Book Delta:           Definitions of Terms (87)                              30   36
+VI.   Book Epsilon:         First Philosophy and Irrelevant Ways of Being (123)     4    7
+VII.  Book Zeta:            The Search for Primary Being (130)                     17   39
+VIII. Book Eta:             The Unity of Matter and Form (169)                      6   12
+IX.   Book Theta:           Powers and Operations (181)                            10   19
+X.    Book Iota:            Unity and Derivative Concepts (200)                    10   21
+XI.   Book Kappa:           Repetitions and Quotations (221)                       12   27
+XII.  Book Lambda:          Divine Being (248)                                     10   22
+XIII. Book Mu:              Mathematical Entities and the Ideas (270)              10   30 
+XIV.  Book Nu:              Numbers, Ideas, and First Principles (300)              6   19
+Total                                                                             142  316
 
 001. The Development of Theoretical Knowledge (3)                 
 002. The Nature and Goal of Wisdom (6)                             
 003. Early Views of Materials, Movement, and Good (9)             
-004. Inadequate Uses of Material and Efficient Factors (12)
-005. Pythagorean and Parmenidean Principles (15)
-006. Platonist Material and Formal Explanations (19)
-007. Explanation as Material, Efficient, Formal, and Final (21)
+004. Inadequate Uses of Material and Efficient Factors (12)       
+005. Pythagorean and Parmenidean Principles (15)                   
+006. Platonist Material and Formal Explanations (19)              
+007. Explanation as Material, Efficient, Formal, and Final (21)   
 008. Critique of Early Philosophies (23)
 009. Critique of Doctrines of Ideas (26)
 010. Conclusion of the Historical Survey of Explanations (34)     
@@ -70,8 +48,8 @@ Total      (142,316)
 016. Problems of Genera as Principles of Explanation (48)
 017. Problems of Forms, Principles and Unity (51)
 018. Problems of Bodily and of Mathematical Being (57)
-019. Problems of Ideas, Power, and Universality (59)              
-020. The Science of Being as Being (61)
+019. Problems of Ideas, Power, and Universality (59)               
+020. The Science of Being as Being (61)                           
 021. The Unity of Philosophy (61)
 022. Philosophy and the Axiomatic (66)
 023. Debates about Contradiction (68)
@@ -158,40 +136,39 @@ Total      (142,316)
 104. The Perishable and the Imperishable (219)
 105. Questions on the Unity of Wisdom (221)
 106. Questions on the Status of Principles (223)
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
+107. Being and the Unity of Philosophy (226)
+108. First Science and the Axiomatic (228)
+109. The Principle of Contradiction (228)
+110. Alleged Difficulties About Contradiction (230)
+111. The Rank of Theology Among Sciences (233)
+112. Being as Accident and as Truth (235)
+113. Power, Operation, and Movement (237)
+114. The Infinite (240)
+115. Change and Movement (243)
 116. Kinds of Movement and Allied Concepts (244)
-117.
-118.
-119.
-120.
-121.
-122.
-123.
-124.
-125.
+117. Primary Beings and Their Kinds (248)
+118. Changeable Primary Being and Matter (249)
+119. Definite Change and the Forms (250)
+120. Analogies in Different Changes (252)
+121. Status of Principles Within Perishable Being (254)
+122. The Eternal Prime Mover (256)
+123. The Final Good (258)
+124. Stellar Divinities and the Divine Unity (261)
+125. Self-Activity of the Supreme Being (265)
 126. Divine Perfection and the Natural World (267)
-127.
-128.
-129.
-130.
-131.
-132.
-133.
-134.
-135.
+127. Views of Mathematics and of Ideas (270)
+128. Mathematics and the Concrete (271)
+129. Mathematics as Abstract (274)
+130. The Ideas as Original and Selected (277)
+131. The Ideas as Futile for Explanation (280)
+132. Views of Numbers as Explanations (281)
+133. Units of Number Alike or Unlike (283)
+134. The Nature and Derivation of Numbers (288)
+135. Numbers, Geometry, and the Ideas (293)
 136. Generality and Particular Reference of Knowledge (298)
-137.
-138.
-139.
-140.
-141.
+137. Contrary Principles, Unity, and Plurality (300)
+138. Elements and Eternal and Plural Being (303)
+139. Numbers, Ideas, and Generation (307)
+140. First Principles and the Good (310)
+141. Numbers, Generation, and Explanation (313)
 142. Consequences of Fantastic Doctrines of Numbers (315)
-
