@@ -1,15 +1,15 @@
 Notes on Plato's Republic.
 GW Dean.
 
-Plato    (428/427 or 424/423 BC[a] – 348/347 BC) source: https://en.wikipedia.org/wiki/Plato
-Republic (~ 380 BC)                              source: https://en.wikipedia.org/wiki/Republic_(Plato)
+Plato    (428/427 or 424/423 BC[a] – 348/347 BC) 
+Republic (~ 380 BC)                              
 
-Cornford, Hildebrandt, and Voegelin Sub-Divisions
+Cornford, Hildebrandt, and Voegelin Sub-Divisions (from Wikipedia)
 
 Prologue
 Introduction
-Part I: Genesis and Order of the Polis
-Part II: Embodiment of the Idea
+Part I:   Genesis and Order of the Polis
+Part II:  Embodiment of the Idea
 Part III: Decline of the Polis
 Conclusion
 Epilogue
@@ -24,28 +24,28 @@ Introduction
     II.1—II.10. 357a—369b. The Question: Is Justice better than Injustice?
 
 Part I: Genesis and Order of the Polis 
-    II.11—II.16. 369b—376e. Genesis of the Polis
-    II.16—III.18. 376e—412b. Education of the Guardians
-    III.19—IV.5. 412b—427c. Constitution of the Polis
-    IV.6—IV.19. 427c—445e. Justice in the Polis
+    II.11—II.16.  369b—376e.  Genesis of the Polis
+    II.16—III.18. 376e—412b.  Education of the Guardians
+    III.19—IV.5.  412b—427c.  Constitution of the Polis
+    IV.6—IV.19.   427c—445e.  Justice in the Polis
 
 Part II: Embodiment of the Idea
-    V.1—V.16. 449a—471c. Somatic Unit of Polis and Hellenes
-    V.17—VI.14. 471c—502c. Rule of the Philosophers
-    VI.19—VII.5. 502c—521c. The Idea of the Agathon
+    V.1—V.16.     449a—471c. Somatic Unit of Polis and Hellenes
+    V.17—VI.14.   471c—502c. Rule of the Philosophers
+    VI.19—VII.5.  502c—521c. The Idea of the Agathon
     VII.6—VII.18. 521c—541b. Education of the Philosophers
 
 Part III: Decline of the Polis
-    VIII.1—VIII.5. 543a—550c. Timocracy
-    VIII.6—VIII.9. 550c—555b. Oligarchy
+    VIII.1—VIII.5.   543a—550c. Timocracy
+    VIII.6—VIII.9.   550c—555b. Oligarchy
     VIII.10—VIII.13. 555b—562a. Democracy
-    VIII.14—IX.3. 562a—576b. Tyranny
+    VIII.14—IX.3.    562a—576b. Tyranny
 
 Conclusion 
     IX.4—IX.13. 576b—592b Answer: Justice is Better than Injustice.
 
 Epilogue 
-    X.1—X.8. 595a—608b. Rejection of Mimetic Art
-    X.9—X.11. 608c—612a. Immortality of the Soul
-    X.12. 612a—613e. Rewards of Justice in Life
+    X.1—X.8. 595a—608b.   Rejection of Mimetic Art
+    X.9—X.11. 608c—612a.  Immortality of the Soul
+    X.12. 612a—613e.      Rewards of Justice in Life
     X.13—X.16. 613e—621d. Judgment of the Dead
