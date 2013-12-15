@@ -1,0 +1,79 @@
+#+TITLE:     Commentary on Helier Robinson's "Belief Shock"
+#+AUTHOR:    Greg
+#+EMAIL:     greg@greg-Satellite-C855D
+#+DATE:      2013-12-15 Sun
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+* False Belief
+* Identity and Change
+* Five Realities
+* Naive Realism
+* Metarealism
+* Some Sophistries
+* A Dilemma and Two Nutshells
+* Two Heads are Better than One
+* Leibniz and Russell
+* Four More Problems
+* More Details
+* Four Notes
+* Solipsism
+* Science
+* Philosophy of Science
+* Problems with Relations
+* Affirmation of Relations
+* Absolute Values
+* The Basis of Human Values
+* Nothing but the Best
+* Ego and Consciousness
+* Action, Belief and the Irrational
+* Discrimination and Language
+* Conflict and the Oge
+* Love and Hate
+* Introjection and Projection
+* Extremism, Heaven, and Hell
+* Politics
+* Fanaticism and Tragedy
+* Dominance
+* Neurosis
+* Feeling and Thinking
+* Mathematics and Music
+* The Problem of Universals
+The *PROBLEM OF UNIVERSALS*
+- What kind of meaning do universals have?
+
+Medieval Solutions
+- Nominalism
+- Conceptualism
+- Platonism (misnomer)
+ 
+Spinoza argues that there are two
+kinds of universal:
+- Adequate Ideas   (Clear and Distinct)
+- Inadequate Ideas (Confused)
+
+Extensionalism (Logistic Program of Whitehead and Russell)
+
+Intensionalism
+* Four Kinds of Universal
+To address the *PROBLEM OF UNIVERSALS*, Robinson provides
+a Spinozistic type of solution: there are multiple kinds
+of universal. 
+
+- Intensional Meaning
+- Extensional Meaning
+- Irrational Extensional Meaning
+- Nominal Meaning
+
+* Three Kinds of Meaning
+* Rational Feeling
+* Four More Gods
+* Practice Makes Perfect
