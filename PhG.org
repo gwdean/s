@@ -1,0 +1,37 @@
+Notes on Hegel's Phenomenology of Spirit (Geist)
+(AV Miller Translation. Findlay Foreword/Analysis of the Text. 1977. Oxford.)
+
+
+| Preface             | 001-045 |  45 | 001-072 |  72 |
+| Introduction        | 046-057 |  12 | 073-089 |  17 |
+| Consciousness       | 058-103 |  46 | 090-165 |  76 |
+| Self-Consciousness  | 104-138 |  35 | 166-230 |  65 |
+| Reason              | 139-262 | 124 | 231-437 | 207 |
+| Spirit              | 263-409 | 147 | 438-671 | 234 | 
+| Religion            | 410-478 |  69 | 672-787 | 116 |
+| Absolute Knowing    | 479-494 |  16 | 788-808 |  21 |
+
+
+* Preface (1-45)
+* Introduction (46-57)
+* Consciousness (58-103)
+* Self-Consciousness (104-138)
+* Reason (139-262)
+* Spirit (263-409)
+** Spirit
+*** The /true/ Spirit. The ethical order
+*** Self-alienated Spirit. Culture
+*** Spirit that is certain of itself. Morality
+* Religion (410-478)
+** Religion (410-416) [672-683]
+*** Natural Religion 
+**** God as Light
+**** Plant and animal
+**** The artificer
+*** Religion in the form of Art
+**** The abstract work of art
+**** The living work of art
+**** The spiritual work of art
+*** The revealed religion
+* Absolute Knowing (479-494)
+** Absolute Knowing

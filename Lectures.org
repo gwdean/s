@@ -1,0 +1,30 @@
+Notes on Hegel's Lectures
+
+* Philosophy of Religion (1827)
+source: /Hegel's Lectures on Philosophy of Religion/ (One-Volume
+Edition). 1988. Edited by Peter C. Hodgson. University of California Press.
+** Editorial Introduction
+The "Editorial Introduction" by Hodgson associated with these lectures
+is very helpful in gaining understanding about the lectures and their
+context.
+
+*** Hegel's Four Series of Lectures on the Philosophy of Religion (1-6)
+*** Sources and Editions of the Philosophy-of-Religion Lectures (7-11)
+*** Structure, Context, and Distinctive Themes of the Lectures (11-26)
+*** Analysis of the Text of the 1827 Lectures (26-71)
+
+** Table of Contents
+**** Introduction (73-110)
+**** Part I. The Concept of Religion (111-198)
+***** A. The Concept of God
+***** B. The Knowledge of God
+***** C. The Cultus
+**** Part II. Determinate Religion (199-388)
+***** A. Immediate Religion, or Nature Religion
+***** B. The Elevation of the Spiritual above the Natural
+***** C. The Religion of Expediency
+**** Part III. The Consummate Religion (389-489)
+***** Introduction
+***** A. The First Element: The Idea of God In and For Itself
+***** B. The Second Element: Representation, Appearance
+***** C. The Third Element: Community, Spirit
