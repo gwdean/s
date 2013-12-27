@@ -1,17 +1,19 @@
 Notes on Hegel's Phenomenology of Spirit (Geist)
 (AV Miller Translation. Findlay Foreword/Analysis of the Text. 1977. Oxford.)
 
-
-| Preface             | 001-045 |  45 | 001-072 |  72 |
-| Introduction        | 046-057 |  12 | 073-089 |  17 |
-| Consciousness       | 058-103 |  46 | 090-165 |  76 |
-| Self-Consciousness  | 104-138 |  35 | 166-230 |  65 |
-| Reason              | 139-262 | 124 | 231-437 | 207 |
-| Spirit              | 263-409 | 147 | 438-671 | 234 | 
-| Religion            | 410-478 |  69 | 672-787 | 116 |
-| Absolute Knowing    | 479-494 |  16 | 788-808 |  21 |
-
-
+|--------------------+---------+-----+----------+-----|
+| Chapter            |   Pages | # P | Sections | # S |
+|--------------------+---------+-----+----------+-----|
+| Preface            | 001-045 |  45 |  001-072 |  72 |
+| Introduction       | 046-057 |  12 |  073-089 |  17 |
+| Consciousness      | 058-103 |  46 |  090-165 |  76 |
+| Self-Consciousness | 104-138 |  35 |  166-230 |  65 |
+| Reason             | 139-262 | 124 |  231-437 | 207 |
+| Spirit             | 263-409 | 147 |  438-671 | 234 |
+| Religion           | 410-478 |  69 |  672-787 | 116 |
+| Absolute Knowing   | 479-494 |  16 |  788-808 |  21 |
+|--------------------+---------+-----+----------+-----|
+         
 * Preface (1-45)
 * Introduction (46-57)
 * Consciousness (58-103)
@@ -35,3 +37,28 @@ Notes on Hegel's Phenomenology of Spirit (Geist)
 *** The revealed religion
 * Absolute Knowing (479-494)
 ** Absolute Knowing
+* Commentaries
+** Houlgate-2013 (Kindle Version)
+Such a this that continues beyond itself in its negation
+Hegel calls a 'universal'. The object of perception is
+thus a sensuous universal--red,green,hot,cold,etc. (1058)
+
+The truth is something universal because it is a /this/
+that preserves itself in /no longer/ being this. (1058)
+
+Hegel reaches the conception of the object of perception
+not by reflection on our everyday perceiving, but by
+rendering explicit what is implicit in the experience
+of sense-certainty. (1102)
+
+It is important to recognize that Hegel's /derivation/
+of the object of perception is wholly immanent: the truth
+for perception must take the form of things with properties
+because this is what is implicit in the very form of 
+emergent truth (1102).
+
+If you spell out what it means for the truth, as object 
+of consciousness, to be that-which-is-NOT-just-the-object-
+of-immediate-certainty, what you get first are things
+with properties. (1102)
+

@@ -11,6 +11,41 @@ context.
 *** Hegel's Four Series of Lectures on the Philosophy of Religion (1-6)
 *** Sources and Editions of the Philosophy-of-Religion Lectures (7-11)
 *** Structure, Context, and Distinctive Themes of the Lectures (11-26)
+Hegel's God is not a supersensible entity, a "supreme being", but rather
+the /ultimate/ condition of possibility for the /totality/ of experience
+and for religious experience in particular, the experience of the
+"religious relationship" of finite and infinite. (12)
+
+In this sense, the philosophical first principle and the theological
+first principle are one and the same: God = absolute idea. (12)
+
+God is actual, "absolute actuality", "actual being in and for itself"--
+but only in and through worldly reality, not as a separated, supersensible
+entity. (12)
+
+Apart from the world, God's actuality remains abstract, unrealized; in
+and through the world, of which God is the ideal condition of possibility,
+God becomes concrete, living, true actuality--or absolute /spirit/. (12)
+
+The logical deep structure is grounded in the dialectic of the syllogism,
+which is the basic movement of thought itself. (12)
+
+Three moments (figures) of any syllogism (according to Hegel) are:
+- Universality
+- Particularity
+- Individuality/Singularity
+
+Example Syllogism.
+
+- All human beings are mortal
+- Socrates is human
+- Therefore, Socrates is mortal.
+
+Universal Substance: Human Beings (U)
+
+Particular Quality: Mortal (P)
+
+Individual Subject: Socrates (I)
 *** Analysis of the Text of the 1827 Lectures (26-71)
 
 ** Table of Contents
