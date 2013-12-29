@@ -1,0 +1,31 @@
+Notes on Marias1967
+GW Dean
+
+Major Eras
+----------
+Greek Philosophy        009-101
+Christianity            103-121
+Medieval Philosophy     123-185
+Modern Philosophy       189-468
+
+Major Philosophers
+------------------
+Socrates    038-041     4
+Plato       042-058    17
+Aristotle   059-085    27
+Augustine   113-121     9
+Aquinas     166-174     9
+Descartes   210-223    14
+Spinoza     231-235     5
+Leibniz     236-246    11
+Hegel       317-329    13
+Husserl     403-417    15
+Heidegger   425-441    17
+Ortega      442-468    27
+
+Source:
+
+(CHANGE THE FORMAT BELOW. CONTENT IS FINE.)
+
+\bibitem{Marias1967} Marias. Julian. \emph{A History of Philosophy},
+Dover Publications Inc., New York, 1967.
