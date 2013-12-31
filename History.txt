@@ -3,25 +3,29 @@ GW Dean
 
 Major Eras
 ----------
-Greek Philosophy        009-101
-Christianity            103-121
-Medieval Philosophy     123-185
-Modern Philosophy       189-468
+Greek Philosophy        009-101   93
+Christianity            103-121   19
+Medieval Philosophy     123-185   63
+Modern Philosophy       189-468  280
+
+Philosophy begins around 600 BC in Miletus.
+Thales born around 640 BC.
 
 Major Philosophers
 ------------------
-Socrates    038-041     4
-Plato       042-058    17
-Aristotle   059-085    27
-Augustine   113-121     9
-Aquinas     166-174     9
-Descartes   210-223    14
-Spinoza     231-235     5
-Leibniz     236-246    11
-Hegel       317-329    13
-Husserl     403-417    15
-Heidegger   425-441    17
-Ortega      442-468    27
+Socrates    038-041     4      0469-0399 BC     0131-0201 AT (After Thales)
+Plato       042-058    17      0427-0347 BC     0173-0253 AT 
+Aristotle   059-085    27      0384-0322 BC     0216-0278 AT
+Augustine   113-121     9      0354-0430 AD     0954-1030 AT
+Aquinas     166-174     9      1225-1274 AD     1825-1874 AT
+Descartes   210-223    14      1596-1650 AD     2196-2250 AT
+Spinoza     231-235     5      1632-1677 AD     2232-2277 AT
+Leibniz     236-246    11      1646-1716 AD     2246-2316 AT
+Kant        284-306    23      1724-1804 AD     2324-2404 AT
+Hegel       317-329    13      1770-1831 AD     2370-2431 AT
+Husserl     403-417    15      1859-1938 AD     2459-2538 AT
+Heidegger   425-441    17      1889-19xx AD     2489-25xx AT
+Ortega      442-468    27      1883-1955 AD     2483-2555 AT
 
 Source:
 
