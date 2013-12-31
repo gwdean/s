@@ -1,0 +1,19 @@
+Notes on Aristotle's Categories.
+
+Table of Categories.
+source: http://plato.stanford.edu/entries/aristotle-logic/
+
+Traditional Name     Literally                  Greek     Examples
+-----------------------------------------------------------------------
+Substance            substance                  ousia     man,horse
+Substance            "this"                     tode ti   Socrates
+Substance            what-it-is                 ti esti   "Socrates is a man"
+Quantity             how much                   poson     four-foot, five-foot
+Quality              what sort                  poion     white, literate
+Relation             related to what            pros ti   double, half, greater
+Location             where                      pou       in the Lyceum
+Time                 when                       pote      yesterday, last year
+Position             being situated             keisthai  lies, sits
+Habit                having, possession         echein    is shod, is armed
+Action               doing                      poiein    cuts, burns
+Passion              undergoing                 paschein  is cut, is burned 
