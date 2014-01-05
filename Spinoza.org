@@ -1,0 +1,30 @@
+Notes on Spinoza
+GW Dean
+
+* Ethics
+** Concerning God
+- 8 Definitions
+- 7 Axioms
+- 36 Propositions
+** Of the Nature and Origin of the Mind
+- 7 Definitions
+- 5 Axioms
+- 49 Propositions
+** Concerning the Origin and Nature of the Emotions
+- 3 Definitions
+- 2 Postulates
+- 59 Propositions
+- 48 Definitions of Emotions
+** Of Human Bondage, or the Nature of the Emotions
+- 8 Definitions
+- 1 Axiom
+- 72 Propositions
+- Appendix (32 Headings)
+** Of the Power of the Intellect, or of Human Freedom
+- 0 Definitions
+- 2 Axioms
+- 42 Propositions
+** Overall Structure (Definitions, Axioms, Propositions)
+- 26 Definitions
+- 15 Axioms
+- 247 Propositions
