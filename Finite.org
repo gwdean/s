@@ -1,0 +1,18 @@
+Notes on Kemeny-Snell-Thompson's /Finite Mathematics/
+
+* Bayes' Probabilities (158-163)
+** Freshman Courses
+** Envelope Problem
+** Urns
+* The Product of Vectors (223-228)
+** Grocery Store
+- RowVector = (6,12,3,12,6)
+- ColVector = (4,6,9,5,7)
+
+x = RowVector
+y = ColVector
+
+x*y = 225
+
+** Industrial Economy
+** Coordinate System

@@ -1,0 +1,69 @@
+* Essentials of the R Language
+Notes from Chapter 2 of Crawley's /The R Book/.
+** Screen Prompt
+** Built-in Functions
+** Numbers with Exponents
+** Modulo and Integer Quotients
+** Rounding
+** Infinity and Things that Are Not a Number (NaN)
+** Missing values NA
+** Assignment
+** Operators
+** Creating a Vector
+** Named Elements within Vectors
+** Vector Functions
+** Summary Information from Vectors by Groups
+** Using =with= rather than =attach=
+** Using =attach= in This Book
+** Parallel Minima and Maxima: =pmin= and =pmax=
+** Subscripts and Indices
+** Working with Vectors and Logical Subscripts
+** Addresses within Vectors
+** Finding Closest Values
+** Trimming Vectors Using Negative Subscripts
+** Logical Arithmetic
+** Evaluation of combinations of TRUE and FALSE
+** Repeats
+** Generate Factor Levels
+** Generating Regular Sequences of Numbers
+** Variable Names
+** Sorting, Ranking and Ordering
+** The =sample= Function
+** Matrices 
+There are many different ways to make a matrix.
+
+- Create a matrix directly
+> X<-matrix(c(1,0,0,0,1,0,0,0,1),nrow=3)
+
+- Create a matrix from a vector
+> vector<-c(1,2,3,4,4,3,2,1)
+> V<-matrix(vector,byrow=T,nrow=2)
+
+** Arrays
+** Character Strings
+** The =match= Function
+** Writing functions in R
+** Degrees of freedom
+** Variance Ratio Test
+** Using Variance
+** Error Bars
+** Loops and Repeats
+** The =switch= Function
+** The Evaluation Environment of a Function
+** Scope
+** Optional Arguments
+** Variable Numbers of Arguments (...)
+** Returning Values from a Function
+** Anonymous Functions
+** Flexible Handling of Arguments to Functions
+** Evaluating Functions with =apply=, =sapply=, and =lapply=
+** Looking for runs of numbers within vectors
+** Saving Data Produced with R to Disc
+** Pasting into an Excel Spreadsheet
+** Writing an Excel Readable File from R
+** Testing for Equality
+** Sets: =union=,=intersect= and =setdiff=
+** Pattern Matching
+** Testing and Coercing in R
+** Dates and Times in R
+** APPENDIX: Table of Contents: /The R Book/
