@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+\title{Sample Report}
+\author{GW Dean}
+\date{}
+\begin{document}
+\maketitle
+
+<<echo=false, results=hide>>=
+library(multcomp)
+library(xtable)
+attach(cholesterol)
+@
+
+\section{Results}
+
+Cholesterol reduction was assessed in a study
+that randomized \Sexpr{nrow(cholesterol)} patients
+to one of \Sexpr{length(unique(trt))} treatments.
+Summary statistics are provided in
+Table \ref{table:descriptives}.
+
+<<echo = false, results = tex>>=
+descTable <- data.frame("Treatment" = sort(unique(trt)),
+   "N"    = as.vector(table(trt)),
+   "Mean" = tapply(response, list(trt), mean, na.rm=TRUE),
+   "SD"   = tapply(response, list(trt), sd, na.rm=TRUE)
+ )
+print(xtable(descTable, caption = "Descriptive statistics
+for each treatment group", label = "table:descriptives"),
+caption.placement = "top", include.rownames = FALSE)
+@
+
+The analysis of variance is provided in Table \ref{table:anova}
+
+<<echo=false, results=tex>>=
+fit <- aov(response ~ trt)
+print(xtable(fit, caption = "Analysis of variance",
+    label = "table:anova"), caption.placement = "top")
+@
+
+\noindent and group differences are plotted in Figure \ref{figure:tukey}.
+
+\begin{figure}\label{figure:tukey}
+\begin{center}
+
+<<fig=TRUE,echo=FALSE>>=
+par(mar=c(5,4,6,2))
+tuk <- glht(git, linfct=mcp(trt="Tukey"))
+plot(cld(tuk, level=.05),col="lightgrey",xlab="Treatment",ylab="Response")
+box("figure")
+@
+
+\caption{Distribution of response times and pairwise comparisons.}
+\end{center}
+\end{figure}
+\end{document}
