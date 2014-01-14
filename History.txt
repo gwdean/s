@@ -27,6 +27,34 @@ Husserl     403-417    15      1859-1938 AD     2459-2538 AT
 Heidegger   425-441    17      1889-19xx AD     2489-25xx AT
 Ortega      442-468    27      1883-1955 AD     2483-2555 AT
 
+Medieval Philosophy (123-186) => 64 Pages
+- Scholasticism (125-130)
+- The Great Themes of the Middle Ages (131-139)
+- The Medieval Philosophers (140-185)
+
+Scholasticism
+  1. The Era of Transition (125)
+  2. The Nature of Scholasticism (127)
+
+The Great Themes of the Middle Ages
+  1. The Creation (131)
+  2. The Universals (136)
+  3. Reason (136)
+
+The Medieval Philosophers
+  1. Scotus Erigena (140)
+  2. St. Anselm (143)
+  3. The Twelfth Century (146)
+  4. Eastern Philosophies (152)
+  5. The Spiritual World of the Thirteenth Century (157)
+  6. St. Bonaventure (160)
+  7. Aristelico-Scholastic Philosophy (163)
+  8. Roger Bacon (174)
+  9. Christian Philosophy in Spain (176)
+  10. Duns Scotus and Occam (177)
+  11. Meister Eckhart (181)
+  12. The Last Phase of Medieval Philosophy (182)
+
 Source:
 
 (CHANGE THE FORMAT BELOW. CONTENT IS FINE.)

@@ -1,0 +1,33 @@
+Variance
+========
+```{r}
+y <- c(13,7,5,12,9,15,6,11,9,7,12)
+var(y)
+
+variance <- function(x) sum((x-mean(x))^2)/(length(x)-1)
+variance(y)
+
+v <- function(x) sum(x/length(x))
+v(y)
+
+s <- function(x) sum (x)
+s(y)
+
+s(y)/length(y)
+
+a <- c(0,50,100,100,50,0)
+b <- c(50,50,50,50,50,50)
+c <- c(60,60,60,60,60,0)
+
+mean(a)
+var(a)
+sd(a)
+
+mean(b)
+var(b)
+sd(b)
+
+mean(c)
+var(c)
+sd(c)
+```
