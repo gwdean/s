@@ -1,0 +1,15 @@
+```{r}
+Numbers0112 <- c(54,34,51,49,31,27,89,26,23,36,35,16)
+Numbers1324 <- c(33,45,41,50,13,32,22,29,35,41,30,25)
+Numbers2536 <- c(17,65,23,31,40,16,54,42,56,29,34,13)
+
+Numbers <- c(Numbers0112,Numbers1324,Numbers2536)
+
+sum(Numbers)
+mean(Numbers)
+var(Numbers)
+sd(Numbers)
+summary(Numbers)
+plot(Numbers)
+plot(sort(Numbers))
+```

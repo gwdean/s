@@ -39,3 +39,28 @@ lines(women$height,fitted(fit2))
 
 ```
 
+## From Faraway-2006
+```{r}
+install.packages("faraway")
+library(faraway)
+data(gavote)
+help(gavote)
+help(quantile)
+help.search("quantile")
+help.start()
+gavote
+head(gavote)
+summary(gavote)
+gavote$undercount <- (gavote$ballots-gavote$votes)/gavote$ballots
+summary(gavote$undercount)
+sum(gavote$ballots-gavote$votes)/sum(gavote$ballots)
+hist(gavote$undercount,main="Undercount",xlab="Percent Undercount")
+plot(density(gavote$undercount),main="Undercount")
+rug(gavote$undercount)
+pie(table(gavote$equip),col=gray(0:4/4))
+barplot(sort(table(gavote$equip),decreasing=TRUE),las=2)
+pergore <- gavote$gore/gavote$votes
+plot(pergore ~ perAA,gavote,xlab="Proportion African American",ylab="Proportion for Gore")
+plot(undercount~equip,gavote,xlab="",las=3)
+xtabs(~ atlanta + rural,gavote)
+```

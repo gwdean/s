@@ -30,4 +30,27 @@ sd(b)
 mean(c)
 var(c)
 sd(c)
+
+variance.ratio<-function(x,y){
+  v1<-var(x)
+  v2<-var(y)
+  if (var(x) > var(y)) {
+     vr<-var(x)/var(y)
+     df1<-length(x)-1
+     df2<-length(y)-1}
+  else {
+     vr<-var(y)/var(x)
+     df1<-length(y)-1
+     df2<-length(x)-1}
+  2*(1-pf(vr,df1,df2))
+  }
+
+a<-rnorm(10,15,2)
+b<-rnorm(10,15,4)
+
+variance.ratio(a,b)
+var.test(a,b)
+
+
+
 ```

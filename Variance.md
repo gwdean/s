@@ -128,3 +128,52 @@ sd(c)
 ## [1] 24.49
 ```
 
+```r
+
+variance.ratio <- function(x, y) {
+    v1 <- var(x)
+    v2 <- var(y)
+    if (var(x) > var(y)) {
+        vr <- var(x)/var(y)
+        df1 <- length(x) - 1
+        df2 <- length(y) - 1
+    } else {
+        vr <- var(y)/var(x)
+        df1 <- length(y) - 1
+        df2 <- length(x) - 1
+    }
+    2 * (1 - pf(vr, df1, df2))
+}
+
+a <- rnorm(10, 15, 2)
+b <- rnorm(10, 15, 4)
+
+variance.ratio(a, b)
+```
+
+```
+## [1] 0.1742
+```
+
+```r
+var.test(a, b)
+```
+
+```
+## 
+## 	F test to compare two variances
+## 
+## data:  a and b 
+## F = 0.3876, num df = 9, denom df = 9, p-value = 0.1742
+## alternative hypothesis: true ratio of variances is not equal to 1 
+## 95 percent confidence interval:
+##  0.09628 1.56054 
+## sample estimates:
+## ratio of variances 
+##             0.3876
+```
+
+```r
+
+```
+

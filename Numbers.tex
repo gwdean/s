@@ -1,0 +1,132 @@
+\documentclass{article}
+\begin{document}
+
+\section{Data}
+
+\subsection{Good News Bible}
+\subsubsection{Levels}
+\begin{verbatim}
+Good News Bible
+1. Genesis        001-061   61
+2. Exodus         062-111   50
+3. Leviticus      112-144   33
+4. Numbers        145-188   44
+5. Deuteronomy    189-231   43
+
+pages <- c(61,50,33,44,43)
+sum(pages)       #=> 231.0
+mean(pages)      #=>  46.2
+sd(pages)        #=>  10.3
+var(pages)       #=> 105.7
+
+chapters <- c(50,40,27,36,34)
+sum(chapters)    #=> 187.0
+mean(chapters)   #=>  37.4  
+sd(chapters)     #=>   8.5
+var(chapters)    #=>  71.8
+
+\end{verbatim}
+\subsubsection{Numbers}
+\begin{verbatim}
+One Book View: Numbers
+----------------------
+Numbers 44 Pages, 36 Chapters and x Verses
+
+Numbers0112 <- c(54,34,51,49,31,27,89,26,23,36,35,16)
+Numbers1324 <- c(33,45,41,50,13,32,22,29,35,41,30,25)
+Numbers2536 <- c(17,65,23,31,40,16,54,42,56,29,34,13)
+
+Numbers <- c(Numbers0112,Numbers1324,Numbers2536)
+\end{verbatim}
+
+\subsubsection{Entire Bible}
+\begin{verbatim}
+Expand Out to Entire Bible
+--------------------------
+OT    -> 39 Books 1041 Pages
+NT    -> 27 Books  354 Pages
+TOTAL -> 66 Books 1395 Pages
+
+New Testament       Pages
+-----------------------------
+Matthew         1      45
+Mark           46      30
+Luke           76      47 
+John          123      34
+Acts          157      44
+Romans        201      19
+1 Cor         220      18
+2 Cor         238      12
+Galations     250       7
+Ephesians     257       7
+Phillipians   264       6
+Colossians    270       5
+1 Thess       275       4
+2 Thess       279       3
+1 Tim         282       5
+2 Tim         287       4
+Titus         291       2
+Philemon      293       2
+Hebrews       295      15 
+James         310       5
+1 Peter       315       5
+2 Peter       320       4
+1 John        324       6
+2 John        330       1
+3 John        331       1
+Jude          332       2
+Revelation    334      20
+End           354
+
+Sources:
+Book of Numbers (GNB Version)
+Guide for the Perplexed (Moses ben Maimon)
+Michel Trosset. 
+Aristotle Metaphysics.
+Not so short guide to LaTeX.
+/end{verbatim}
+/subsection{Halley's Bible Handbook}
+/begin{verbatim}
+Halley's Statistics 
+-------------------
+10-11: Index.
+20-25: Bible Narrative.
+26-30: Bible Organization.
+31-34: History.
+36-41: Geography.
+
+Gn: 058-108
+Ex: 109-133
+Lv: 134-140
+Nu: 141-149
+De: 150-156
+/end{verbatim}
+/subsection{references}
+/subsubsection{Statistics}
+c1: Crawley-2007....The RBook............
+f0: Faraway-2006....Extending............
+f1: Fox-2008........Social Statistics....
+f2: Fox-2013........Cran-Project.........
+k1: Kemeny-1974.....Finite...............
+t1: Trosset-2009....Inference............
+l1: Luke-2004.......Multilevel...........
+l2: Leifer-1995.....Majors...............
+
+/subsubsection{Philosophy}
+/begin{verbatim}
+Marias-1967
+Miles-1995
+Sachs-1999
+Spinoza-1677
+Maimonides-1190
+Dodd-1968
+Adler-1977
+Robinson-2006/2008/2011
+Hegel-1807
+Hegel-1812/1816
+Hegel-1817
+Hegel-1827
+Leibniz-1989
+Rescher-1990
+\end{verbatim}
+\end{document}

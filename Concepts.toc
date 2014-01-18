@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Philosophy}{2}
+\contentsline {subsection}{\numberline {1.1}Parmenides}{2}
+\contentsline {subsection}{\numberline {1.2}Plato}{2}
+\contentsline {subsection}{\numberline {1.3}Aristotle}{2}
+\contentsline {subsection}{\numberline {1.4}Descartes}{2}
+\contentsline {subsection}{\numberline {1.5}Leibniz}{2}
+\contentsline {subsection}{\numberline {1.6}Kant}{2}
+\contentsline {subsubsection}{\numberline {1.6.1}Transcendental Idealism}{2}
+\contentsline {subsubsection}{\numberline {1.6.2}The "Critique of Pure Reason"}{2}
+\contentsline {subsubsection}{\numberline {1.6.3}Practical Reason}{2}
+\contentsline {subsection}{\numberline {1.7}Hegel}{2}
+\contentsline {section}{\numberline {2}Statistics}{2}
+\contentsline {subsection}{\numberline {2.1}Frequentist}{2}
+\contentsline {subsection}{\numberline {2.2}Bayesian}{2}

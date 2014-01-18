@@ -41,5 +41,10 @@ y <- c(1,2,3)
 y
 y <- c(y,y)
 y
+
+x<-runif(10,min=10,max=pi)
+mean(x)
+
+y<-rnorm(20,mean=5,sd=1.5)
 ```
 ### Functions (445-461)
