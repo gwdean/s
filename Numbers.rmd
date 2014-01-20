@@ -1,3 +1,15 @@
+Old Testament
+```{r}
+ot <- c(61,50,33,44,43,28,29,5,39,34,37,35,34,39,13,19,9,41,101,29,10,8,73,72,8,59,19,11,6,9,3,4,7,3,4,4,2,12,3)
+length(ot)
+sum(ot)
+sort(ot)
+rev(sort(ot))
+plot(ot)
+plot(rev(sort(ot)))
+ot/sum(ot)
+```
+The Book of Numbers
 ```{r}
 Numbers0112 <- c(54,34,51,49,31,27,89,26,23,36,35,16)
 Numbers1324 <- c(33,45,41,50,13,32,22,29,35,41,30,25)
@@ -12,4 +24,28 @@ sd(Numbers)
 summary(Numbers)
 plot(Numbers)
 plot(sort(Numbers))
+```
+New Testament
+```{r}
+nt <- c(45,30,47,34,44,19,18,12,7,7,6,5,4,3,5,4,2,2,15,5,5,4,6,1,1,2,20)
+sum(nt)
+length(nt)
+sort(nt)
+rev(sort(nt))
+plot(sort(nt))
+mean(nt)
+rev(sort(nt/sum(nt)))
+hist(rev(sort(nt/sum(nt))))
+```
+Bible
+```{r}
+bible<-c(ot,nt)
+length(bible)
+sum(bible)
+mean(bible)
+plot(bible)
+plot(sort(bible))
+mean(ot)
+mean(nt)
+mean(bible)
 ```

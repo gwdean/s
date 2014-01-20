@@ -1,14 +1,35 @@
 \contentsline {section}{\numberline {1}Philosophy}{2}
-\contentsline {subsection}{\numberline {1.1}Parmenides}{2}
-\contentsline {subsection}{\numberline {1.2}Plato}{2}
-\contentsline {subsection}{\numberline {1.3}Aristotle}{2}
-\contentsline {subsection}{\numberline {1.4}Descartes}{2}
-\contentsline {subsection}{\numberline {1.5}Leibniz}{2}
-\contentsline {subsection}{\numberline {1.6}Kant}{2}
-\contentsline {subsubsection}{\numberline {1.6.1}Transcendental Idealism}{2}
-\contentsline {subsubsection}{\numberline {1.6.2}The "Critique of Pure Reason"}{2}
-\contentsline {subsubsection}{\numberline {1.6.3}Practical Reason}{2}
-\contentsline {subsection}{\numberline {1.7}Hegel}{2}
-\contentsline {section}{\numberline {2}Statistics}{2}
-\contentsline {subsection}{\numberline {2.1}Frequentist}{2}
-\contentsline {subsection}{\numberline {2.2}Bayesian}{2}
+\contentsline {subsection}{\numberline {1.1}Parmenides}{3}
+\contentsline {subsection}{\numberline {1.2}Plato}{3}
+\contentsline {subsection}{\numberline {1.3}Aristotle}{3}
+\contentsline {subsection}{\numberline {1.4}Descartes}{3}
+\contentsline {subsubsection}{\numberline {1.4.1}The Cartesian Problem}{3}
+\contentsline {subsubsection}{\numberline {1.4.2}Man}{3}
+\contentsline {subsubsection}{\numberline {1.4.3}God}{3}
+\contentsline {subsubsection}{\numberline {1.4.4}The World}{3}
+\contentsline {subsubsection}{\numberline {1.4.5}Rationalism and Idealism}{3}
+\contentsline {subsubsection}{\numberline {1.4.6}Malebranche}{3}
+\contentsline {subsubsection}{\numberline {1.4.7}The Religious Thinkers}{3}
+\contentsline {subsection}{\numberline {1.5}Leibniz}{3}
+\contentsline {subsubsection}{\numberline {1.5.1}Leibniz' Philosophic Situation}{3}
+\contentsline {subsubsection}{\numberline {1.5.2}Leibniz' Metaphysics}{3}
+\contentsline {subsubsection}{\numberline {1.5.3}Theory of Knowledge}{3}
+\contentsline {subsubsection}{\numberline {1.5.4}Theodicy}{3}
+\contentsline {subsection}{\numberline {1.6}Kant}{3}
+\contentsline {subsubsection}{\numberline {1.6.1}Transcendental Idealism}{3}
+\contentsline {subsubsection}{\numberline {1.6.2}The "Critique of Pure Reason"}{3}
+\contentsline {subsubsection}{\numberline {1.6.3}Practical Reason}{3}
+\contentsline {subsubsection}{\numberline {1.6.4}The Interpretations of Kant's Philosophy}{3}
+\contentsline {subsubsection}{\numberline {1.6.5}Theory of Knowledge}{3}
+\contentsline {subsubsection}{\numberline {1.6.6}Being}{3}
+\contentsline {subsubsection}{\numberline {1.6.7}Philosophy}{3}
+\contentsline {subsection}{\numberline {1.7}Hegel}{3}
+\contentsline {subsubsection}{\numberline {1.7.1}The Outline of Hegel's Philosophy}{3}
+\contentsline {subsubsection}{\numberline {1.7.2}The "Phenomenology of Spirit"}{4}
+\contentsline {subsubsection}{\numberline {1.7.3}The "Logic"}{4}
+\contentsline {subsubsection}{\numberline {1.7.4}The Philosophy of Nature}{4}
+\contentsline {subsubsection}{\numberline {1.7.5}The Philosophy of the Spirit}{4}
+\contentsline {section}{\numberline {2}Statistics}{4}
+\contentsline {subsection}{\numberline {2.1}Frequentist}{4}
+\contentsline {subsection}{\numberline {2.2}Bayesian}{4}
+\contentsline {subsection}{\numberline {2.3}Sources}{4}
