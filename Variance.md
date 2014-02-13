@@ -152,7 +152,7 @@ variance.ratio(a, b)
 ```
 
 ```
-## [1] 0.123
+## [1] 0.002033
 ```
 
 ```r
@@ -164,13 +164,13 @@ var.test(a, b)
 ## 	F test to compare two variances
 ## 
 ## data:  a and b 
-## F = 0.3393, num df = 9, denom df = 9, p-value = 0.123
+## F = 0.0994, num df = 9, denom df = 9, p-value = 0.002033
 ## alternative hypothesis: true ratio of variances is not equal to 1 
 ## 95 percent confidence interval:
-##  0.08427 1.36584 
+##  0.02468 0.40003 
 ## sample estimates:
 ## ratio of variances 
-##             0.3393
+##            0.09936
 ```
 
 ```r

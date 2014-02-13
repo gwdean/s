@@ -1,0 +1,10 @@
+\documentclass{article}
+\title{Sample}
+\author{GW Dean}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+
+
+\end{document}

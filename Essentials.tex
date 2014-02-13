@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\usepackage{Sweave}
+\begin{document}
+\input{Essentials-concordance}
+
+\section{Vectors}
+
+\begin{verbatim}
+y <- 4.3
+z <- y[-1]
+length(z)
+\end{verbatim}
+
+\begin{verbatim}
+y <- 10:16
+y <- c(10,11,12,13,14,15,16)
+y <- scan()
+\end{verbatim}
+
+\begin{verbatim}
+A<-1:10
+B<-c(2,4,8)
+A*B
+\end{verbatim}
+
+\begin{verbatim}
+counts<-c(25,12,7,4,6,2,1,0,2)
+names(counts)<-0:8
+counts
+
+c <- c(1,2,3)
+names(c) <- c("Joe","Jim","Bob")
+c
+
+st <- table(rpois(2000,2.3))
+as.vector(st)
+\end{verbatim}
+
+\begin{verbatim}
+x <-c(10,12,17,9,18,3)
+y <-c(11,3,13,14,7,18)
+z <-c(9,12,14,9,13,12)
+
+a <-matrix(c(x,y,z),nrow=6)
+b <-matrix(c(x,y,z),nrow=3)
+c <-matrix(c(x,y,z),ncol=6)
+d <-matrix(c(x,y,z),ncol=3)
+e <- t(d)
+
+max(x)
+min(x)
+sum(x)
+mean(x)
+median(x)
+range(x)
+var(x)
+cor(x,y)
+sort(x)
+rank(x)
+order(x)
+quantile(x)
+cumsum(x)
+cumprod(x)
+cummax(x)
+cummin(x)
+pmax(x,y,z)
+pmin(x,y,z)
+colMeans(a)
+colSums(a)
+rowMeans(a)
+rowSums(a)
+\end{verbatim}
+\section{Functions}
+\section{Variance}
+\section{Functions II}
+\section{Apply}
+\section{Advanced Topics}
+\section{Dates and Times}
+
+
+
+\end{document}

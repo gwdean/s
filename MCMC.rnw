@@ -1,0 +1,158 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+\section{Code}
+\begin{verbatim}
+Installing MCMCpack
+-------------------
+install.packages("MCMCpack")
+library(MCMCpack)
+
+data(swiss)
+posterior1 <- MCMCregress(Fertility ~ Agriculture + Examination + Education + Catholic + Infant.Mortality, data=swiss)
+summary(posterior1)
+
+data(SupremeCourt)
+posterior2 <- MCMCirt1d(t(SupremeCourt), theta.constraints=list(Stevens="-",Scalia="+"),burnin=5000,mcmc=100000,thin=10,verbose=500)
+summary(posterior2)
+
+\end{verbatim}
+\section{Bayesian Inference}
+\begin{verbatim}
+Probability Theory is used to quantify uncertainties.
+
+Probability Distributions are associated with uncertain
+measurements.
+
+The specification of probability distributions to the
+uncertain deterministic relations between some of them
+defines a statistical model.
+
+y = percentage of people who remembered having watched the ad
+x = advertising expenditure
+/pi = awareness probability
+
+Simplest link between advertising expenditure and awareness
+is given by the linear relation
+
+\pi = \alpha + \Beta x
+
+
+\end{verbatim}
+
+\section{Markov Chain Monte Carlo}
+
+\section{General Overview}
+\subsection{Stochastic simulation}
+\subsection{Bayesian inference}
+\subsection{Approximate methods of inference}
+\subsection{Markov Chains}
+\subsection{Gibbs Sampling}
+\subsection{Metropolis-Hastings algorithms}
+\begin{verbatim}
+#############################################################################################################
+#
+# Example 6.1 (pages 192-3) – Figures 6.1 (page 194)  - Random walk Metropolis-Hastings algorithm
+#
+# y[i] : velocity of an enzymatic reacton (in counts/min/min) as a function of 
+#        substrate concentration
+# x[i] : (in ppm) where the enzyme has been treated with Puromycin
+# 
+#
+# Referencia: Carlin and Louis (1998) - Bayes and Empirical 
+# Bayes Methods for Data Analysis - Chapman & Hall/CRC
+# 
+# paginas: 233-234.
+#
+##############################################################################################################
+#
+# Author : Hedibert Freitas Lopes
+#          Graduate School of Business
+#          University of Chicago
+#          5807 South Woodlawn Avenue
+#          Chicago, Illinois, 60637
+#          Email : hlopes@ChicagoGSB.edu
+#
+###############################################################################################################
+mu      = function(th,x){gamma+alpha*x/(th+x)}
+like    = function(th){prod(dnorm(y,mu(th,x),sqrt(tau2)))}
+loglike = function(th){sum(dnorm(y,mu(th,x),sqrt(tau2),log=TRUE))}
+logpost = function(th){dnorm(th,theta0,Ctheta,log=TRUE)+loglike(th)}
+n       = 12
+x       = c(0.02,0.02,0.06,0.06,0.11,0.11,0.22,0.22,0.56,0.56,1.10,1.10)
+y       = c(76,47,97,107,123,139,159,152,191,201,207,200)
+gamma   = 50
+alpha   = 170
+tau2    = 126
+theta0  = 0.0
+Ctheta  = 100
+thetas  = seq(0.08,0.20,length=1000)
+likes   = NULL
+for (i in 1:1000)
+  likes = c(likes,like(thetas[i]))
+thetamle = thetas[likes==max(likes)]
+xs       = seq(min(x),max(x),length=1000)
+mus      = NULL
+for (i in 1:1000)
+  mus = c(mus,mu(thetamle,xs[i]))
+
+par(mfrow=c(1,2))
+plot(thetas,likes,xlab="theta",ylab="likelihood",type="l")
+plot(x,y)
+lines(xs,mus,col=2)
+
+##############################################################################
+# Random Walk Metropolis-Hastings
+##############################################################################
+set.seed(192796)
+Vtheta = 0.1
+theta  = 0.4
+burnin = 0
+M      = 1000
+sample = theta
+ind    = 0
+for (iter in 1:(burnin+M-1)){
+  th1 = rnorm(1,theta,Vtheta)
+  prob = exp(logpost(th1)-logpost(theta))
+  if (runif(1) < prob){
+    theta = th1
+    ind   = ind + 1
+  }
+  sample = c(sample,theta)
+}
+sample = sample[(burnin+1):length(sample)]
+acceptancerate = length(unique(sample))/(M+1)
+mean=mean(sample)
+sd=sqrt(var(sample))
+L=quantile(sample,0.025)
+U=quantile(sample,0.975)
+c(mean,sd,L,U)
+
+
+# Figure 6.1
+# ----------
+par(mfrow=c(1,1))
+plot(sample,xlab="iteration",ylab=expression(theta),main="",type="l",cex=3,axes=F)
+axis(1)
+axis(2)
+
+
+\end{verbatim}
+
+\section{MCMCpack}
+\begin{verbatim}
+install.packages("MCMCpack")
+library(MCMCpack)
+data(swiss)
+posterior1 <- MCMCregress(Fertility ~ Agriculture + Examination + Education + Catholic + Infant.Mortality,data=swiss)
+summary(posterior1)
+\end{verbatim}
+source:
+
+\emph{Markov Chain Monte Carlo}. Dani Gamerman and Hedibert F. Lopes.
+ChapmanHall CRC Boca Raton Florida. 2006.
+
+
+\end{document}
