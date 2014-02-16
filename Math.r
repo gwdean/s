@@ -58,13 +58,34 @@ abline(h=1,lty=2)
 
 plot(gamma(seq(0.2,1,0.01)))
 ### Asymptotic functions
+(1/44.44 - 1/70.59)/(1/0.2 - 1/0.6)
+(1/0.2) * (((400*0.2)/44.44) - 1)
+  
+### Sigmoid (S-shaped) functions (203-204)
+par(mfrow=c(2,2))
+x<-seq(0,10,0.1)
+y1<-100/(1+90*exp(-1*x))
+y2<-20+100/(1+exp(0.8*(3-x)))
+plot(x,y1,type="l",main="three-parameter logistic")
+plot(x,y2,type="l",ylim=c(0,140),main="four-parameter logistic")
 
+x<--200:100
+y<-100*exp(-exp(0.02*x))
+plot(x,y,type="l",main="negative Gompertz")
 
-### Parameter estimation in asymptotic functions
-### Sigmoid (S-shaped) functions
+x<-0:100
+y<-50*exp(-5*exp(-0.08*x))
+plot(x,y,type="l",main="positive Gompertz")
 ### Biexponential model
 ### Transformation of the response and explanatory variables
-### Probability functions
+### Probability functions (206-207)
+par(mfrow=c(1,1))
+x<-0:6
+plot(x,factorial(x),type="s",main="factorial x",log="y")
+
+choose(8,3)
+
+plot(0:8,choose(8,0:8),type="s",main="binomial coefficients")
 ## Continuous Probability Distributions (208-241)
 ### Normal distribution (210)
 ### The central limit theorem (213-216)
