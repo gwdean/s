@@ -1,0 +1,39 @@
+#+TITLE:     Notes on Social Physics
+#+AUTHOR:    GW Dean
+#+EMAIL:     gwdean@gmail.com
+#+DATE:      2014-02-18 Tue
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+* Weidlich-2002
+** Structures and Modelling Concepts
+*** The Structure of Reality Under Interdisciplinary Perspective
+*** Quantitative Modelling in Social Science
+*** The General Modelling Concept of Sociodynamics
+**** The Modelling Purposes of Sociodynamics
+**** The Steps of the Modelling Procedure
+***** The Configuration Space of Macrovariables
+***** The Elementary Dynamics
+***** Equations of Evolution for the Macrovariables
+** Selected Applications
+*** Migration of Interacting Populations
+*** Group Dynamics: The Rise and Fall of Interacting Social Groups
+*** Opinion Formation on the Verge of Political Phase-Transitions
+*** Quality Competition between High-Tech Firms
+*** Dynamics of Conventional and Fashion Demand
+*** Urban Evolution and Population Pressure
+** Mathematical Methods
+*** The Master Equation
+*** Evolution Equations for Meanvalues and Variances in Configuration Space
+*** Stochastic Trajectories and Dynamic Equations for Quasi-Meanvalues
+* White-2002
+* Pentland-2014
+* Helbing-2010

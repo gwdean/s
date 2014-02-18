@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+               "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+lang="en" xml:lang="en">
+<head>
+<title>Notes on Social Physics</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<meta name="generator" content="Org-mode"/>
+<meta name="generated" content="2014-02-18 Tue"/>
+<meta name="author" content="GW Dean"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  html { font-family: Times, serif; font-size: 12pt; }
+  .title  { text-align: center; }
+  .todo   { color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #add8e6; font-weight:normal }
+  .target { }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  p.verse { margin-left: 3% }
+  pre {
+	border: 1pt solid #AEBDCC;
+	background-color: #F3F5F7;
+	padding: 5pt;
+	font-family: courier, monospace;
+        font-size: 90%;
+        overflow:auto;
+  }
+  table { border-collapse: collapse; }
+  td, th { vertical-align: top; }
+  dt { font-weight: bold; }
+  div.figure { padding: 0.5em; }
+  div.figure p { text-align: center; }
+  .linenr { font-size:smaller }
+  .code-highlighted {background-color:#ffff00;}
+  .org-info-js_info-navigation { border-style:none; }
+  #org-info-js_console-label { font-size:10px; font-weight:bold;
+                               white-space:nowrap; }
+  .org-info-js_search-highlight {background-color:#ffff00; color:#000000;
+                                 font-weight:bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+
+<h1 class="title">Notes on Social Physics</h1>
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1 Overview </a></li>
+<li><a href="#sec-2">2 Weidlich-2002 </a>
+<ul>
+<li><a href="#sec-2.1">2.1 Structures and Modelling Concepts </a>
+<ul>
+<li><a href="#sec-2.1.1">2.1.1 The Structure of Reality Under Interdisciplinary Perspective </a>
+<ul>
+<li><a href="#sec-2.1.1.1">2.1.1.1 Systems and their Parts: The Stratification of Reality </a></li>
+<li><a href="#sec-2.1.1.2">2.1.1.2 Towards Explanations of System Structure: Reductionism vs. Holism </a></li>
+<li><a href="#sec-2.1.1.3">2.1.1.3 General System Theory, Synergetics, and Sociodynamics </a></li>
+</ul>
+</li>
+<li><a href="#sec-2.1.2">2.1.2 Quantitative Modelling in Social Science </a></li>
+<li><a href="#sec-2.1.3">2.1.3 The General Modelling Concept of Sociodynamics </a>
+<ul>
+<li><a href="#sec-2.1.3.1">2.1.3.1 The Modelling Purposes of Sociodynamics </a></li>
+<li><a href="#sec-2.1.3.2">2.1.3.2 The Steps of the Modelling Procedure </a>
+<ul>
+<li><a href="#sec-2.1.3.2.1">2.1.3.2.1 The Configuration Space of Macrovariables </a></li>
+<li><a href="#sec-2.1.3.2.2">2.1.3.2.2 The Elementary Dynamics </a></li>
+<li><a href="#sec-2.1.3.2.3">2.1.3.2.3 Equations of Evolution for the Macrovariables </a></li>
+</ul></li>
+</ul></li>
+</ul>
+</li>
+<li><a href="#sec-2.2">2.2 Selected Applications </a>
+<ul>
+<li><a href="#sec-2.2.1">2.2.1 Migration of Interacting Populations </a></li>
+<li><a href="#sec-2.2.2">2.2.2 Group Dynamics: The Rise and Fall of Interacting Social Groups </a></li>
+<li><a href="#sec-2.2.3">2.2.3 Opinion Formation on the Verge of Political Phase-Transitions </a></li>
+<li><a href="#sec-2.2.4">2.2.4 Quality Competition between High-Tech Firms </a></li>
+<li><a href="#sec-2.2.5">2.2.5 Dynamics of Conventional and Fashion Demand </a></li>
+<li><a href="#sec-2.2.6">2.2.6 Urban Evolution and Population Pressure </a></li>
+</ul>
+</li>
+<li><a href="#sec-2.3">2.3 Mathematical Methods </a>
+<ul>
+<li><a href="#sec-2.3.1">2.3.1 The Master Equation (307-337) </a>
+<ul>
+<li><a href="#sec-2.3.1.1">2.3.1.1 The Derivation of the Master Equation </a></li>
+<li><a href="#sec-2.3.1.2">2.3.1.2 The Master Equation for the Configuration Space </a></li>
+<li><a href="#sec-2.3.1.3">2.3.1.3 General Properties of the Solutions of the Master Equation </a></li>
+<li><a href="#sec-2.3.1.4">2.3.1.4 An Exact Time-Dependent Solution of a Special Configurational Master Equation </a></li>
+<li><a href="#sec-2.3.1.5">2.3.1.5 Detailed Balance and the Construction of the Solution of the Stationary Master Equation </a></li>
+</ul>
+</li>
+<li><a href="#sec-2.3.2">2.3.2 Evolution Equations for Meanvalues and Variances in Configuration Space </a></li>
+<li><a href="#sec-2.3.3">2.3.3 Stochastic Trajectories and Dynamic Equations for Quasi-Meanvalues </a></li>
+</ul></li>
+</ul>
+</li>
+<li><a href="#sec-3">3 White-2002 </a></li>
+<li><a href="#sec-4">4 Pentland-2014 </a></li>
+<li><a href="#sec-5">5 Helbing-2010 </a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Overview </h2>
+<div class="outline-text-2" id="text-1">
+
+<p>The following document consists of notes written in order
+to understand developments on the frontier of social 
+physics circa beginning of 2014.
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Weidlich-2002 </h2>
+<div class="outline-text-2" id="text-2">
+
+
+</div>
+
+<div id="outline-container-2.1" class="outline-3">
+<h3 id="sec-2.1"><span class="section-number-3">2.1</span> Structures and Modelling Concepts </h3>
+<div class="outline-text-3" id="text-2.1">
+
+
+</div>
+
+<div id="outline-container-2.1.1" class="outline-4">
+<h4 id="sec-2.1.1"><span class="section-number-4">2.1.1</span> The Structure of Reality Under Interdisciplinary Perspective </h4>
+<div class="outline-text-4" id="text-2.1.1">
+
+
+</div>
+
+<div id="outline-container-2.1.1.1" class="outline-5">
+<h5 id="sec-2.1.1.1"><span class="section-number-5">2.1.1.1</span> Systems and their Parts: The Stratification of Reality </h5>
+<div class="outline-text-5" id="text-2.1.1.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.1.2" class="outline-5">
+<h5 id="sec-2.1.1.2"><span class="section-number-5">2.1.1.2</span> Towards Explanations of System Structure: Reductionism vs. Holism </h5>
+<div class="outline-text-5" id="text-2.1.1.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.1.3" class="outline-5">
+<h5 id="sec-2.1.1.3"><span class="section-number-5">2.1.1.3</span> General System Theory, Synergetics, and Sociodynamics </h5>
+<div class="outline-text-5" id="text-2.1.1.3">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2.1.2" class="outline-4">
+<h4 id="sec-2.1.2"><span class="section-number-4">2.1.2</span> Quantitative Modelling in Social Science </h4>
+<div class="outline-text-4" id="text-2.1.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.3" class="outline-4">
+<h4 id="sec-2.1.3"><span class="section-number-4">2.1.3</span> The General Modelling Concept of Sociodynamics </h4>
+<div class="outline-text-4" id="text-2.1.3">
+
+
+</div>
+
+<div id="outline-container-2.1.3.1" class="outline-5">
+<h5 id="sec-2.1.3.1"><span class="section-number-5">2.1.3.1</span> The Modelling Purposes of Sociodynamics </h5>
+<div class="outline-text-5" id="text-2.1.3.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.3.2" class="outline-5">
+<h5 id="sec-2.1.3.2"><span class="section-number-5">2.1.3.2</span> The Steps of the Modelling Procedure </h5>
+<div class="outline-text-5" id="text-2.1.3.2">
+
+
+</div>
+
+<div id="outline-container-2.1.3.2.1" class="outline-6">
+<h6 id="sec-2.1.3.2.1"><span class="section-number-6">2.1.3.2.1</span> The Configuration Space of Macrovariables </h6>
+<div class="outline-text-6" id="text-2.1.3.2.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.3.2.2" class="outline-6">
+<h6 id="sec-2.1.3.2.2"><span class="section-number-6">2.1.3.2.2</span> The Elementary Dynamics </h6>
+<div class="outline-text-6" id="text-2.1.3.2.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.1.3.2.3" class="outline-6">
+<h6 id="sec-2.1.3.2.3"><span class="section-number-6">2.1.3.2.3</span> Equations of Evolution for the Macrovariables </h6>
+<div class="outline-text-6" id="text-2.1.3.2.3">
+
+</div>
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2.2" class="outline-3">
+<h3 id="sec-2.2"><span class="section-number-3">2.2</span> Selected Applications </h3>
+<div class="outline-text-3" id="text-2.2">
+
+
+</div>
+
+<div id="outline-container-2.2.1" class="outline-4">
+<h4 id="sec-2.2.1"><span class="section-number-4">2.2.1</span> Migration of Interacting Populations </h4>
+<div class="outline-text-4" id="text-2.2.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2.2" class="outline-4">
+<h4 id="sec-2.2.2"><span class="section-number-4">2.2.2</span> Group Dynamics: The Rise and Fall of Interacting Social Groups </h4>
+<div class="outline-text-4" id="text-2.2.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2.3" class="outline-4">
+<h4 id="sec-2.2.3"><span class="section-number-4">2.2.3</span> Opinion Formation on the Verge of Political Phase-Transitions </h4>
+<div class="outline-text-4" id="text-2.2.3">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2.4" class="outline-4">
+<h4 id="sec-2.2.4"><span class="section-number-4">2.2.4</span> Quality Competition between High-Tech Firms </h4>
+<div class="outline-text-4" id="text-2.2.4">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2.5" class="outline-4">
+<h4 id="sec-2.2.5"><span class="section-number-4">2.2.5</span> Dynamics of Conventional and Fashion Demand </h4>
+<div class="outline-text-4" id="text-2.2.5">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.2.6" class="outline-4">
+<h4 id="sec-2.2.6"><span class="section-number-4">2.2.6</span> Urban Evolution and Population Pressure </h4>
+<div class="outline-text-4" id="text-2.2.6">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2.3" class="outline-3">
+<h3 id="sec-2.3"><span class="section-number-3">2.3</span> Mathematical Methods </h3>
+<div class="outline-text-3" id="text-2.3">
+
+
+</div>
+
+<div id="outline-container-2.3.1" class="outline-4">
+<h4 id="sec-2.3.1"><span class="section-number-4">2.3.1</span> The Master Equation (307-337) </h4>
+<div class="outline-text-4" id="text-2.3.1">
+
+
+</div>
+
+<div id="outline-container-2.3.1.1" class="outline-5">
+<h5 id="sec-2.3.1.1"><span class="section-number-5">2.3.1.1</span> The Derivation of the Master Equation </h5>
+<div class="outline-text-5" id="text-2.3.1.1">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.1.2" class="outline-5">
+<h5 id="sec-2.3.1.2"><span class="section-number-5">2.3.1.2</span> The Master Equation for the Configuration Space </h5>
+<div class="outline-text-5" id="text-2.3.1.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.1.3" class="outline-5">
+<h5 id="sec-2.3.1.3"><span class="section-number-5">2.3.1.3</span> General Properties of the Solutions of the Master Equation </h5>
+<div class="outline-text-5" id="text-2.3.1.3">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.1.4" class="outline-5">
+<h5 id="sec-2.3.1.4"><span class="section-number-5">2.3.1.4</span> An Exact Time-Dependent Solution of a Special Configurational Master Equation </h5>
+<div class="outline-text-5" id="text-2.3.1.4">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.1.5" class="outline-5">
+<h5 id="sec-2.3.1.5"><span class="section-number-5">2.3.1.5</span> Detailed Balance and the Construction of the Solution of the Stationary Master Equation </h5>
+<div class="outline-text-5" id="text-2.3.1.5">
+
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-2.3.2" class="outline-4">
+<h4 id="sec-2.3.2"><span class="section-number-4">2.3.2</span> Evolution Equations for Meanvalues and Variances in Configuration Space </h4>
+<div class="outline-text-4" id="text-2.3.2">
+
+</div>
+
+</div>
+
+<div id="outline-container-2.3.3" class="outline-4">
+<h4 id="sec-2.3.3"><span class="section-number-4">2.3.3</span> Stochastic Trajectories and Dynamic Equations for Quasi-Meanvalues </h4>
+<div class="outline-text-4" id="text-2.3.3">
+
+</div>
+</div>
+</div>
+
+</div>
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> White-2002 </h2>
+<div class="outline-text-2" id="text-3">
+
+</div>
+
+</div>
+
+<div id="outline-container-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Pentland-2014 </h2>
+<div class="outline-text-2" id="text-4">
+
+</div>
+
+</div>
+
+<div id="outline-container-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Helbing-2010 </h2>
+<div class="outline-text-2" id="text-5">
+
+</div>
+</div>
+<div id="postamble">
+<p class="author"> Author: GW Dean
+<a href="mailto:gwdean@gmail.com">&lt;gwdean@gmail.com&gt;</a>
+</p>
+<p class="date"> Date: 2014-02-18 Tue</p>
+<p class="creator">HTML generated by org-mode 6.33x in emacs 23</p>
+</div>
+</div>
+</body>
+</html>
