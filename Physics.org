@@ -24,6 +24,10 @@ physics circa beginning of 2014.
 **** Towards Explanations of System Structure: Reductionism vs. Holism
 **** General System Theory, Synergetics, and Sociodynamics
 *** Quantitative Modelling in Social Science
+**** The Necessity of Qualitative Characterisations of Social Systems
+**** The Scope and Limitations of Quantitative Models
+**** The Feedback-Loop of Qualitative and Quantitative Thought
+**** Discussion of Critical Arguments about Quantitative Modeling in Social Science
 *** The General Modelling Concept of Sociodynamics
 **** The Modelling Purposes of Sociodynamics
 **** The Steps of the Modelling Procedure
@@ -32,11 +36,34 @@ physics circa beginning of 2014.
 ***** Equations of Evolution for the Macrovariables
 ** Selected Applications
 *** Migration of Interacting Populations
+**** Multiculturality and Migration
+**** The General Interregional Migratory Model
+**** The Case of Two Interacting Populations in Two Regions
+**** Deterministic Chaos in Migratory System
+**** Concrete Applications of Migration Theory
 *** Group Dynamics: The Rise and Fall of Interacting Social Groups
+**** Introduction
+**** The Design of the Model
+**** Simulation and Interpretation of Selected Scenarios
 *** Opinion Formation on the Verge of Political Phase-Transitions
+**** Remarks about Phase-Transitions
+**** The Minimal Quantitative Model
+**** Analytical Considerations
+**** Simulation and Interpretation of Selected Scenarios
 *** Quality Competition between High-Tech Firms
+**** Lines of Model Design
+**** The General Model of L Competing Firms
+**** The Case of Two Competing Firms
+**** Truncated Master Equations for Two Firms Case
 *** Dynamics of Conventional and Fashion Demand
+**** Lines of Model Design
+**** The General Model
+**** Demand Dynamics for Two Consumer Groups
 *** Urban Evolution and Population Pressure
+**** Lines of Model Design
+**** The General Integrated Model for Urban and Population Evolution
+**** A Concrete Implementation of the Model
+**** Solutions of the Concrete Model
 ** Mathematical Methods
 *** The Master Equation (307-337)
 **** The Derivation of the Master Equation
@@ -45,7 +72,13 @@ physics circa beginning of 2014.
 **** An Exact Time-Dependent Solution of a Special Configurational Master Equation
 **** Detailed Balance and the Construction of the Solution of the Stationary Master Equation
 *** Evolution Equations for Meanvalues and Variances in Configuration Space
+**** Translation Operators
+**** Derivation of Dynamic Equations for Meanvalues and Variances
+**** Limits of the Validity of Closed Meanvalue and Variance Equations
+**** An Exactly Solvable Example of Meanvalue- and Variance-Equations
 *** Stochastic Trajectories and Dynamic Equations for Quasi-Meanvalues
+**** Stochastic Trajectories and their Relation to the Probability Distribution
+**** Quasi-Meanvalues, their Dynamic Equations and their Relation to Stochastic Trajectories
 * White-2002
 * Pentland-2014
 * Helbing-2010
