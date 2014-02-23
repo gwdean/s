@@ -1,4 +1,4 @@
-# Math.r (Adapted from Crawley-2007.(195-277))
++# Math.r (Adapted from Crawley-2007.(195-277))
 
 ## Mathematical Functions (195-207)
 ### Logarithmic functions (196)
