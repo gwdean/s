@@ -31,3 +31,9 @@ arrows(0.42,0.53,0.35,0.46,length=0.1)
 
 axis(1,at=1,lab=expression(N[1]))
 axis(2,at=1,lab=expression(N[2]),las=1)
+
+# From phaseR
+library(phaseR)
+logistic.flowField <- flowField(logistic, x.lim = c(0, 5), y.lim = c(-1, 3),
+                                parameters = c(1, 2), points = 21, system = "one.dim",
+                                add = FALSE, xlab = "x", ylab = "y")

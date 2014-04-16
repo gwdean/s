@@ -1,0 +1,133 @@
+#+TITLE:     Notes on Probability
+#+AUTHOR:    GW Dean
+#+EMAIL:     gwdean@gmail.com
+#+DATE:      2014-04-16 Wed
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+These notes are based on Kenneth Baclawski's /Introduction to Probability with R/.
+The website associated with this book can be found here:
+
+http://www.ccs.neu.edu/home/kenb/
+
+http://stochas.com/index.html
+
+Probability is relatively recent, having emerged as a distinct mathematical
+theory about 350 years ago. (xiv)
+
+Theme 1. Thinking Probabilistically. One of the main purposes of the book is 
+to help students to learn to think probabilistically. (Un)fortunately, 
+the only way to achieve this is to learn the theorems of probability. As one masters the
+theorems, the probabilistic point of view begins to emerge, even
+as the specific theorems fade away: like the grin on the Cheshire Cat. (xiv)
+
+Theme 2. Stochastic Processes. Probability can be regarded as the study
+of random variables. Random variables never occur in isolation. They
+invariably arise within a context. The contexts are the stochastic
+processes. There are only a small number of major stochastic processes,
+from which all of the major probability distributions arise. Thoroughly
+understanding these processes and the relationships among them is an
+essential part of learning to think probabilistically. Processes can
+be combined and linked together to form other processes using mechanisms
+such as compounding, randomization and recursion. By analogy with 
+computer programs, we refer to these process combinations as
+stochastic programs. (xiv-xv)
+
+Theme 3. Reasoning Probabilistically. While processes permeate the 
+entire book, probabilistic reasoning emerges gradually. The full
+force of reasoning is felt in Chapters 5 and 6 on statistics and 
+conditional probability. (xv)
+
+Other Themes. (xv)
+- Transforms as a by-product of randomization.
+- Entropy, information and fundamental stochastic processes.
+- Markov Chains as a versatile tool for modeling natural phenomena. 
+
+Contributors to Probability Theory
+- INCLUDE DIAGRAM (xvi)
+
+* Sets, Events and Probability
+** The Algebra of Sets
+** The Bernoulli Sample Space
+** The Algebra of Multisets
+** The Concept of Probability
+** Properties of Probability Measures
+** Independent Events
+** The Bernoulli Process
+* Finite Processes
+** The Basic Models
+** Counting Rules
+** Computing Factorials
+** The Second Rule of Counting
+** Computing Probabilities
+* Discrete Random Variables
+** The Bernoulli Process: Tossing a Coin
+** The Bernoulli Process: Random Walk
+** Independence and Joint Distributions
+** Expectations
+** The Inclusion-Exclusion Principle
+* General Random Variables
+** Order Statistics
+** The Concept of a General Random Variable
+** Joint Distribution and Joint Density
+** Mean, Median and Mode
+** The Uniform Process
+** Table of Probability Distributions
+** Scale Invariance
+* Statistics and the Normal Distribution
+** Variance
+** Bell-Shaped Curve
+** The Central Limit Theorem
+** Significance Levels
+** Confidence Intervals
+** The Law of Large Numbers
+** The Cauchy Distribution
+* Conditional Probability
+** Discrete Conditional Probability
+** Gaps and Runs in the Bernoulli Process
+** Sequential Sampling
+** Continuous Conditional Probability
+** Conditional Densities
+** Gaps in the Uniform Process
+** The Algebra of Probability Distributions
+* The Poisson Process
+** Continuous Waiting Times
+** Comparing Bernoulli with Uniform
+** The Poisson Sample Space
+** Consistency of the Poisson Process
+* Randomization and Compound Processes
+** Randomized Bernoulli Process
+** Randomized Uniform Process
+** Randomized Poisson Process
+** Laplace Transforms and Renewal Processes
+** Proof of the Central Limit Theorem
+** Randomized Sampling Processes
+** Prior and Posterior Distributions
+** Reliability Theory
+** Bayesian Networks
+* Entropy and Information
+** Discrete Entropy
+** The Shannon Coding Theorem
+** Continuous Entropy
+** Proofs of Shannon's Theorems
+* Markov Chains
+** The Markov Property
+** The Ruin Problem
+** The Network of a Markov Chain
+** The Evolution of a Markov Chain
+** The Markov Sample Space
+** Invariant Distributions
+** Monte Carlo Markov Chains
+* Random Walks
+** Fluctuations of Random Walks
+** The Arcsine Law of Random Walks
+* Memorylessness and Scale-Invariance
+** Memorylessness
+** Self-Similarity

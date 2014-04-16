@@ -256,3 +256,289 @@ mean(bible)
 ## [1] 21.11
 ```
 
+Census #1
+
+```r
+reu <- 46500
+sim <- 59300
+gad <- 45650
+jud <- 74600
+iss <- 54400
+zeb <- 57400
+eph <- 40500
+man <- 32200
+ben <- 35400
+dan <- 62700
+ash <- 41500
+nap <- 53400
+tribes <- c(reu, sim, gad, jud, iss, zeb, eph, man, ben, dan, ash, nap)
+sum(tribes)
+```
+
+```
+## [1] 603550
+```
+
+```r
+tribes/sum(tribes)
+```
+
+```
+##  [1] 0.07704 0.09825 0.07564 0.12360 0.09013 0.09510 0.06710 0.05335
+##  [9] 0.05865 0.10389 0.06876 0.08848
+```
+
+```r
+plot(tribes)
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-51.png) 
+
+```r
+plot(sort(tribes))
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-52.png) 
+
+```r
+sort(tribes/sum(tribes))
+```
+
+```
+##  [1] 0.05335 0.05865 0.06710 0.06876 0.07564 0.07704 0.08848 0.09013
+##  [9] 0.09510 0.09825 0.10389 0.12360
+```
+
+```r
+
+Judah <- c(jud, iss, zeb)
+J <- sum(Judah)
+
+Reuben <- c(reu, sim, gad)
+R <- sum(Reuben)
+
+Ephraim <- c(eph, man, ben)
+E <- sum(Ephraim)
+
+Dan <- c(dan, ash, nap)
+D <- sum(Dan)
+
+divs <- c(J, R, E, D)
+sum(divs)
+```
+
+```
+## [1] 603550
+```
+
+```r
+divs/sum(divs)
+```
+
+```
+## [1] 0.3088 0.2509 0.1791 0.2611
+```
+
+```r
+
+barplot(divs)
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-53.png) 
+
+```r
+barplot(tribes)
+```
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-54.png) 
+
+Census #2
+
+```r
+reu2 <- 43730
+sim2 <- 22200
+gad2 <- 40500
+jud2 <- 76500
+iss2 <- 64300
+zeb2 <- 60500
+eph2 <- 32500
+man2 <- 52700
+ben2 <- 45600
+dan2 <- 64400
+ash2 <- 53400
+nap2 <- 45400
+tribes2 <- c(reu2, sim2, gad2, jud2, iss2, zeb2, eph2, man2, ben2, dan2, ash2, 
+    nap2)
+sum(tribes2)
+```
+
+```
+## [1] 601730
+```
+
+```r
+tribes2/sum(tribes2)
+```
+
+```
+##  [1] 0.07267 0.03689 0.06731 0.12713 0.10686 0.10054 0.05401 0.08758
+##  [9] 0.07578 0.10702 0.08874 0.07545
+```
+
+```r
+plot(tribes2)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-61.png) 
+
+```r
+plot(sort(tribes2))
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-62.png) 
+
+```r
+sort(tribes2/sum(tribes2))
+```
+
+```
+##  [1] 0.03689 0.05401 0.06731 0.07267 0.07545 0.07578 0.08758 0.08874
+##  [9] 0.10054 0.10686 0.10702 0.12713
+```
+
+```r
+
+Judah2 <- c(jud2, iss2, zeb2)
+J2 <- sum(Judah2)
+
+Reuben2 <- c(reu2, sim2, gad2)
+R2 <- sum(Reuben2)
+
+Ephraim2 <- c(eph2, man2, ben2)
+E2 <- sum(Ephraim2)
+
+Dan2 <- c(dan2, ash2, nap2)
+D2 <- sum(Dan2)
+
+divs2 <- c(J2, R2, E2, D2)
+sum(divs2)
+```
+
+```
+## [1] 601730
+```
+
+```r
+divs2/sum(divs2)
+```
+
+```
+## [1] 0.3345 0.1769 0.2174 0.2712
+```
+
+```r
+
+barplot(divs2)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-63.png) 
+
+```r
+barplot(tribes2)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-64.png) 
+
+```r
+
+sum(divs)/sum(divs2)
+```
+
+```
+## [1] 1.003
+```
+
+```r
+divs - divs2
+```
+
+```
+## [1] -14900  45020 -22700  -5600
+```
+
+```r
+tribes2 - tribes
+```
+
+```
+##  [1]  -2770 -37100  -5150   1900   9900   3100  -8000  20500  10200   1700
+## [11]  11900  -8000
+```
+
+```r
+plot(tribes2 - tribes)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-65.png) 
+
+```r
+barplot(tribes2 - tribes)
+```
+
+![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-66.png) 
+
+New Testament Divisions
+-----------------------
+
+
+```r
+par(mfrow = c(1, 1))
+
+Lk <- 47
+Mt <- 45
+Ac <- 44
+Jn <- 34
+Mk <- 30
+
+Rv <- 21
+Ro <- 19
+C1 <- 18
+He <- 15
+C2 <- 12
+
+Ga <- 7
+Ep <- 7
+J1 <- 6
+Ph <- 6
+Co <- 5
+T1 <- 5
+Jm <- 5
+P1 <- 5
+
+H1 <- 4
+T2 <- 4
+P2 <- 4
+H2 <- 3
+Tt <- 2
+Pm <- 2
+Ju <- 2
+J2 <- 1
+J3 <- 1
+
+Hvy <- c(Lk, Mt, Ac, Jn, Mk)
+Mid <- c(Rv, Ro, C1, He, C2)
+Lit <- c(Ga, Ep, J1, Ph, Co, T1, Jm, P1)
+Fly <- c(H1, T2, P2, H2, Tt, Pm, Ju, J2, J3)
+All <- c(Hvy, Mid, Lit, Fly)
+barplot(All)
+```
+
+![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
+
+```r
+sum(All)
+```
+
+```
+## [1] 354
+```

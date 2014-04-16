@@ -1,0 +1,25 @@
+# Notes on Probability
+## Russell (1948)
+Russell is used to provide some historical context
+to our understanding of probability.
+
+## Baclawski (2008)
+1. Sets, Events and Probability
+2. Finite Processes
+3. Discrete Random Variables
+4. General Random Variables
+5. Statistics and the Normal Distribution
+6. Conditional Probability
+7. The Poisson Process
+8. Randomization and Compound Processes
+9. Entropy and Information
+10. Markov Chains
+
+## Sources
+Russell (1948)
+Renyi (1970)
+Deming (1993)
+Deming (1982)
+Baclawski (2008)
+Pearl (2009)
+
