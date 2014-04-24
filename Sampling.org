@@ -1,0 +1,38 @@
+Notes on Deming's /Some Theory of Sampling/. (1950)
+* The Specification of the Reliability Required
+** The Planning of Surveys
+Sampling is the science and art of controlling and
+measuring the reliability of useful statistical
+information through the theory of probability. (2)
+
+The statistician's aim is efficiency--the most 
+information (smallest error) for the money. (3)
+
+The requirement of a plain statement of what is wanted
+(the /specification/ of the survey) is perhaps one of the
+greatest contributions to theoretical statistics. (3)
+
+A matured perpspective for the mathematical statistician
+is best gained through several years' experience under
+competent leadership, during which time his mathematical
+reading and research are expected to continue (4)
+** The Various Errors of a Survey
+* Some Elementary Theory for Design
+** Moments and Expected Values
+** Some Variances in Random Sampling
+** Multistage Sampling, Ratio-Estimates, and Choice of Sampling Unit
+** Allocation in Stratified Sampling
+** Distinction Between Enumerative and Analytic Studies
+** Control of the Risks in Acceptance Sampling
+* Some Theory for Analysis and Estimation of Precision
+** The Sample as a Basis for Action
+** Estimation of the Precision of a Sample
+* Applications of Some of the Foregoing Theory
+** Inventories by Sampling
+** A Population Sample for Greece
+* Some Further Theory for Design and Analysis
+** Detailed Study of Some Binomial and Related Distributions
+** The Gamma and the Beta Functions
+** Distribution of the Variance in Samples from a Normal Universe
+** Tests for Hypotheses in Normal Theory
+** The Distribution of the External and Internal Variances

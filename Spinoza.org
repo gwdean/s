@@ -2,29 +2,116 @@ Notes on Spinoza
 GW Dean
 
 * Ethics
-** Concerning God
-- 8 Definitions
-- 7 Axioms
-- 36 Propositions
-** Of the Nature and Origin of the Mind
-- 7 Definitions
-- 5 Axioms
-- 49 Propositions
-** Concerning the Origin and Nature of the Emotions
-- 3 Definitions
-- 2 Postulates
-- 59 Propositions
-- 48 Definitions of Emotions
-** Of Human Bondage, or the Nature of the Emotions
-- 8 Definitions
-- 1 Axiom
-- 72 Propositions
-- Appendix (32 Headings)
-** Of the Power of the Intellect, or of Human Freedom
-- 0 Definitions
-- 2 Axioms
-- 42 Propositions
-** Overall Structure (Definitions, Axioms, Propositions)
-- 26 Definitions
-- 15 Axioms
-- 247 Propositions
+** Concerning God (I)
+*** 8 Definitions (31)
+*** 7 Axioms (32)
+*** 36 Propositions (32-57)
+*** Appendix (57-62)
+** Of the Nature and Origin of the Mind (II)
+*** 7 Definitions (63-64)
+*** 5 Axioms (64)
+*** 49 Propositions (64-101)
+** Concerning the Origin and Nature of the Emotions (III)
+*** 3 Definitions (103)
+*** 2 Postulates (103)
+*** 59 Propositions (103-141)
+*** 48 Definitions of Emotions (141-151)
+** Of Human Bondage, or the Nature of the Emotions (IV)
+*** Preface (152-154)
+*** 8 Definitions (154-155)
+**** Good
+**** Bad
+**** Contingent
+**** Possible
+**** Conflicting Emotions
+**** Emotion Towards a Thing
+**** End
+**** Virtue (Power)
+*** 1 Axiom (155)
+*** 73 Propositions (155-195)
+*** Appendix (195-200)
+** Of the Power of the Intellect, or of Human Freedom (V)
+*** Preface (201-203)
+*** 2 Axioms (203)
+*** 42 Propositions (203-223)
+** Propositions Distribution
+36 49 59 72 42
+258 Total Propositions
+
+** Definitions Distribution
+8 7 3 8 0
+26 Total Definitions (plus 48 definitions of emotions)
+
+** Definitions of Emotions (141-151)
+*** Desire
+*** Pleasure
+*** Pain
+*** Wonder
+*** Contempt
+*** Love
+*** Hatred
+*** Inclination
+*** Aversion
+*** Devotion
+*** Derision
+*** Hope
+*** Fear
+*** Confidence
+*** Despair
+*** Joy
+*** Disappointment
+*** Pity
+*** Approbation
+*** Indignation
+*** Over-esteem
+*** Envy
+*** Compassion
+*** Self-contentment
+*** Humility
+*** Repentance
+*** Pride
+*** Self-abasement
+*** Honor
+*** Shame
+*** Longing
+*** Emulation
+*** Gratitude
+*** Benevolence
+*** Anger
+*** Revenge
+*** Cruelty
+*** Timidity
+*** Boldness
+*** Cowardice
+*** Consternation
+*** Courtesy (Politeness)
+*** Ambition
+*** Dissipation
+*** Drunkenness
+*** Avarice 
+*** Lust
+** Terminology (21-29)
+*** Essence and Existence
+*** In
+*** Substance
+*** Attribute
+*** God
+*** Mode
+*** Affection
+*** Sive or Seu
+*** Thing
+*** Follow (sequi)
+*** Nature
+*** Cause
+*** Idea
+*** Determine
+*** Explication
+*** In-so-far-as, to-that-extent
+*** Formal and Objective Essence
+*** Reality and Perfection
+*** Virtue
+*** Imagine
+*** Emotion
+*** To Act and To Suffer
+*** Pleasure and Pain
+*** Thought
