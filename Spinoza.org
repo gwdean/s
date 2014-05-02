@@ -1,9 +1,18 @@
-Notes on Spinoza
+Some Notes on Spinoza
 GW Dean
 
 * Ethics
 ** Concerning God (I)
 *** 8 Definitions (31)
+**** Self-Caused
+That whose essence involves existence.
+That whose nature can be conceived only as existing.
+**** Finite In Its Own Kind
+
+**** Substance
+**** Attribute
+**** Mode
+**** God
 *** 7 Axioms (32)
 *** 36 Propositions (32-57)
 *** Appendix (57-62)
@@ -44,18 +53,44 @@ GW Dean
 
 ** Definitions of Emotions (141-151)
 *** Desire
+Desire is the very essence of man in so far as his essence is conceived
+as determined to any action from any given affection of itself.
 *** Pleasure
+Pleasure is man's transition from a state of less perfection to a state
+of greater perfection.
 *** Pain
+Pain is man's transition from a state of greater perfection to a state
+of less perfection.
 *** Wonder
+Wonder is the thought of any thing on which the mind stays fixed
+because this particular thought has no connection with any others.
 *** Contempt
+Contempt is the imagining (imaginatio) of some thing that makes so
+little impact on the mind that the presence of the thing motivates
+the mind to think of what is not in the thing rather than of what is
+in the thing.
 *** Love
+Love is pleasure accompanied by the idea of an external cause.
 *** Hatred
+    Hatred is pain accompanied by the idea of an external cause.
 *** Inclination
+Inclination (propensio) is pleasure accompanied by the idea of
+a thing which is indirectly the cause of the pleasure.
 *** Aversion
+Aversion (aversio) is pain accompanied by the idea of a thing which
+is indirectly the cause of the pain.
 *** Devotion
+Devotion is love towards one at whom we wonder.
 *** Derision
+Derision is pleasure arising from our imagining that there
+is in the object of our hate something that we despise.
 *** Hope
+Hope is inconstant pleasure arising from the idea of a 
+thing future or past, of whose outcome we are in some
+doubt.
 *** Fear
+Fear is inconstant pain arising from the idea of a thing
+future or past, of whose outcome we are in some doubt.
 *** Confidence
 *** Despair
 *** Joy
@@ -115,3 +150,95 @@ GW Dean
 *** To Act and To Suffer
 *** Pleasure and Pain
 *** Thought
+* Letter 12 (On the Nature of the Infinite)
+Spinoza's /Letter 12/ is dated on 1663/04/20 and is 
+addressed to "the learned and wise Ludwig Meyer",
+who was a close friend of Spinoza and participated 
+in preparing Spinoza's writings for posthumous publication.
+
+In my copy of /Ethics/, Letter 12 comprises 4.5 pages from
+267-271, and consists of 15 paragraphs. Here is a quick overview
+of the Letter.
+
+Paragraphs 1 and 2 discuss the "question of the infinite"
+and some of the difficulties associated with answering this
+question. Before providing his answer, Spinoza will briefly
+explain four terms:
+
+- Substance
+- Mode
+- Eternity 
+- Duration
+
+The explanations of these terms and their interactions
+comprise the bulk of the letter, comprising paragraphs 3-13.
+Paragraph 14 discusses the proof of the existence of God
+by Rabbi Chasdai, and Paragraph 15 is a closing paragraph.
+These can be ignored for the time being, as the goal is
+to understand Spinoza's view of the infinite, which is
+contained in paragraphs 3-13.
+
+The major points about Substance are as follows:
+- Existence pertains to its essence.
+- There exists only one Substance of the same nature.
+- All Substance can be understood only as infinite.
+
+The affections of Substance are called Modes. The
+definition of Modes cannot involve existence. Therefore,
+even when they exist, we can conceive of them as not
+existing. The existence of Substance is of an entirely
+different kind from the existence of Modes.
+
+The difference between these two types of existence is the
+source of the difference between Eternity and Duration.
+Duration can only be applied to the Modes. The corresponding
+term for the existence of Substance is Eternity, that is,
+the infinite enjoyment of Existence, or of Being. 
+
+We can arbitrarily limit the Existence and Duration of
+Modes, but Eternity and Substance are conceivable only
+as infinite. Extended Substance cannot consists of parts.
+
+Although we have a strong natural tendency to divide
+extended Substance, rational analysis shows that extended
+Substance is infinite, indivisible, and one alone.
+
+Time arises to limit Duration and Measure arises to
+limit Quantity in such a way as to help us form images
+of them. 
+
+Measure, Time and Number are nothing other than modes
+of thinking, or rather, modes of the imagination.
+
+There are many things that can in no way be apprehended by
+the imagination but only by the intellect, such as 
+Substance, Eternity and the like.
+
+If someone conceives of Duration in an abstracted way,
+and, confusing it with Time, begins dividing it into
+parts, he can never understand how, for instance, an
+hour can pass by. 
+
+Number, Time, and Measure, being merely aids to the
+imagination, cannot be infinite, for in that case
+Number would not be number, nor Measure measure,
+nor Time time.
+
+Number is not applicable to the space between two
+non-concentric circles.
+
+Certain things are infinite by their own nature and
+cannot in any way be conceived as finite, while other
+things are infinite by virtue of the cause in which
+they have their being, and when the latter are conceived
+in abstraction, they can be divided into parts and
+be regarded as finite. Also there are things called
+infinite (or indefinite) because they cannot be 
+accurately expressed by any number, while yet being
+conceivable as greater or less.
+
+To sum up, Spinoza believes that his explanation
+of the Infinite is complete, unless he is mistaken.
+
+
+

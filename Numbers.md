@@ -530,10 +530,11 @@ Mid <- c(Rv, Ro, C1, He, C2)
 Lit <- c(Ga, Ep, J1, Ph, Co, T1, Jm, P1)
 Fly <- c(H1, T2, P2, H2, Tt, Pm, Ju, J2, J3)
 All <- c(Hvy, Mid, Lit, Fly)
+
 barplot(All)
 ```
 
-![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-7.png) 
+![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-71.png) 
 
 ```r
 sum(All)
@@ -542,3 +543,70 @@ sum(All)
 ```
 ## [1] 354
 ```
+
+```r
+All/sum(All)
+```
+
+```
+##  [1] 0.132768 0.127119 0.124294 0.096045 0.084746 0.059322 0.053672
+##  [8] 0.050847 0.042373 0.033898 0.019774 0.019774 0.016949 0.016949
+## [15] 0.014124 0.014124 0.014124 0.014124 0.011299 0.011299 0.011299
+## [22] 0.008475 0.005650 0.005650 0.005650 0.002825 0.002825
+```
+
+```r
+
+sum(Hvy)/sum(All)
+```
+
+```
+## [1] 0.565
+```
+
+```r
+sum(Mid)/sum(All)
+```
+
+```
+## [1] 0.2401
+```
+
+```r
+sum(Lit)/sum(All)
+```
+
+```
+## [1] 0.1299
+```
+
+```r
+sum(Fly)/sum(All)
+```
+
+```
+## [1] 0.06497
+```
+
+```r
+
+sH <- sum(Hvy)
+sM <- sum(Mid)
+sL <- sum(Lit)
+sF <- sum(Fly)
+
+sA <- c(sH, sM, sL, sF)
+barplot(sA)
+```
+
+![plot of chunk unnamed-chunk-7](figure/unnamed-chunk-72.png) 
+
+```r
+sA
+```
+
+```
+## [1] 200  85  46  23
+```
+
+
