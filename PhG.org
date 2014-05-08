@@ -14,17 +14,27 @@ Notes on Hegel's Phenomenology of Spirit (Geist)
 | Absolute Knowing   | 479-494 |  16 |  788-808 |  21 |
 |--------------------+---------+-----+----------+-----|
          
-* Preface (1-45)
-* Introduction (46-57)
-* Consciousness (58-103)
-* Self-Consciousness (104-138)
-* Reason (139-262)
-* Spirit (263-409)
+* Preface (1-45) [1-72]
+* Introduction (46-57) [73-89]
+* Consciousness (58-103) [90-165]
+** Sense-Certainty: Or the 'This' and 'Meaning'
+** Perception: Or the Thing and Deception
+** Force and the Understanding: Appearance and the Supersensible World
+* Self-Consciousness (104-138) [166-230]
+** The Truth of Self-Certainty
+*** Independence and dependence of self-consciousness: Lordship and Bondage
+*** Freedom of self-consciousness: Stoicism, Scepticism, and the Unhappy Consciousness
+* Reason (139-262) [231-437]
+** The Certainty and Truth of Reason
+*** Observing Reason
+*** The actualization of rational self-consciousness through its own activity
+*** Individuality which takes itself to be real in and for itself
+* Spirit (263-409) [438-671]
 ** Spirit
 *** The /true/ Spirit. The ethical order
 *** Self-alienated Spirit. Culture
 *** Spirit that is certain of itself. Morality
-* Religion (410-478)
+* Religion (410-478) [672-797]
 ** Religion (410-416) [672-683]
 *** Natural Religion 
 **** God as Light
@@ -35,10 +45,36 @@ Notes on Hegel's Phenomenology of Spirit (Geist)
 **** The living work of art
 **** The spiritual work of art
 *** The revealed religion
-* Absolute Knowing (479-494)
+* Absolute Knowing (479-494) [788-808]
 ** Absolute Knowing
 * Commentaries
 ** Houlgate-2013 (Kindle Version)
+In this text, Houlgate focuses on the first four chapters of the
+/PhG/: Sense-Certainty, Perception, Force/Understanding, The Truth of Self-Certainty.
+The hope of Houlgate is that after learning how Houlgate interprets
+the first 4 chapters, the students can then "fill in the missing details"
+from chapters 5 through 8 by themselves.
+
+The aim throughout the work is to explain how the argument of the /PhG/ proceeds,
+and why it might be deemed successful. 
+
+Houlgate uses the Miller translation as his main text (in addition to the German).
+Houlgate amends the translation whenever he finds it necessary.
+*** Context
+**** Speculative Logic and Kantian Critique
+**** The Role of Phenomenology
+**** Phenomenology, Immanence and Scepticism
+**** Logic in Phenomenology
+*** Overview of Themes
+**** Consciousness and its Immanent Criterion
+**** The Experience of Consciousness
+**** The Object of Experience
+**** The Role of the 'We'
+**** The End and the Beginning of the Phenomenology
+*** Reading the Text
+**** Consciousness
+***** Sense-certainty
+***** Perception (1037)
 Such a this that continues beyond itself in its negation
 Hegel calls a 'universal'. The object of perception is
 thus a sensuous universal--red,green,hot,cold,etc. (1058)
@@ -61,4 +97,18 @@ If you spell out what it means for the truth, as object
 of consciousness, to be that-which-is-NOT-just-the-object-
 of-immediate-certainty, what you get first are things
 with properties. (1102)
-
+***** Force and Understanding (1297)
+**** Self-Consciousness
+***** Desire and Recognition
+***** The Life and Death Struggle of the Master-Slave Relation
+***** Stoicism, Scepticism and the Unhappy Consciousness
+**** Reason
+**** Spirit
+***** True Spirit
+***** Self-Alienated Spirit
+***** Self-Certain Spirit
+**** Religion
+***** Natural Religion
+***** The Religion of Art
+***** Manifest Religion
+**** Absolute Knowing

@@ -1,3 +1,19 @@
+#+TITLE:     Some Notes on Quality
+#+AUTHOR:    GW Dean
+#+EMAIL:     gwdean@gmail.com
+#+DATE:      2014-05-08 Thu
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+
+* Deming's 14 Points
 * System of Profound Knowledge
 The System of Profound Knowledge is elaborated
 in Deming's /The New Economics/. In November 1993 
@@ -20,7 +36,25 @@ for more knowledge. Deming's 14 Points for Management
 profound knowledge, for transformation from the 
 present style of management to one of optimization." (xvi)
 
-
+* Quality Engineering
+* Juran
+** Juran-1999
+* Knowledge Representation
+** Sowa-1999
+* Statistical Texts
+** Deming-1950
+** Renyi-1970
+** Crawley-2009
+** Pearl-2009
+* Quality in the Social Sciences
+** Social Physics
+** Causal Influence
+** Identity and Control
+** Social Network Analysis
+* Historical Systems
+** Shankara-800
+** Spinoza-1678
+** Hegel-1816
 * References
 Baclawski (2008)
 Christensen, et. al (2007)
